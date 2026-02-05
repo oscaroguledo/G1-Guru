@@ -3,7 +3,7 @@
     "id": 1,
     "category": "road_signs",
     "question": "What does this sign indicate?",
-    "image": "assets/images/Blue_semi_truck.jpg",
+    "image": "assets/images/sign-000.jpg",
     "options": [
       "Stop completely",
       "Yield to traffic",
@@ -1269,7 +1269,7 @@
     "id": 103,
     "category": "road_signs",
     "question": "A white rectangular sign with a red circle and slash over a horn means:",
-    "image": "assets/images/sign-042.jpg",
+    "image": "assets/images/sign-008.jpg",
     "options": [
       "No honking",
       "Honk to warn",
@@ -1282,7 +1282,7 @@
     "id": 104,
     "category": "road_signs",
     "question": "A yellow diamond sign showing a car and a fallen rock means:",
-    "image": "assets/images/sign-043.jpg",
+    "image": "assets/images/sign-042.jpg",
     "options": [
       "Falling rocks",
       "Slippery road",
@@ -1295,7 +1295,7 @@
     "id": 105,
     "category": "road_signs",
     "question": "A yellow diamond sign with a side road entering from the right means:",
-    "image": "assets/images/sign-044.jpg",
+    "image": "assets/images/sign-043.jpg",
     "options": [
       "Side road ahead on the right",
       "Right lane ends",
@@ -1308,7 +1308,7 @@
     "id": 106,
     "category": "road_signs",
     "question": "A yellow diamond sign showing a T-intersection means:",
-    "image": "assets/images/sign-045.jpg",
+    "image": "assets/images/sign-044.jpg",
     "options": [
       "T-intersection ahead",
       "Road ends",
@@ -1321,7 +1321,7 @@
     "id": 107,
     "category": "road_signs",
     "question": "A yellow diamond sign with a traffic circle symbol indicates:",
-    "image": "assets/images/sign-046.jpg",
+    "image": "assets/images/sign-019.jpg",
     "options": [
       "Roundabout ahead",
       "Detour",
@@ -1334,7 +1334,7 @@
     "id": 108,
     "category": "road_signs",
     "question": "A yellow diamond sign with a lane narrowing on both sides means:",
-    "image": "assets/images/sign-047.jpg",
+    "image": "assets/images/sign-045.jpg",
     "options": [
       "Road narrows",
       "Bridge ahead",
@@ -1347,7 +1347,7 @@
     "id": 109,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and bumps means:",
-    "image": "assets/images/sign-048.jpg",
+    "image": "assets/images/sign-046.jpg",
     "options": [
       "Bump or rough road ahead",
       "Truck inspection ahead",
@@ -1360,7 +1360,7 @@
     "id": 110,
     "category": "road_signs",
     "question": "A yellow diamond sign showing a bicycle and a vehicle means:",
-    "image": "assets/images/sign-049.jpg",
+    "image": "assets/images/sign-047.jpg",
     "options": [
       "Bicycles share the road",
       "Bicycles prohibited",
@@ -1373,7 +1373,7 @@
     "id": 111,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and a wind gust symbol means:",
-    "image": "assets/images/sign-050.jpg",
+    "image": "assets/images/sign-048.jpg",
     "options": [
       "Strong crosswinds",
       "Low clearance",
@@ -1386,7 +1386,7 @@
     "id": 112,
     "category": "road_signs",
     "question": "An orange sign with the words ROAD CLOSED means:",
-    "image": "assets/images/sign-051.jpg",
+    "image": "assets/images/sign-049.jpg",
     "options": [
       "Road closed ahead",
       "Detour ahead",
@@ -1399,7 +1399,7 @@
     "id": 113,
     "category": "road_signs",
     "question": "An orange sign with a left arrow and the words DETOUR means:",
-    "image": "assets/images/sign-052.jpg",
+    "image": "assets/images/sign-050.jpg",
     "options": [
       "Follow detour to the left",
       "Left turn only",
@@ -1412,7 +1412,7 @@
     "id": 114,
     "category": "road_signs",
     "question": "A yellow diamond sign with two lanes and a downward arrow over the left lane means:",
-    "image": "assets/images/sign-053.jpg",
+    "image": "assets/images/sign-051.jpg",
     "options": [
       "Left lane ends",
       "Keep left",
@@ -1425,7 +1425,7 @@
     "id": 115,
     "category": "road_signs",
     "question": "A white rectangular sign with the words KEEP RIGHT means:",
-    "image": "assets/images/sign-054.jpg",
+    "image": "assets/images/sign-052.jpg",
     "options": [
       "Stay to the right of the divider",
       "Right turn only",
@@ -1438,7 +1438,7 @@
     "id": 116,
     "category": "road_signs",
     "question": "A yellow diamond sign with a traffic lane merging from the right means:",
-    "image": "assets/images/sign-055.jpg",
+    "image": "assets/images/sign-053.jpg",
     "options": [
       "Merge from right",
       "Right lane ends",
@@ -1451,7 +1451,7 @@
     "id": 117,
     "category": "road_signs",
     "question": "A white rectangular sign with black diagonal stripes means:",
-    "image": "assets/images/sign-056.jpg",
+    "image": "assets/images/sign-054.jpg",
     "options": [
       "Keep right of the marker",
       "Keep left of the marker",
@@ -1464,7 +1464,7 @@
     "id": 118,
     "category": "road_signs",
     "question": "A yellow diamond sign with a curve and a suggested speed means:",
-    "image": "assets/images/sign-057.jpg",
+    "image": "assets/images/sign-055.jpg",
     "options": [
       "Advisory speed for the curve",
       "Maximum speed limit",
@@ -1477,7 +1477,7 @@
     "id": 119,
     "category": "road_signs",
     "question": "A white rectangular sign with a black arrow and the word DIVERSION means:",
-    "image": "assets/images/sign-058.jpg",
+    "image": "assets/images/sign-056.jpg",
     "options": [
       "Temporary route change",
       "Detour for trucks only",
@@ -1490,7 +1490,7 @@
     "id": 120,
     "category": "road_signs",
     "question": "A yellow diamond sign with a double arrow pointing left and right means:",
-    "image": "assets/images/sign-059.jpg",
+    "image": "assets/images/sign-057.jpg",
     "options": [
       "Road ends, turn left or right",
       "Two-way traffic",
@@ -1503,7 +1503,7 @@
     "id": 121,
     "category": "road_signs",
     "question": "A yellow diamond sign with a symbol of traffic merging from the left means:",
-    "image": "assets/images/sign-060.jpg",
+    "image": "assets/images/sign-058.jpg",
     "options": [
       "Merge from left",
       "Left lane ends",
@@ -1516,7 +1516,7 @@
     "id": 122,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and a bump symbol means:",
-    "image": "assets/images/sign-061.jpg",
+    "image": "assets/images/sign-059.jpg",
     "options": [
       "Rough road ahead",
       "Truck route",
@@ -1529,7 +1529,7 @@
     "id": 123,
     "category": "road_signs",
     "question": "A white rectangular sign with the word MAXIMUM and a number indicates:",
-    "image": "assets/images/sign-062.jpg",
+    "image": "assets/images/sign-060.jpg",
     "options": [
       "Maximum speed limit",
       "Minimum speed limit",
@@ -1542,7 +1542,7 @@
     "id": 124,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and water spray indicates:",
-    "image": "assets/images/sign-063.jpg",
+    "image": "assets/images/sign-061.jpg",
     "options": [
       "Slippery bridge",
       "Bridge narrows",
@@ -1555,7 +1555,7 @@
     "id": 125,
     "category": "road_signs",
     "question": "A yellow diamond sign showing a traffic lane shifting means:",
-    "image": "assets/images/sign-064.jpg",
+    "image": "assets/images/sign-062.jpg",
     "options": [
       "Lane shift ahead",
       "Lane ends",
@@ -1568,7 +1568,7 @@
     "id": 126,
     "category": "road_signs",
     "question": "An orange sign with a flagger symbol means:",
-    "image": "assets/images/sign-065.jpg",
+    "image": "assets/images/sign-063.jpg",
     "options": [
       "Flagger ahead",
       "Police checkpoint",
@@ -1581,7 +1581,7 @@
     "id": 127,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and a low bridge means:",
-    "image": "assets/images/sign-066.jpg",
+    "image": "assets/images/sign-064.jpg",
     "options": [
       "Low clearance ahead",
       "Bridge narrows",
@@ -1594,7 +1594,7 @@
     "id": 128,
     "category": "road_signs",
     "question": "A white rectangular sign with a black arrow pointing down above the left lane means:",
-    "image": "assets/images/sign-067.jpg",
+    "image": "assets/images/sign-065.jpg",
     "options": [
       "Left lane only",
       "Left lane ends",
@@ -1607,7 +1607,7 @@
     "id": 129,
     "category": "road_signs",
     "question": "A yellow diamond sign with a school bus symbol means:",
-    "image": "assets/images/sign-068.jpg",
+    "image": "assets/images/sign-066.jpg",
     "options": [
       "School bus stop ahead",
       "No school buses",
@@ -1620,7 +1620,7 @@
     "id": 130,
     "category": "road_signs",
     "question": "A yellow diamond sign with a person in a wheelchair means:",
-    "image": "assets/images/sign-069.jpg",
+    "image": "assets/images/sign-067.jpg",
     "options": [
       "Disabled crossing area",
       "Hospital ahead",
@@ -1993,7 +1993,7 @@
     "id": 161,
     "category": "road_signs",
     "question": "A yellow diamond sign with a pedestrian and a downward arrow means:",
-    "image": "assets/images/sign-070.jpg",
+    "image": "assets/images/sign-068.jpg",
     "options": [
       "Pedestrian crossing ahead",
       "Playground zone",
@@ -2006,7 +2006,7 @@
     "id": 162,
     "category": "road_signs",
     "question": "A yellow diamond sign showing a truck climbing a hill means:",
-    "image": "assets/images/sign-071.jpg",
+    "image": "assets/images/sign-041.jpg",
     "options": [
       "Steep hill ahead",
       "Truck route only",
@@ -2019,7 +2019,7 @@
     "id": 163,
     "category": "road_signs",
     "question": "A white sign with a red circle and slash over a bicycle means:",
-    "image": "assets/images/sign-072.jpg",
+    "image": "assets/images/sign-069.jpg",
     "options": [
       "No bicycles",
       "Bicycle crossing",
@@ -2032,7 +2032,7 @@
     "id": 164,
     "category": "road_signs",
     "question": "A yellow diamond sign showing a truck and a falling load means:",
-    "image": "assets/images/sign-073.jpg",
+    "image": "assets/images/sign-070.jpg",
     "options": [
       "Trucks entering or crossing",
       "Truck lane only",
@@ -2045,7 +2045,7 @@
     "id": 165,
     "category": "road_signs",
     "question": "A yellow diamond sign with a car and a plus sign intersection means:",
-    "image": "assets/images/sign-074.jpg",
+    "image": "assets/images/sign-071.jpg",
     "options": [
       "Intersection ahead",
       "Road ends",
@@ -2058,7 +2058,7 @@
     "id": 166,
     "category": "road_signs",
     "question": "A yellow diamond sign with a Y-shaped arrow means:",
-    "image": "assets/images/sign-075.jpg",
+    "image": "assets/images/sign-072.jpg",
     "options": [
       "Y-intersection ahead",
       "Road ends",
@@ -2071,7 +2071,7 @@
     "id": 167,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and a bridge symbol means:",
-    "image": "assets/images/sign-076.jpg",
+    "image": "assets/images/sign-073.jpg",
     "options": [
       "Bridge ahead",
       "Bridge closed",
@@ -2084,7 +2084,7 @@
     "id": 168,
     "category": "road_signs",
     "question": "A yellow diamond sign with a car and rocks on the road means:",
-    "image": "assets/images/sign-077.jpg",
+    "image": "assets/images/sign-074.jpg",
     "options": [
       "Loose gravel",
       "Slippery road",
@@ -2097,7 +2097,7 @@
     "id": 169,
     "category": "road_signs",
     "question": "A yellow diamond sign with a car and a bump symbol means:",
-    "image": "assets/images/sign-078.jpg",
+    "image": "assets/images/sign-075.jpg",
     "options": [
       "Dip ahead",
       "Bump ahead",
@@ -2110,7 +2110,7 @@
     "id": 170,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and an S-curve means:",
-    "image": "assets/images/sign-079.jpg",
+    "image": "assets/images/sign-026.jpg",
     "options": [
       "Winding road ahead",
       "Truck route only",
@@ -2123,7 +2123,7 @@
     "id": 171,
     "category": "road_signs",
     "question": "A white sign with a red circle and slash over a straight arrow means:",
-    "image": "assets/images/sign-080.jpg",
+    "image": "assets/images/sign-076.jpg",
     "options": [
       "No straight through",
       "Go straight only",
@@ -2136,7 +2136,7 @@
     "id": 172,
     "category": "road_signs",
     "question": "A yellow diamond sign with a crossbuck symbol means:",
-    "image": "assets/images/sign-081.jpg",
+    "image": "assets/images/sign-077.jpg",
     "options": [
       "Railway crossing ahead",
       "Stop sign ahead",
@@ -2149,7 +2149,7 @@
     "id": 173,
     "category": "road_signs",
     "question": "A white rectangular sign with a black arrow and the word DETOUR means:",
-    "image": "assets/images/sign-082.jpg",
+    "image": "assets/images/sign-078.jpg",
     "options": [
       "Follow a detour route",
       "One-way traffic",
@@ -2162,7 +2162,7 @@
     "id": 174,
     "category": "road_signs",
     "question": "An orange sign with the words LANE CLOSED means:",
-    "image": "assets/images/sign-083.jpg",
+    "image": "assets/images/sign-079.jpg",
     "options": [
       "Lane closed ahead",
       "Road closed",
@@ -2175,7 +2175,7 @@
     "id": 175,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and a downward arrow means:",
-    "image": "assets/images/sign-084.jpg",
+    "image": "assets/images/sign-080.jpg",
     "options": [
       "Steep downgrade ahead",
       "Truck lane only",
@@ -2188,7 +2188,7 @@
     "id": 176,
     "category": "road_signs",
     "question": "A white sign with a red circle and slash over a pedestrian means:",
-    "image": "assets/images/sign-085.jpg",
+    "image": "assets/images/sign-081.jpg",
     "options": [
       "No pedestrians",
       "Pedestrian crossing",
@@ -2201,7 +2201,7 @@
     "id": 177,
     "category": "road_signs",
     "question": "A yellow diamond sign showing a traffic lane added from the right means:",
-    "image": "assets/images/sign-086.jpg",
+    "image": "assets/images/sign-082.jpg",
     "options": [
       "Lane added on the right",
       "Lane ends",
@@ -2214,7 +2214,7 @@
     "id": 178,
     "category": "road_signs",
     "question": "A white rectangular sign with the words RIGHT LANE MUST TURN RIGHT means:",
-    "image": "assets/images/sign-087.jpg",
+    "image": "assets/images/sign-083.jpg",
     "options": [
       "Right lane must turn right",
       "Right turn optional",
@@ -2227,7 +2227,7 @@
     "id": 179,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and a bounce symbol means:",
-    "image": "assets/images/sign-088.jpg",
+    "image": "assets/images/sign-084.jpg",
     "options": [
       "Uneven pavement ahead",
       "Truck inspection",
@@ -2240,7 +2240,7 @@
     "id": 180,
     "category": "road_signs",
     "question": "A yellow diamond sign with a traffic lane shift to the left means:",
-    "image": "assets/images/sign-089.jpg",
+    "image": "assets/images/sign-085.jpg",
     "options": [
       "Lane shift left",
       "Left lane ends",
@@ -2253,7 +2253,7 @@
     "id": 181,
     "category": "road_signs",
     "question": "A yellow diamond sign with a traffic lane shift to the right means:",
-    "image": "assets/images/sign-090.jpg",
+    "image": "assets/images/sign-086.jpg",
     "options": [
       "Lane shift right",
       "Right lane ends",
@@ -2266,7 +2266,7 @@
     "id": 182,
     "category": "road_signs",
     "question": "A yellow diamond sign with a symbol of a car entering a highway means:",
-    "image": "assets/images/sign-091.jpg",
+    "image": "assets/images/sign-087.jpg",
     "options": [
       "Entrance ramp ahead",
       "Exit only",
@@ -2279,7 +2279,7 @@
     "id": 183,
     "category": "road_signs",
     "question": "A white rectangular sign with black arrows pointing both directions means:",
-    "image": "assets/images/sign-092.jpg",
+    "image": "assets/images/sign-088.jpg",
     "options": [
       "Center lane for left turns in both directions",
       "Two-way traffic",
@@ -2292,7 +2292,7 @@
     "id": 184,
     "category": "road_signs",
     "question": "A yellow diamond sign with a truck and a scale symbol means:",
-    "image": "assets/images/sign-093.jpg",
+    "image": "assets/images/sign-089.jpg",
     "options": [
       "Weigh station ahead",
       "Truck route only",
@@ -2305,7 +2305,7 @@
     "id": 185,
     "category": "road_signs",
     "question": "A white rectangular sign with a black arrow and the word EXIT means:",
-    "image": "assets/images/sign-094.jpg",
+    "image": "assets/images/sign-090.jpg",
     "options": [
       "Exit only lane",
       "Lane ends",
@@ -2318,7 +2318,7 @@
     "id": 186,
     "category": "road_signs",
     "question": "A yellow diamond sign with a signal and a pedestrian means:",
-    "image": "assets/images/sign-095.jpg",
+    "image": "assets/images/sign-091.jpg",
     "options": [
       "Pedestrian-controlled signal ahead",
       "School zone",
@@ -2331,7 +2331,7 @@
     "id": 187,
     "category": "road_signs",
     "question": "A white rectangular sign with a red circle and slash over a truck means:",
-    "image": "assets/images/sign-096.jpg",
+    "image": "assets/images/sign-092.jpg",
     "options": [
       "No trucks",
       "Truck route only",
@@ -2344,7 +2344,7 @@
     "id": 188,
     "category": "road_signs",
     "question": "A yellow diamond sign with a snowflake and car means:",
-    "image": "assets/images/sign-097.jpg",
+    "image": "assets/images/sign-093.jpg",
     "options": [
       "Icy road possible",
       "Chains required",
@@ -2357,7 +2357,7 @@
     "id": 189,
     "category": "road_signs",
     "question": "A white rectangular sign with the word MAXIMUM and a truck symbol means:",
-    "image": "assets/images/sign-098.jpg",
+    "image": "assets/images/sign-094.jpg",
     "options": [
       "Truck maximum speed limit",
       "Truck minimum speed",
@@ -2370,7 +2370,7 @@
     "id": 190,
     "category": "road_signs",
     "question": "A yellow diamond sign with a car and water waves means:",
-    "image": "assets/images/sign-099.jpg",
+    "image": "assets/images/sign-095.jpg",
     "options": [
       "Flooded or water on road",
       "Slippery when wet",
@@ -2743,7 +2743,7 @@
     "id": 221,
     "category": "road_signs",
     "question": "A red sign that says WRONG WAY means:",
-    "image": "assets/images/sign-100.jpg",
+    "image": "assets/images/sign-096.jpg",
     "options": [
       "You are driving in the wrong direction",
       "You may proceed",
@@ -2756,7 +2756,7 @@
     "id": 222,
     "category": "road_signs",
     "question": "A sign saying NO RIGHT TURN ON RED means:",
-    "image": "assets/images/sign-101.jpg",
+    "image": "assets/images/sign-097.jpg",
     "options": [
       "Right turns are prohibited when the light is red",
       "Right turn is required",
@@ -2769,7 +2769,7 @@
     "id": 223,
     "category": "road_signs",
     "question": "A MINIMUM speed sign means:",
-    "image": "assets/images/sign-102.jpg",
+    "image": "assets/images/sign-098.jpg",
     "options": [
       "Do not drive slower than the posted speed",
       "Maximum speed permitted",
@@ -2782,7 +2782,7 @@
     "id": 224,
     "category": "road_signs",
     "question": "A SPEED LIMIT ENDS sign means:",
-    "image": "assets/images/sign-103.jpg",
+    "image": "assets/images/sign-099.jpg",
     "options": [
       "End of the posted speed limit",
       "New lower speed limit begins",
@@ -2795,7 +2795,7 @@
     "id": 225,
     "category": "road_signs",
     "question": "A SLOWER TRAFFIC KEEP RIGHT sign means:",
-    "image": "assets/images/sign-104.jpg",
+    "image": "assets/images/sign-100.jpg",
     "options": [
       "Slower vehicles must stay in the right lane",
       "Keep right only when turning",
@@ -2808,7 +2808,7 @@
     "id": 226,
     "category": "road_signs",
     "question": "A PAVEMENT ENDS sign warns:",
-    "image": "assets/images/sign-105.jpg",
+    "image": "assets/images/sign-101.jpg",
     "options": [
       "The paved surface ends ahead",
       "Road narrows",
@@ -2821,7 +2821,7 @@
     "id": 227,
     "category": "road_signs",
     "question": "A FARM MACHINERY sign warns:",
-    "image": "assets/images/sign-106.jpg",
+    "image": "assets/images/sign-102.jpg",
     "options": [
       "Farm vehicles may enter or cross",
       "No farm vehicles",
@@ -2834,7 +2834,7 @@
     "id": 228,
     "category": "road_signs",
     "question": "A SNOWMOBILE CROSSING sign warns:",
-    "image": "assets/images/sign-107.jpg",
+    "image": "assets/images/sign-103.jpg",
     "options": [
       "Snowmobiles may cross the road",
       "No snowmobiles",
@@ -2847,7 +2847,7 @@
     "id": 229,
     "category": "road_signs",
     "question": "A PLAYGROUND ZONE sign means:",
-    "image": "assets/images/sign-108.jpg",
+    "image": "assets/images/sign-104.jpg",
     "options": [
       "Children may be present",
       "School bus stop ahead",
@@ -2860,7 +2860,7 @@
     "id": 230,
     "category": "road_signs",
     "question": "A SCHOOL CROSSING sign means:",
-    "image": "assets/images/sign-109.jpg",
+    "image": "assets/images/sign-105.jpg",
     "options": [
       "School crossing ahead",
       "School bus stop only",
@@ -2873,7 +2873,7 @@
     "id": 231,
     "category": "road_signs",
     "question": "A blue sign with an H indicates:",
-    "image": "assets/images/sign-110.jpg",
+    "image": "assets/images/sign-106.jpg",
     "options": [
       "Hospital nearby",
       "Hotel",
@@ -2886,7 +2886,7 @@
     "id": 232,
     "category": "road_signs",
     "question": "A blue sign showing GAS/FOOD/LODGING means:",
-    "image": "assets/images/sign-111.jpg",
+    "image": "assets/images/sign-107.jpg",
     "options": [
       "Services available",
       "Tourist route",
@@ -2899,7 +2899,7 @@
     "id": 233,
     "category": "road_signs",
     "question": "A blue REST AREA sign means:",
-    "image": "assets/images/sign-112.jpg",
+    "image": "assets/images/sign-108.jpg",
     "options": [
       "Rest area ahead",
       "Hospital ahead",
@@ -2912,7 +2912,7 @@
     "id": 234,
     "category": "road_signs",
     "question": "A blue AIRPORT sign indicates:",
-    "image": "assets/images/sign-113.jpg",
+    "image": "assets/images/sign-109.jpg",
     "options": [
       "Airport nearby",
       "Bus terminal",
@@ -2925,7 +2925,7 @@
     "id": 235,
     "category": "road_signs",
     "question": "A SCENIC VIEW sign indicates:",
-    "image": "assets/images/sign-114.jpg",
+    "image": "assets/images/sign-110.jpg",
     "options": [
       "Scenic view or attraction",
       "Detour",
@@ -2938,7 +2938,7 @@
     "id": 236,
     "category": "road_signs",
     "question": "A green P sign means:",
-    "image": "assets/images/sign-115.jpg",
+    "image": "assets/images/sign-111.jpg",
     "options": [
       "Parking is permitted",
       "No parking",
@@ -2951,7 +2951,7 @@
     "id": 237,
     "category": "road_signs",
     "question": "A disabled parking sign means:",
-    "image": "assets/images/sign-116.jpg",
+    "image": "assets/images/sign-112.jpg",
     "options": [
       "Parking reserved for persons with disabilities",
       "Parking permitted for all",
@@ -2964,7 +2964,7 @@
     "id": 238,
     "category": "road_signs",
     "question": "A NO VEHICLES sign means:",
-    "image": "assets/images/sign-117.jpg",
+    "image": "assets/images/sign-113.jpg",
     "options": [
       "No motor vehicles allowed",
       "Bicycles only",
@@ -2977,7 +2977,7 @@
     "id": 239,
     "category": "road_signs",
     "question": "A NO MOTORCYCLES sign means:",
-    "image": "assets/images/sign-118.jpg",
+    "image": "assets/images/sign-114.jpg",
     "options": [
       "Motorcycles are prohibited",
       "Motorcycles only",
@@ -2990,7 +2990,7 @@
     "id": 240,
     "category": "road_signs",
     "question": "A TRUCK ROUTE sign means:",
-    "image": "assets/images/sign-119.jpg",
+    "image": "assets/images/sign-115.jpg",
     "options": [
       "Designated route for trucks",
       "No trucks",
@@ -3003,7 +3003,7 @@
     "id": 241,
     "category": "road_signs",
     "question": "A BICYCLE ROUTE sign means:",
-    "image": "assets/images/sign-120.jpg",
+    "image": "assets/images/sign-116.jpg",
     "options": [
       "Designated bicycle route",
       "Bicycles prohibited",
@@ -3016,7 +3016,7 @@
     "id": 242,
     "category": "road_signs",
     "question": "A SNOWMOBILE ROUTE sign means:",
-    "image": "assets/images/sign-121.jpg",
+    "image": "assets/images/sign-117.jpg",
     "options": [
       "Designated snowmobile route",
       "Snowmobiles prohibited",
@@ -3029,7 +3029,7 @@
     "id": 243,
     "category": "road_signs",
     "question": "A MOOSE CROSSING sign warns:",
-    "image": "assets/images/sign-122.jpg",
+    "image": "assets/images/sign-118.jpg",
     "options": [
       "Moose may cross the road",
       "Zoo ahead",
@@ -3042,7 +3042,7 @@
     "id": 244,
     "category": "road_signs",
     "question": "An END ROAD WORK sign means:",
-    "image": "assets/images/sign-123.jpg",
+    "image": "assets/images/sign-119.jpg",
     "options": [
       "Construction zone has ended",
       "Road closed",
@@ -3055,7 +3055,7 @@
     "id": 245,
     "category": "road_signs",
     "question": "An END DETOUR sign means:",
-    "image": "assets/images/sign-124.jpg",
+    "image": "assets/images/sign-120.jpg",
     "options": [
       "Detour has ended",
       "Detour begins",
@@ -3068,7 +3068,7 @@
     "id": 246,
     "category": "road_signs",
     "question": "A STOP HERE ON RED sign means:",
-    "image": "assets/images/sign-125.jpg",
+    "image": "assets/images/sign-121.jpg",
     "options": [
       "Stop at the sign when the light is red",
       "Stop only if pedestrians",
@@ -3081,7 +3081,7 @@
     "id": 247,
     "category": "road_signs",
     "question": "A RESERVED LANE (HOV) sign means:",
-    "image": "assets/images/sign-126.jpg",
+    "image": "assets/images/sign-122.jpg",
     "options": [
       "Lane is reserved for authorized vehicles",
       "Lane ends ahead",
@@ -3094,7 +3094,7 @@
     "id": 248,
     "category": "road_signs",
     "question": "A LANE CONTROL sign indicates:",
-    "image": "assets/images/sign-127.jpg",
+    "image": "assets/images/sign-123.jpg",
     "options": [
       "Lane use signals will show open/closed lanes",
       "No passing",
@@ -3107,7 +3107,7 @@
     "id": 249,
     "category": "road_signs",
     "question": "A NO TURNS sign means:",
-    "image": "assets/images/sign-128.jpg",
+    "image": "assets/images/sign-124.jpg",
     "options": [
       "No left or right turns",
       "Left turn only",
@@ -3120,7 +3120,7 @@
     "id": 250,
     "category": "road_signs",
     "question": "A PASSING PERMITTED sign means:",
-    "image": "assets/images/sign-129.jpg",
+    "image": "assets/images/sign-125.jpg",
     "options": [
       "Passing is allowed when safe",
       "No passing",
@@ -3493,7 +3493,7 @@
     "id": 281,
     "category": "road_signs",
     "question": "A WRONG WAY sign means:",
-    "image": "assets/images/sign-130.jpg",
+    "image": "assets/images/sign-126.jpg",
     "options": [
       "You are going in the wrong direction",
       "Road closed ahead",
@@ -3506,7 +3506,7 @@
     "id": 282,
     "category": "road_signs",
     "question": "A NO RIGHT TURN ON RED sign means:",
-    "image": "assets/images/sign-131.jpg",
+    "image": "assets/images/sign-127.jpg",
     "options": [
       "Right turns are prohibited when the light is red",
       "Right turn is mandatory",
@@ -3519,7 +3519,7 @@
     "id": 283,
     "category": "road_signs",
     "question": "A MINIMUM speed sign indicates:",
-    "image": "assets/images/sign-132.jpg",
+    "image": "assets/images/sign-128.jpg",
     "options": [
       "You must not drive below the posted speed",
       "Maximum speed limit",
@@ -3532,7 +3532,7 @@
     "id": 284,
     "category": "road_signs",
     "question": "A SPEED LIMIT ENDS sign indicates:",
-    "image": "assets/images/sign-133.jpg",
+    "image": "assets/images/sign-129.jpg",
     "options": [
       "End of the posted speed limit",
       "New lower limit begins",
@@ -3545,7 +3545,7 @@
     "id": 285,
     "category": "road_signs",
     "question": "A SLOWER TRAFFIC KEEP RIGHT sign means:",
-    "image": "assets/images/sign-134.jpg",
+    "image": "assets/images/sign-130.jpg",
     "options": [
       "Slower vehicles must keep right",
       "Right lane ends",
@@ -3558,7 +3558,7 @@
     "id": 286,
     "category": "road_signs",
     "question": "A PAVEMENT ENDS sign warns:",
-    "image": "assets/images/sign-135.jpg",
+    "image": "assets/images/sign-131.jpg",
     "options": [
       "The paved surface ends ahead",
       "Bridge ends",
@@ -3571,7 +3571,7 @@
     "id": 287,
     "category": "road_signs",
     "question": "A FARM MACHINERY sign indicates:",
-    "image": "assets/images/sign-136.jpg",
+    "image": "assets/images/sign-132.jpg",
     "options": [
       "Farm vehicles may enter or cross",
       "No farm vehicles",
@@ -3584,7 +3584,7 @@
     "id": 288,
     "category": "road_signs",
     "question": "A SNOWMOBILE CROSSING sign warns:",
-    "image": "assets/images/sign-137.jpg",
+    "image": "assets/images/sign-133.jpg",
     "options": [
       "Snowmobiles may cross the road",
       "Snowmobiles prohibited",
@@ -3597,7 +3597,7 @@
     "id": 289,
     "category": "road_signs",
     "question": "A PLAYGROUND ZONE sign means:",
-    "image": "assets/images/sign-138.jpg",
+    "image": "assets/images/sign-134.jpg",
     "options": [
       "Children may be present",
       "School bus stop ahead",
@@ -3610,7 +3610,7 @@
     "id": 290,
     "category": "road_signs",
     "question": "A SCHOOL CROSSING sign means:",
-    "image": "assets/images/sign-139.jpg",
+    "image": "assets/images/sign-135.jpg",
     "options": [
       "School crossing ahead",
       "School zone ends",
@@ -3623,7 +3623,7 @@
     "id": 291,
     "category": "road_signs",
     "question": "A blue H sign indicates:",
-    "image": "assets/images/sign-140.jpg",
+    "image": "assets/images/sign-136.jpg",
     "options": [
       "Hospital nearby",
       "Hotel",
@@ -3636,7 +3636,7 @@
     "id": 292,
     "category": "road_signs",
     "question": "A blue GAS/FOOD/LODGING sign means:",
-    "image": "assets/images/sign-141.jpg",
+    "image": "assets/images/sign-137.jpg",
     "options": [
       "Services available",
       "Tourist route",
@@ -3649,7 +3649,7 @@
     "id": 293,
     "category": "road_signs",
     "question": "A REST AREA sign means:",
-    "image": "assets/images/sign-142.jpg",
+    "image": "assets/images/sign-108.jpg",
     "options": [
       "Rest area ahead",
       "Hospital ahead",
@@ -3662,7 +3662,7 @@
     "id": 294,
     "category": "road_signs",
     "question": "A blue AIRPORT sign indicates:",
-    "image": "assets/images/sign-143.jpg",
+    "image": "assets/images/sign-109.jpg",
     "options": [
       "Airport nearby",
       "Bus terminal",
@@ -3675,7 +3675,7 @@
     "id": 295,
     "category": "road_signs",
     "question": "A SCENIC VIEW sign indicates:",
-    "image": "assets/images/sign-144.jpg",
+    "image": "assets/images/sign-110.jpg",
     "options": [
       "Scenic view or attraction",
       "Detour",
@@ -3688,7 +3688,7 @@
     "id": 296,
     "category": "road_signs",
     "question": "A green P sign means:",
-    "image": "assets/images/sign-145.jpg",
+    "image": "assets/images/sign-111.jpg",
     "options": [
       "Parking is permitted",
       "No parking",
@@ -3701,7 +3701,7 @@
     "id": 297,
     "category": "road_signs",
     "question": "A disabled parking sign indicates:",
-    "image": "assets/images/sign-146.jpg",
+    "image": "assets/images/sign-112.jpg",
     "options": [
       "Parking reserved for persons with disabilities",
       "Parking permitted for all",
@@ -3714,7 +3714,7 @@
     "id": 298,
     "category": "road_signs",
     "question": "A NO VEHICLES sign means:",
-    "image": "assets/images/sign-147.jpg",
+    "image": "assets/images/sign-113.jpg",
     "options": [
       "No motor vehicles allowed",
       "Bicycles only",
@@ -3727,7 +3727,7 @@
     "id": 299,
     "category": "road_signs",
     "question": "A NO MOTORCYCLES sign means:",
-    "image": "assets/images/sign-148.jpg",
+    "image": "assets/images/sign-138.jpg",
     "options": [
       "Motorcycles are prohibited",
       "Motorcycles only",
@@ -3740,7 +3740,7 @@
     "id": 300,
     "category": "road_signs",
     "question": "A TRUCK ROUTE sign indicates:",
-    "image": "assets/images/sign-149.jpg",
+    "image": "assets/images/sign-139.jpg",
     "options": [
       "Designated route for trucks",
       "No trucks",
@@ -3753,7 +3753,7 @@
     "id": 301,
     "category": "road_signs",
     "question": "A BICYCLE ROUTE sign indicates:",
-    "image": "assets/images/sign-150.jpg",
+    "image": "assets/images/sign-140.jpg",
     "options": [
       "Designated bicycle route",
       "Bicycles prohibited",
@@ -3766,7 +3766,7 @@
     "id": 302,
     "category": "road_signs",
     "question": "A SNOWMOBILE ROUTE sign indicates:",
-    "image": "assets/images/sign-151.jpg",
+    "image": "assets/images/sign-141.jpg",
     "options": [
       "Designated snowmobile route",
       "Snowmobiles prohibited",
@@ -3779,7 +3779,7 @@
     "id": 303,
     "category": "road_signs",
     "question": "A MOOSE CROSSING sign warns:",
-    "image": "assets/images/sign-152.jpg",
+    "image": "assets/images/sign-142.jpg",
     "options": [
       "Moose may cross the road",
       "Zoo ahead",
@@ -3792,7 +3792,7 @@
     "id": 304,
     "category": "road_signs",
     "question": "An END ROAD WORK sign means:",
-    "image": "assets/images/sign-153.jpg",
+    "image": "assets/images/sign-143.jpg",
     "options": [
       "Construction zone has ended",
       "Road closed",
@@ -3805,7 +3805,7 @@
     "id": 305,
     "category": "road_signs",
     "question": "An END DETOUR sign means:",
-    "image": "assets/images/sign-154.jpg",
+    "image": "assets/images/sign-144.jpg",
     "options": [
       "Detour has ended",
       "Detour begins",
@@ -3818,7 +3818,7 @@
     "id": 306,
     "category": "road_signs",
     "question": "A STOP HERE ON RED sign means:",
-    "image": "assets/images/sign-155.jpg",
+    "image": "assets/images/sign-145.jpg",
     "options": [
       "Stop at the sign when the light is red",
       "Stop only if pedestrians",
@@ -3831,7 +3831,7 @@
     "id": 307,
     "category": "road_signs",
     "question": "A RESERVED LANE (HOV) sign means:",
-    "image": "assets/images/sign-156.jpg",
+    "image": "assets/images/sign-146.jpg",
     "options": [
       "Lane is reserved for authorized vehicles",
       "Lane ends ahead",
@@ -3844,7 +3844,7 @@
     "id": 308,
     "category": "road_signs",
     "question": "A LANE CONTROL sign indicates:",
-    "image": "assets/images/sign-157.jpg",
+    "image": "assets/images/sign-147.jpg",
     "options": [
       "Lane use signals will show open/closed lanes",
       "No passing",
@@ -3857,7 +3857,7 @@
     "id": 309,
     "category": "road_signs",
     "question": "A NO TURNS sign means:",
-    "image": "assets/images/sign-158.jpg",
+    "image": "assets/images/sign-148.jpg",
     "options": [
       "No left or right turns",
       "Left turn only",
@@ -3870,7 +3870,7 @@
     "id": 310,
     "category": "road_signs",
     "question": "A PASSING PERMITTED sign means:",
-    "image": "assets/images/sign-159.jpg",
+    "image": "assets/images/sign-039.jpg",
     "options": [
       "Passing is allowed when safe",
       "No passing",
@@ -4243,7 +4243,7 @@
     "id": 341,
     "category": "road_signs",
     "question": "A WRONG WAY sign tells you:",
-    "image": "assets/images/sign-160.jpg",
+    "image": "assets/images/sign-149.jpg",
     "options": [
       "You are going in the wrong direction",
       "You may proceed",
@@ -4256,7 +4256,7 @@
     "id": 342,
     "category": "road_signs",
     "question": "A NO RIGHT TURN ON RED sign means:",
-    "image": "assets/images/sign-161.jpg",
+    "image": "assets/images/sign-150.jpg",
     "options": [
       "Right turns are prohibited on a red light",
       "Right turn is required",
@@ -4269,7 +4269,7 @@
     "id": 343,
     "category": "road_signs",
     "question": "A MINIMUM speed sign indicates:",
-    "image": "assets/images/sign-162.jpg",
+    "image": "assets/images/sign-151.jpg",
     "options": [
       "Do not drive below the posted speed",
       "Maximum speed limit",
@@ -4282,7 +4282,7 @@
     "id": 344,
     "category": "road_signs",
     "question": "A SPEED LIMIT ENDS sign indicates:",
-    "image": "assets/images/sign-163.jpg",
+    "image": "assets/images/sign-152.jpg",
     "options": [
       "End of the posted speed limit",
       "New lower limit begins",
@@ -4295,7 +4295,7 @@
     "id": 345,
     "category": "road_signs",
     "question": "A SLOWER TRAFFIC KEEP RIGHT sign means:",
-    "image": "assets/images/sign-164.jpg",
+    "image": "assets/images/sign-153.jpg",
     "options": [
       "Slower vehicles must keep right",
       "Right lane ends",
@@ -4308,7 +4308,7 @@
     "id": 346,
     "category": "road_signs",
     "question": "A PAVEMENT ENDS sign warns:",
-    "image": "assets/images/sign-165.jpg",
+    "image": "assets/images/sign-154.jpg",
     "options": [
       "The paved surface ends ahead",
       "Bridge ends",
@@ -4321,7 +4321,7 @@
     "id": 347,
     "category": "road_signs",
     "question": "A FARM MACHINERY sign warns:",
-    "image": "assets/images/sign-166.jpg",
+    "image": "assets/images/sign-155.jpg",
     "options": [
       "Farm vehicles may enter or cross",
       "No farm vehicles",
@@ -4334,7 +4334,7 @@
     "id": 348,
     "category": "road_signs",
     "question": "A SNOWMOBILE CROSSING sign means:",
-    "image": "assets/images/sign-167.jpg",
+    "image": "assets/images/sign-156.jpg",
     "options": [
       "Snowmobiles may cross the road",
       "Snowmobiles prohibited",
@@ -4347,7 +4347,7 @@
     "id": 349,
     "category": "road_signs",
     "question": "A PLAYGROUND ZONE sign means:",
-    "image": "assets/images/sign-168.jpg",
+    "image": "assets/images/sign-134.jpg",
     "options": [
       "Children may be present",
       "School bus stop ahead",
@@ -4360,7 +4360,7 @@
     "id": 350,
     "category": "road_signs",
     "question": "A SCHOOL CROSSING sign means:",
-    "image": "assets/images/sign-169.jpg",
+    "image": "assets/images/sign-135.jpg",
     "options": [
       "School crossing ahead",
       "School zone ends",
@@ -4373,7 +4373,7 @@
     "id": 351,
     "category": "road_signs",
     "question": "A blue H sign indicates:",
-    "image": "assets/images/sign-170.jpg",
+    "image": "assets/images/sign-136.jpg",
     "options": [
       "Hospital nearby",
       "Hotel",
@@ -4386,7 +4386,7 @@
     "id": 352,
     "category": "road_signs",
     "question": "A blue GAS/FOOD/LODGING sign indicates:",
-    "image": "assets/images/sign-171.jpg",
+    "image": "assets/images/sign-137.jpg",
     "options": [
       "Services available",
       "Tourist route",
@@ -4399,7 +4399,7 @@
     "id": 353,
     "category": "road_signs",
     "question": "A REST AREA sign means:",
-    "image": "assets/images/sign-172.jpg",
+    "image": "assets/images/sign-108.jpg",
     "options": [
       "Rest area ahead",
       "Hospital ahead",
@@ -4412,7 +4412,7 @@
     "id": 354,
     "category": "road_signs",
     "question": "A blue AIRPORT sign indicates:",
-    "image": "assets/images/sign-173.jpg",
+    "image": "assets/images/sign-109.jpg",
     "options": [
       "Airport nearby",
       "Bus terminal",
@@ -4425,7 +4425,7 @@
     "id": 355,
     "category": "road_signs",
     "question": "A SCENIC VIEW sign indicates:",
-    "image": "assets/images/sign-174.jpg",
+    "image": "assets/images/sign-110.jpg",
     "options": [
       "Scenic view or attraction",
       "Detour",
@@ -4438,7 +4438,7 @@
     "id": 356,
     "category": "road_signs",
     "question": "A green P sign means:",
-    "image": "assets/images/sign-175.jpg",
+    "image": "assets/images/sign-111.jpg",
     "options": [
       "Parking is permitted",
       "No parking",
@@ -4451,7 +4451,7 @@
     "id": 357,
     "category": "road_signs",
     "question": "A disabled parking sign indicates:",
-    "image": "assets/images/sign-176.jpg",
+    "image": "assets/images/sign-112.jpg",
     "options": [
       "Parking reserved for persons with disabilities",
       "Parking permitted for all",
@@ -4464,7 +4464,7 @@
     "id": 358,
     "category": "road_signs",
     "question": "A NO VEHICLES sign means:",
-    "image": "assets/images/sign-177.jpg",
+    "image": "assets/images/sign-113.jpg",
     "options": [
       "No motor vehicles allowed",
       "Bicycles only",
@@ -4477,7 +4477,7 @@
     "id": 359,
     "category": "road_signs",
     "question": "A NO MOTORCYCLES sign means:",
-    "image": "assets/images/sign-178.jpg",
+    "image": "assets/images/sign-138.jpg",
     "options": [
       "Motorcycles are prohibited",
       "Motorcycles only",
@@ -4490,7 +4490,7 @@
     "id": 360,
     "category": "road_signs",
     "question": "A TRUCK ROUTE sign indicates:",
-    "image": "assets/images/sign-179.jpg",
+    "image": "assets/images/sign-139.jpg",
     "options": [
       "Designated route for trucks",
       "No trucks",
@@ -4503,7 +4503,7 @@
     "id": 361,
     "category": "road_signs",
     "question": "A BICYCLE ROUTE sign indicates:",
-    "image": "assets/images/sign-180.jpg",
+    "image": "assets/images/sign-140.jpg",
     "options": [
       "Designated bicycle route",
       "Bicycles prohibited",
@@ -4516,7 +4516,7 @@
     "id": 362,
     "category": "road_signs",
     "question": "A SNOWMOBILE ROUTE sign indicates:",
-    "image": "assets/images/sign-181.jpg",
+    "image": "assets/images/sign-141.jpg",
     "options": [
       "Designated snowmobile route",
       "Snowmobiles prohibited",
@@ -4529,7 +4529,7 @@
     "id": 363,
     "category": "road_signs",
     "question": "A MOOSE CROSSING sign warns:",
-    "image": "assets/images/sign-182.jpg",
+    "image": "assets/images/sign-142.jpg",
     "options": [
       "Moose may cross the road",
       "Zoo ahead",
@@ -4542,7 +4542,7 @@
     "id": 364,
     "category": "road_signs",
     "question": "An END ROAD WORK sign means:",
-    "image": "assets/images/sign-183.jpg",
+    "image": "assets/images/sign-143.jpg",
     "options": [
       "Construction zone has ended",
       "Road closed",
@@ -4555,7 +4555,7 @@
     "id": 365,
     "category": "road_signs",
     "question": "An END DETOUR sign means:",
-    "image": "assets/images/sign-184.jpg",
+    "image": "assets/images/sign-144.jpg",
     "options": [
       "Detour has ended",
       "Detour begins",
@@ -4568,7 +4568,7 @@
     "id": 366,
     "category": "road_signs",
     "question": "A STOP HERE ON RED sign means:",
-    "image": "assets/images/sign-185.jpg",
+    "image": "assets/images/sign-145.jpg",
     "options": [
       "Stop at the sign when the light is red",
       "Stop only if pedestrians",
@@ -4581,7 +4581,7 @@
     "id": 367,
     "category": "road_signs",
     "question": "A RESERVED LANE (HOV) sign means:",
-    "image": "assets/images/sign-186.jpg",
+    "image": "assets/images/sign-146.jpg",
     "options": [
       "Lane is reserved for authorized vehicles",
       "Lane ends ahead",
@@ -4594,7 +4594,7 @@
     "id": 368,
     "category": "road_signs",
     "question": "A LANE CONTROL sign indicates:",
-    "image": "assets/images/sign-187.jpg",
+    "image": "assets/images/sign-147.jpg",
     "options": [
       "Lane use signals will show open/closed lanes",
       "No passing",
@@ -4607,7 +4607,7 @@
     "id": 369,
     "category": "road_signs",
     "question": "A NO TURNS sign means:",
-    "image": "assets/images/sign-188.jpg",
+    "image": "assets/images/sign-148.jpg",
     "options": [
       "No left or right turns",
       "Left turn only",
@@ -4620,7 +4620,7 @@
     "id": 370,
     "category": "road_signs",
     "question": "A PASSING PERMITTED sign means:",
-    "image": "assets/images/sign-189.jpg",
+    "image": "assets/images/sign-039.jpg",
     "options": [
       "Passing is allowed when safe",
       "No passing",
@@ -4993,7 +4993,7 @@
     "id": 401,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-190.jpg",
+    "image": "assets/images/sign-157.jpg",
     "options": [
       "Wrong way - do not enter",
       "One way street",
@@ -5006,7 +5006,7 @@
     "id": 402,
     "category": "road_signs",
     "question": "What does this regulatory sign mean?",
-    "image": "assets/images/sign-191.jpg",
+    "image": "assets/images/sign-158.jpg",
     "options": [
       "No right turn on red light",
       "No turns allowed",
@@ -5019,7 +5019,7 @@
     "id": 403,
     "category": "road_signs",
     "question": "This sign shows:",
-    "image": "assets/images/sign-192.jpg",
+    "image": "assets/images/sign-159.jpg",
     "options": [
       "Minimum speed limit",
       "Maximum speed limit",
@@ -5032,7 +5032,7 @@
     "id": 404,
     "category": "road_signs",
     "question": "What does this sign indicate?",
-    "image": "assets/images/sign-193.jpg",
+    "image": "assets/images/sign-160.jpg",
     "options": [
       "Speed limit zone ends",
       "Speed limit 80 km/h",
@@ -5045,7 +5045,7 @@
     "id": 405,
     "category": "road_signs",
     "question": "This sign means:",
-    "image": "assets/images/sign-194.jpg",
+    "image": "assets/images/sign-161.jpg",
     "options": [
       "Slower traffic keep right",
       "Right lane closed",
@@ -5058,7 +5058,7 @@
     "id": 406,
     "category": "road_signs",
     "question": "This warning sign indicates:",
-    "image": "assets/images/sign-195.jpg",
+    "image": "assets/images/sign-162.jpg",
     "options": [
       "Pavement ends",
       "Road narrows",
@@ -5071,7 +5071,7 @@
     "id": 407,
     "category": "road_signs",
     "question": "What does this sign warn about?",
-    "image": "assets/images/sign-196.jpg",
+    "image": "assets/images/sign-163.jpg",
     "options": [
       "Farm machinery crossing",
       "Tractor parking",
@@ -5084,7 +5084,7 @@
     "id": 408,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-197.jpg",
+    "image": "assets/images/sign-164.jpg",
     "options": [
       "Snowmobile crossing",
       "Winter recreation area",
@@ -5097,7 +5097,7 @@
     "id": 409,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/sign-198.jpg",
+    "image": "assets/images/sign-165.jpg",
     "options": [
       "Playground zone ahead",
       "School zone",
@@ -5110,7 +5110,7 @@
     "id": 410,
     "category": "road_signs",
     "question": "This sign warns of:",
-    "image": "assets/images/sign-199.jpg",
+    "image": "assets/images/sign-135.jpg",
     "options": [
       "School crossing ahead",
       "Pedestrian crossing",
@@ -5123,7 +5123,7 @@
     "id": 411,
     "category": "road_signs",
     "question": "This information sign indicates:",
-    "image": "assets/images/sign-200.jpg",
+    "image": "assets/images/sign-136.jpg",
     "options": [
       "Hospital nearby",
       "Medical clinic",
@@ -5136,7 +5136,7 @@
     "id": 412,
     "category": "road_signs",
     "question": "What services does this sign indicate?",
-    "image": "assets/images/sign-201.jpg",
+    "image": "assets/images/sign-166.jpg",
     "options": [
       "Gas, food, and lodging",
       "Tourist information",
@@ -5149,7 +5149,7 @@
     "id": 413,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-202.jpg",
+    "image": "assets/images/sign-108.jpg",
     "options": [
       "Rest area ahead",
       "Parking area",
@@ -5162,7 +5162,7 @@
     "id": 414,
     "category": "road_signs",
     "question": "What does this information sign mean?",
-    "image": "assets/images/sign-203.jpg",
+    "image": "assets/images/sign-109.jpg",
     "options": [
       "Airport nearby",
       "Flight path overhead",
@@ -5175,7 +5175,7 @@
     "id": 415,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-204.jpg",
+    "image": "assets/images/sign-167.jpg",
     "options": [
       "Scenic viewpoint ahead",
       "Photo opportunity",
@@ -5188,7 +5188,7 @@
     "id": 416,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/sign-205.jpg",
+    "image": "assets/images/sign-168.jpg",
     "options": [
       "Parking permitted",
       "Parking lot ahead",
@@ -5201,7 +5201,7 @@
     "id": 417,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-206.jpg",
+    "image": "assets/images/sign-169.jpg",
     "options": [
       "Accessible parking only",
       "Hospital parking",
@@ -5214,7 +5214,7 @@
     "id": 418,
     "category": "road_signs",
     "question": "What does this regulatory sign mean?",
-    "image": "assets/images/sign-207.jpg",
+    "image": "assets/images/sign-170.jpg",
     "options": [
       "No vehicles allowed",
       "Road closed",
@@ -5227,7 +5227,7 @@
     "id": 419,
     "category": "road_signs",
     "question": "This sign means:",
-    "image": "assets/images/sign-208.jpg",
+    "image": "assets/images/sign-171.jpg",
     "options": [
       "No motorcycles allowed",
       "Motorcycle parking",
@@ -5240,7 +5240,7 @@
     "id": 420,
     "category": "road_signs",
     "question": "What does this sign indicate?",
-    "image": "assets/images/sign-209.jpg",
+    "image": "assets/images/sign-172.jpg",
     "options": [
       "Designated truck route",
       "Truck parking",
@@ -5253,7 +5253,7 @@
     "id": 421,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-210.jpg",
+    "image": "assets/images/sign-173.jpg",
     "options": [
       "Bicycle route",
       "Bike lane",
@@ -5266,7 +5266,7 @@
     "id": 422,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/sign-211.jpg",
+    "image": "assets/images/sign-174.jpg",
     "options": [
       "Snowmobile route",
       "Winter trail",
@@ -5279,7 +5279,7 @@
     "id": 423,
     "category": "road_signs",
     "question": "This warning sign indicates:",
-    "image": "assets/images/sign-212.jpg",
+    "image": "assets/images/sign-175.jpg",
     "options": [
       "Moose crossing area",
       "Wildlife preserve",
@@ -5292,7 +5292,7 @@
     "id": 424,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/sign-213.jpg",
+    "image": "assets/images/sign-176.jpg",
     "options": [
       "End of road work zone",
       "Construction ahead",
@@ -5305,7 +5305,7 @@
     "id": 425,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-214.jpg",
+    "image": "assets/images/sign-177.jpg",
     "options": [
       "End of detour",
       "Detour ahead",
@@ -5318,7 +5318,7 @@
     "id": 426,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/sign-215.jpg",
+    "image": "assets/images/sign-178.jpg",
     "options": [
       "Stop here on red signal",
       "Stop sign ahead",
@@ -5331,7 +5331,7 @@
     "id": 427,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-216.jpg",
+    "image": "assets/images/sign-179.jpg",
     "options": [
       "HOV or reserved lane",
       "Bus lane only",
@@ -5344,7 +5344,7 @@
     "id": 428,
     "category": "road_signs",
     "question": "What does this overhead sign mean?",
-    "image": "assets/images/sign-217.jpg",
+    "image": "assets/images/sign-180.jpg",
     "options": [
       "Lane use control signal",
       "Lane closed",
@@ -5357,7 +5357,7 @@
     "id": 429,
     "category": "road_signs",
     "question": "This regulatory sign means:",
-    "image": "assets/images/sign-218.jpg",
+    "image": "assets/images/sign-181.jpg",
     "options": [
       "No turns allowed",
       "No U-turn",
@@ -5370,7 +5370,7 @@
     "id": 430,
     "category": "road_signs",
     "question": "What does this sign indicate?",
-    "image": "assets/images/sign-219.jpg",
+    "image": "assets/images/sign-182.jpg",
     "options": [
       "Passing permitted",
       "Two-way traffic",
@@ -5743,7 +5743,7 @@
     "id": 461,
     "category": "road_signs",
     "question": "What does this sign indicate?",
-    "image": "assets/images/sign-220.jpg",
+    "image": "assets/images/sign-183.jpg",
     "options": [
       "Wrong way - turn around",
       "One way traffic",
@@ -5756,7 +5756,7 @@
     "id": 462,
     "category": "road_signs",
     "question": "This regulatory sign means:",
-    "image": "assets/images/sign-221.jpg",
+    "image": "assets/images/sign-184.jpg",
     "options": [
       "No right turn when light is red",
       "No right turns at all",
@@ -5769,7 +5769,7 @@
     "id": 463,
     "category": "road_signs",
     "question": "This sign indicates the:",
-    "image": "assets/images/sign-222.jpg",
+    "image": "assets/images/sign-185.jpg",
     "options": [
       "Minimum speed you must travel",
       "Maximum speed allowed",
@@ -5782,7 +5782,7 @@
     "id": 464,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/sign-223.jpg",
+    "image": "assets/images/sign-186.jpg",
     "options": [
       "Previous speed limit no longer applies",
       "Speed limit is 80 km/h",
@@ -5795,7 +5795,7 @@
     "id": 465,
     "category": "road_signs",
     "question": "This sign tells you to:",
-    "image": "assets/images/sign-224.jpg",
+    "image": "assets/images/sign-187.jpg",
     "options": [
       "Move right if driving slower than traffic",
       "All traffic keep right",
@@ -5808,7 +5808,7 @@
     "id": 466,
     "category": "road_signs",
     "question": "This warning sign means:",
-    "image": "assets/images/sign-225.jpg",
+    "image": "assets/images/sign-188.jpg",
     "options": [
       "Paved road ends ahead",
       "Road closed",
@@ -5821,7 +5821,7 @@
     "id": 467,
     "category": "road_signs",
     "question": "This sign warns of:",
-    "image": "assets/images/sign-226.jpg",
+    "image": "assets/images/sign-189.jpg",
     "options": [
       "Slow-moving farm equipment on road",
       "Farm vehicles only",
@@ -5834,7 +5834,7 @@
     "id": 468,
     "category": "road_signs",
     "question": "What does this sign warn you about?",
-    "image": "assets/images/sign-227.jpg",
+    "image": "assets/images/sign-156.jpg",
     "options": [
       "Snowmobiles may cross the road",
       "Snowmobile trail",
@@ -5847,7 +5847,7 @@
     "id": 469,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-228.jpg",
+    "image": "assets/images/sign-190.jpg",
     "options": [
       "Playground zone - children may be present",
       "School zone",
@@ -5860,7 +5860,7 @@
     "id": 470,
     "category": "road_signs",
     "question": "This sign warns you of:",
-    "image": "assets/images/sign-229.jpg",
+    "image": "assets/images/sign-191.jpg",
     "options": [
       "School crossing zone ahead",
       "School bus stop",
@@ -5873,7 +5873,7 @@
     "id": 471,
     "category": "road_signs",
     "question": "This information sign shows:",
-    "image": "assets/images/sign-230.jpg",
+    "image": "assets/images/sign-192.jpg",
     "options": [
       "Hospital or medical facility nearby",
       "Emergency services",
@@ -5886,7 +5886,7 @@
     "id": 472,
     "category": "road_signs",
     "question": "This sign indicates availability of:",
-    "image": "assets/images/sign-231.jpg",
+    "image": "assets/images/sign-193.jpg",
     "options": [
       "Gas, food, and accommodations",
       "Rest stop",
@@ -5899,7 +5899,7 @@
     "id": 473,
     "category": "road_signs",
     "question": "What does this sign indicate?",
-    "image": "assets/images/sign-232.jpg",
+    "image": "assets/images/sign-194.jpg",
     "options": [
       "Rest area with facilities",
       "Parking lot",
@@ -5912,7 +5912,7 @@
     "id": 474,
     "category": "road_signs",
     "question": "This information sign means:",
-    "image": "assets/images/sign-233.jpg",
+    "image": "assets/images/sign-195.jpg",
     "options": [
       "Airport ahead or nearby",
       "Airplane crossing",
@@ -5925,7 +5925,7 @@
     "id": 475,
     "category": "road_signs",
     "question": "This sign points to:",
-    "image": "assets/images/sign-234.jpg",
+    "image": "assets/images/sign-196.jpg",
     "options": [
       "Scenic lookout or viewpoint",
       "Photo area",
@@ -5938,7 +5938,7 @@
     "id": 476,
     "category": "road_signs",
     "question": "This sign means:",
-    "image": "assets/images/sign-235.jpg",
+    "image": "assets/images/sign-197.jpg",
     "options": [
       "Parking is allowed in this area",
       "Parking lot ahead",
@@ -5951,7 +5951,7 @@
     "id": 477,
     "category": "road_signs",
     "question": "This sign designates:",
-    "image": "assets/images/sign-236.jpg",
+    "image": "assets/images/sign-198.jpg",
     "options": [
       "Accessible parking for permit holders",
       "Handicapped zone",
@@ -5964,7 +5964,7 @@
     "id": 478,
     "category": "road_signs",
     "question": "This regulatory sign prohibits:",
-    "image": "assets/images/sign-237.jpg",
+    "image": "assets/images/sign-199.jpg",
     "options": [
       "All vehicle traffic",
       "Motor vehicles only",
@@ -5977,7 +5977,7 @@
     "id": 479,
     "category": "road_signs",
     "question": "This sign prohibits:",
-    "image": "assets/images/sign-238.jpg",
+    "image": "assets/images/sign-200.jpg",
     "options": [
       "Motorcycles from using this road",
       "Two-wheeled vehicles",
@@ -5990,7 +5990,7 @@
     "id": 480,
     "category": "road_signs",
     "question": "This sign designates:",
-    "image": "assets/images/sign-239.jpg",
+    "image": "assets/images/sign-201.jpg",
     "options": [
       "Approved route for trucks",
       "Truck parking",
@@ -6003,7 +6003,7 @@
     "id": 481,
     "category": "road_signs",
     "question": "This sign marks:",
-    "image": "assets/images/sign-240.jpg",
+    "image": "assets/images/sign-140.jpg",
     "options": [
       "Designated bicycle route",
       "Bike lane",
@@ -6016,7 +6016,7 @@
     "id": 482,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-241.jpg",
+    "image": "assets/images/sign-202.jpg",
     "options": [
       "Designated snowmobile trail",
       "Winter recreation",
@@ -6029,7 +6029,7 @@
     "id": 483,
     "category": "road_signs",
     "question": "This warning sign alerts you to:",
-    "image": "assets/images/sign-242.jpg",
+    "image": "assets/images/sign-203.jpg",
     "options": [
       "Possible moose on roadway",
       "Wildlife area",
@@ -6042,7 +6042,7 @@
     "id": 484,
     "category": "road_signs",
     "question": "This sign indicates:",
-    "image": "assets/images/sign-243.jpg",
+    "image": "assets/images/sign-143.jpg",
     "options": [
       "Construction zone has ended",
       "Road work ahead",
@@ -6055,7 +6055,7 @@
     "id": 485,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/sign-244.jpg",
+    "image": "assets/images/sign-204.jpg",
     "options": [
       "Detour route has ended",
       "Detour ahead",
@@ -6068,7 +6068,7 @@
     "id": 486,
     "category": "road_signs",
     "question": "This sign tells you to:",
-    "image": "assets/images/sign-000.jpg",
+    "image": "assets/images/sign-205.jpg",
     "options": [
       "Stop at this line when signal is red",
       "Stop sign ahead",
@@ -6974,7 +6974,7 @@
     "id": 558,
     "category": "road_signs",
     "question": "This sign warns that:",
-    "image": "assets/images/sign-042.jpg",
+    "image": "assets/images/sign-008.jpg",
     "options": [
       "Snowmobiles cross this road",
       "Winter vehicle area",
@@ -6987,7 +6987,7 @@
     "id": 559,
     "category": "road_signs",
     "question": "This sign designates a:",
-    "image": "assets/images/sign-043.jpg",
+    "image": "assets/images/sign-042.jpg",
     "options": [
       "Area where children may be playing",
       "School playground",
@@ -7000,7 +7000,7 @@
     "id": 560,
     "category": "road_signs",
     "question": "This sign marks a:",
-    "image": "assets/images/sign-044.jpg",
+    "image": "assets/images/sign-043.jpg",
     "options": [
       "Designated school pedestrian area",
       "School zone boundary",
