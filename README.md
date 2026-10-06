@@ -1,9 +1,9 @@
-Master Ontario’s G1 test with 261 practice questions, mock exams, and road sign quizzes. Ace your G1 on your first try!
+Master Ontario’s G1 test with 357 practice questions, mock exams, and road sign quizzes. Ace your G1 on your first try!
 
 Prepare for the Ontario G1 driver’s test with G1 Guru, the ultimate study app for new drivers! Whether you’re a student, newcomer, or just refreshing your knowledge, G1 Guru makes learning the rules of the road easy, fun, and effective.
 
 Features:
-261 Practice Questions: Cover all categories, including road signs, traffic rules, parking, and safety.
+357 Practice Questions: Cover all categories, including road signs, traffic rules, parking, and safety.
 Mock Exams: Simulate the real G1 test experience with timed, multiple-choice exams.
 Road Sign Quizzes: Learn regulatory, warning, and information signs with images.
 Instant Feedback & Explanations: Understand why each answer is correct or incorrect.
