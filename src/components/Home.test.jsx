@@ -4,7 +4,7 @@ import userEvent from '@testing-library/user-event'
 import Home from './Home.jsx'
 
 const all = [
-  { id: 1, category: 'rules' },
+  { id: 1, category: 'rules', official: true },
   { id: 2, category: 'road_signs' },
 ]
 
@@ -12,6 +12,7 @@ describe('Home', () => {
   it('shows empty stats for a new user and disables weak review', () => {
     render(<Home progress={{ questions: {}, exams: [] }} all={all} onStart={() => {}} onProgress={() => {}} />)
     expect(screen.getByText('Review weak (0)')).toBeDisabled()
+    expect(screen.getByText(/The 1 sample knowledge-test questions/)).toBeInTheDocument()
     expect(screen.getByText('–')).toBeInTheDocument()
   })
 
@@ -31,6 +32,9 @@ describe('Home', () => {
 
     await user.click(screen.getByText('Start sign quiz'))
     expect(onStart).toHaveBeenLastCalledWith('signs')
+
+    await user.click(screen.getByText('Start official sample'))
+    expect(onStart).toHaveBeenLastCalledWith('sample')
 
     await user.click(screen.getByText('Start practice'))
     expect(onStart).toHaveBeenLastCalledWith('practice', { category: 'all' })

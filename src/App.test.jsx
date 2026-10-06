@@ -72,6 +72,20 @@ describe('App', () => {
     expect(screen.getByText('Road sign quiz')).toBeInTheDocument()
   })
 
+  it('official sample: all official questions, retry restarts the sample', async () => {
+    const official = questions.filter((q) => q.official)
+    expect(official).toHaveLength(8)
+    const u = user()
+    render(<App />)
+    await u.click(screen.getByText('Start official sample'))
+    expect(screen.getByText('Official sample questions')).toBeInTheDocument()
+    expect(screen.getByText('Question 1 of 8')).toBeInTheDocument()
+    await answerAll(u, 8)
+    await u.click(screen.getByText('See results'))
+    await u.click(screen.getByText('Try again'))
+    expect(screen.getByText('Official sample questions')).toBeInTheDocument()
+  })
+
   it('mock exam: 40 questions, records history, retry restarts exam', async () => {
     const u = user()
     render(<App />)

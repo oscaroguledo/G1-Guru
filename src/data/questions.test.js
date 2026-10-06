@@ -35,4 +35,17 @@ describe('question bank integrity', () => {
   it('sign image questions are all road_signs', () => {
     expect(questions.filter((q) => q.image).every((q) => q.category === 'road_signs')).toBe(true)
   })
+  it('includes the 8 official MTO sample questions with the published answer key', () => {
+    const official = questions.filter((q) => q.official)
+    expect(official.map((q) => q.answer)).toEqual([
+      'Steer in the direction you want to go.',
+      'It is not permitted.',
+      'Yield right-of-way to all vehicles approaching on the highway.',
+      'Giving proper signal and looking to make sure the move can be made safely.',
+      'Move to the right and allow such vehicle to pass.',
+      'Traffic regulations.',
+      'You cannot see as far ahead at night.',
+      'Stop within a safe distance.',
+    ])
+  })
 })

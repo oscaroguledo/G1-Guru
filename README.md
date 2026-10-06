@@ -1,10 +1,10 @@
 # G1 Guru
 
-**Free practice for the Ontario G1 knowledge test** — 357 questions, a timed mock exam, a road-sign quiz and progress tracking. Works offline, runs in any browser, no account and no ads.
+**Free practice for the Ontario G1 knowledge test** — 365 questions, a timed mock exam, a road-sign quiz and progress tracking. Works offline, runs in any browser, no account and no ads.
 
 [![CI](https://github.com/oscaroguledo/G1-Guru/actions/workflows/ci.yml/badge.svg)](https://github.com/oscaroguledo/G1-Guru/actions/workflows/ci.yml)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
-![Questions](https://img.shields.io/badge/questions-357-blue)
+![Questions](https://img.shields.io/badge/questions-365-blue)
 
 > **Not affiliated with the Ontario government.** G1 Guru is an independent study aid built from the *Official MTO Driver's Handbook*. Always check the current handbook and [ontario.ca](https://www.ontario.ca/page/get-g1-licence) for the rules and for the exact test format.
 
@@ -26,11 +26,12 @@
 | **Mock exam** | 40 random questions (20 road signs + 20 rules of the road), 30-minute timer, 80% (32/40) to pass. Move back and forth, change answers, and review every miss at the end. |
 | **Practice mode** | 20 questions at a time with instant right/wrong feedback and a short explanation. Pick all topics, rules only, or signs only. |
 | **Road-sign quiz** | 109 picture questions: regulatory, warning, construction and information signs, traffic lights, flashing beacons and pedestrian signals. |
+| **Official sample** | The 8 sample knowledge-test questions published in the Official MTO Driver's Handbook, with the official answer key. |
 | **Weak-question review** | One tap to re-drill the questions you last got wrong. |
 | **Progress tracking** | Accuracy by topic, mock-exam history and your weak list — saved privately in your browser. |
 | **Offline** | Install it to your phone or computer and study with no connection. |
 
-**Question bank:** 357 questions — 211 rules of the road and 146 road-sign/signal questions (109 with pictures). Answer order is reshuffled every time you start a quiz, so you can't memorise positions.
+**Question bank:** 365 questions — 219 rules of the road and 146 road-sign/signal questions (109 with pictures). Answer order is reshuffled every time you start a quiz, so you can't memorise positions.
 
 ## Using G1 Guru to prepare
 
@@ -47,11 +48,7 @@ A study plan that works for most people (about two weeks):
 
 ## Run it
 
-### Use it online
-
-If a hosted copy is available it is published from this repository to GitHub Pages (see [Deploying](#deploying)).
-
-### Run it on your own computer
+### Run it on your computer
 
 You need [Node.js](https://nodejs.org) 20.19 or newer (or 22.12+).
 
@@ -109,7 +106,7 @@ scripts/validate.py     standalone data checker
 
 ### Tests
 
-The suite (46 tests) covers the quiz logic, storage, every screen, full end-to-end flows through the app (practice, sign quiz, mock exam, weak review, progress reset, timer expiry) and **content integrity**: 4 distinct options per question, the answer is always among the options, no duplicate questions, and every image exists and is used. Coverage is enforced at 100% in CI.
+The suite (48 tests) covers the quiz logic, storage, every screen, full end-to-end flows through the app (practice, sign quiz, mock exam, weak review, progress reset, timer expiry) and **content integrity**: 4 distinct options per question, the answer is always among the options, no duplicate questions, and every image exists and is used. Coverage is enforced at 100% in CI.
 
 ### Question format
 
@@ -127,9 +124,9 @@ The suite (46 tests) covers the quiz logic, storage, every screen, full end-to-e
 
 `category` is `rules` or `road_signs`; `image` and `explanation` are optional. To add a question, edit `src/data/questions.json`, keep ids sequential, and run `npm test`.
 
-### Deploying
+### Hosting
 
-The `Deploy to GitHub Pages` workflow builds and publishes `dist/`. In the repository settings choose **Pages → Source: GitHub Actions**, then run the workflow from the **Actions** tab. Any static host (Netlify, Cloudflare Pages, S3) also works — upload the contents of `dist/`.
+The app is a static site: run `npm run build` and upload the contents of `dist/` to any static host (GitHub Pages, Netlify, Cloudflare Pages, S3).
 
 ### Contributing
 

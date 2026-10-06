@@ -49,6 +49,12 @@ export default function Home({ progress, all, onStart, onProgress }) {
         <button className="primary" onClick={() => onStart('signs')}>Start sign quiz</button>
       </section>
 
+      <section className="card">
+        <h2>Official sample questions</h2>
+        <p>The {all.filter((q) => q.official).length} sample knowledge-test questions published in the Official MTO Driver’s Handbook.</p>
+        <button className="primary" onClick={() => onStart('sample')}>Start official sample</button>
+      </section>
+
       <button className="link" onClick={onProgress}>View my progress</button>
     </>
   )
