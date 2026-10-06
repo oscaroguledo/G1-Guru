@@ -25,5 +25,15 @@ export default defineConfig({
       },
     }),
   ],
-  test: { environment: 'node' },
+  test: {
+    environment: 'jsdom',
+    setupFiles: ['./src/test-setup.js'],
+    coverage: {
+      provider: 'v8',
+      include: ['src/**/*.{js,jsx}'],
+      exclude: ['src/**/*.test.{js,jsx}', 'src/test-setup.js'],
+      reporter: ['text', 'html'],
+      thresholds: { lines: 100, functions: 100, branches: 100, statements: 100 },
+    },
+  },
 })
