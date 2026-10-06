@@ -140,3 +140,6 @@ vite.config.ts.timestamp-*
 
 # Local handbook PDF
 MTO_drivingtest_handbook.pdf
+
+# macOS
+.DS_Store
