@@ -184,7 +184,7 @@
   {
     "id": 15,
     "category": "road_signs",
-    "question": "A \u2018Do Not Enter\u2019 sign means:",
+    "question": "A ‘Do Not Enter’ sign means:",
     "image": "assets/images/sign-014.jpg",
     "options": [
       "Road closed to all traffic",
@@ -2600,12 +2600,12 @@
     "category": "rules",
     "question": "When driving behind a large truck, you should:",
     "options": [
-      "Stay far enough back to see the truck\u2019s mirrors",
+      "Stay far enough back to see the truck’s mirrors",
       "Follow closely",
       "Stay in the blind spot",
       "Flash high beams"
     ],
-    "answer": "Stay far enough back to see the truck\u2019s mirrors"
+    "answer": "Stay far enough back to see the truck’s mirrors"
   },
   {
     "id": 210,
@@ -2654,18 +2654,6 @@
       "Reverse"
     ],
     "answer": "Yield to the driver on the right"
-  },
-  {
-    "id": 214,
-    "category": "rules",
-    "question": "If your vehicle begins to skid, you should:",
-    "options": [
-      "Steer in the direction you want to go",
-      "Brake hard",
-      "Accelerate",
-      "Turn opposite the skid"
-    ],
-    "answer": "Steer in the direction you want to go"
   },
   {
     "id": 215,
@@ -2735,7 +2723,7 @@
       "Obey reduced speed limits and be alert",
       "Maintain normal speed",
       "Pass construction vehicles",
-      "Ignore workers\u2019 signals"
+      "Ignore workers’ signals"
     ],
     "answer": "Obey reduced speed limits and be alert"
   },
@@ -3370,18 +3358,6 @@
     "answer": "Illegal"
   },
   {
-    "id": 271,
-    "category": "rules",
-    "question": "Seat belts must be worn by:",
-    "options": [
-      "All occupants",
-      "Only the driver",
-      "Only front passengers",
-      "Only on highways"
-    ],
-    "answer": "All occupants"
-  },
-  {
     "id": 272,
     "category": "rules",
     "question": "Before changing lanes, you should:",
@@ -3394,18 +3370,6 @@
     "answer": "Signal and check mirrors and blind spots"
   },
   {
-    "id": 273,
-    "category": "rules",
-    "question": "If your vehicle is disabled on the road, you should:",
-    "options": [
-      "Use hazard lights",
-      "Turn off all lights",
-      "Leave the engine running and exit",
-      "Stand in the lane"
-    ],
-    "answer": "Use hazard lights"
-  },
-  {
     "id": 274,
     "category": "rules",
     "question": "At an unmarked crosswalk, you must:",
@@ -3416,18 +3380,6 @@
       "Stop only at night"
     ],
     "answer": "Yield to pedestrians"
-  },
-  {
-    "id": 275,
-    "category": "rules",
-    "question": "In a school zone, you must:",
-    "options": [
-      "Obey the posted speed limit during indicated times",
-      "Drive 30 km/h at all times",
-      "Honk to warn",
-      "Ignore posted signs"
-    ],
-    "answer": "Obey the posted speed limit during indicated times"
   },
   {
     "id": 276,
@@ -3464,18 +3416,6 @@
       "Reverse"
     ],
     "answer": "Yield to the driver on the right"
-  },
-  {
-    "id": 279,
-    "category": "rules",
-    "question": "Drivers must use headlights between:",
-    "options": [
-      "Half an hour before sunset to half an hour after sunrise",
-      "Only during rain",
-      "Only on highways",
-      "Only below 40 km/h"
-    ],
-    "answer": "Half an hour before sunset to half an hour after sunrise"
   },
   {
     "id": 280,
@@ -3878,366 +3818,6 @@
       "Passing allowed only at night"
     ],
     "answer": "Passing is allowed when safe"
-  },
-  {
-    "id": 311,
-    "category": "rules",
-    "question": "You must not enter an intersection unless:",
-    "options": [
-      "You can clear it completely",
-      "The light is green",
-      "You are turning right",
-      "You honk first"
-    ],
-    "answer": "You can clear it completely"
-  },
-  {
-    "id": 312,
-    "category": "rules",
-    "question": "Changing lanes in an intersection is:",
-    "options": [
-      "Unsafe and should be avoided",
-      "Required when turning",
-      "Allowed at any time",
-      "Only allowed at night"
-    ],
-    "answer": "Unsafe and should be avoided"
-  },
-  {
-    "id": 313,
-    "category": "rules",
-    "question": "When turning right, you should:",
-    "options": [
-      "Turn into the right lane",
-      "Turn into the left lane",
-      "Turn from the left lane",
-      "Honk and turn"
-    ],
-    "answer": "Turn into the right lane"
-  },
-  {
-    "id": 314,
-    "category": "rules",
-    "question": "When turning left from a two-way road onto a two-way road, you should:",
-    "options": [
-      "Turn into the left lane",
-      "Turn into the right lane",
-      "Turn from the right lane",
-      "Change lanes mid-turn"
-    ],
-    "answer": "Turn into the left lane"
-  },
-  {
-    "id": 315,
-    "category": "rules",
-    "question": "When turning right at a green light, you must:",
-    "options": [
-      "Yield to pedestrians and cyclists",
-      "Proceed without looking",
-      "Stop only for vehicles",
-      "Use the left lane"
-    ],
-    "answer": "Yield to pedestrians and cyclists"
-  },
-  {
-    "id": 316,
-    "category": "rules",
-    "question": "Before leaving a parking space, you should:",
-    "options": [
-      "Signal and check for traffic",
-      "Pull out immediately",
-      "Only check your mirror",
-      "Honk and go"
-    ],
-    "answer": "Signal and check for traffic"
-  },
-  {
-    "id": 317,
-    "category": "rules",
-    "question": "On a multi-lane highway, you should:",
-    "options": [
-      "Keep right except to pass",
-      "Drive in the left lane only",
-      "Weave between lanes",
-      "Stop on the shoulder"
-    ],
-    "answer": "Keep right except to pass"
-  },
-  {
-    "id": 318,
-    "category": "rules",
-    "question": "If a lane is marked for turning only, you must:",
-    "options": [
-      "Turn in the direction of the arrow",
-      "Go straight if clear",
-      "Change lanes in the intersection",
-      "Stop and wait"
-    ],
-    "answer": "Turn in the direction of the arrow"
-  },
-  {
-    "id": 319,
-    "category": "rules",
-    "question": "A G1 driver must be accompanied by:",
-    "options": [
-      "A fully licensed driver in the front seat",
-      "Any adult passenger",
-      "A passenger in the back seat",
-      "No one"
-    ],
-    "answer": "A fully licensed driver in the front seat"
-  },
-  {
-    "id": 320,
-    "category": "rules",
-    "question": "For a G1 driver, the blood alcohol concentration must be:",
-    "options": [
-      "0.00",
-      "0.02",
-      "0.05",
-      "0.08"
-    ],
-    "answer": "0.00"
-  },
-  {
-    "id": 321,
-    "category": "rules",
-    "question": "A G1 driver must not drive between:",
-    "options": [
-      "Midnight and 5 a.m.",
-      "6 a.m. and 10 a.m.",
-      "Noon and 4 p.m.",
-      "7 p.m. and 9 p.m."
-    ],
-    "answer": "Midnight and 5 a.m."
-  },
-  {
-    "id": 322,
-    "category": "rules",
-    "question": "A G1 driver on a 400-series highway is permitted only when:",
-    "options": [
-      "Accompanied by a driving instructor",
-      "Driving alone",
-      "With any passenger",
-      "In a vehicle with winter tires"
-    ],
-    "answer": "Accompanied by a driving instructor"
-  },
-  {
-    "id": 323,
-    "category": "rules",
-    "question": "If your vehicle stalls on railway tracks, you should:",
-    "options": [
-      "Leave the vehicle and move away from the tracks",
-      "Try to push the vehicle along the tracks",
-      "Wait inside the vehicle",
-      "Call a tow and stay in the car"
-    ],
-    "answer": "Leave the vehicle and move away from the tracks"
-  },
-  {
-    "id": 324,
-    "category": "rules",
-    "question": "You must not stop or park:",
-    "options": [
-      "On railway tracks or within the crossing",
-      "On a private driveway",
-      "On your own driveway",
-      "At a rest area"
-    ],
-    "answer": "On railway tracks or within the crossing"
-  },
-  {
-    "id": 325,
-    "category": "rules",
-    "question": "When a streetcar is stopped and passengers are getting on or off, you must:",
-    "options": [
-      "Stop and keep at least 2 metres behind the rear door",
-      "Pass slowly on the right",
-      "Honk and proceed",
-      "Stop only at night"
-    ],
-    "answer": "Stop and keep at least 2 metres behind the rear door"
-  },
-  {
-    "id": 326,
-    "category": "rules",
-    "question": "When passing another vehicle, you should return to your lane when:",
-    "options": [
-      "You can see the passed vehicle in your rearview mirror",
-      "You are halfway past",
-      "You hear a horn",
-      "You are beside the vehicle"
-    ],
-    "answer": "You can see the passed vehicle in your rearview mirror"
-  },
-  {
-    "id": 327,
-    "category": "rules",
-    "question": "In rain or snow, you should:",
-    "options": [
-      "Increase following distance",
-      "Use cruise control",
-      "Brake late",
-      "Drive faster"
-    ],
-    "answer": "Increase following distance"
-  },
-  {
-    "id": 328,
-    "category": "rules",
-    "question": "In fog or heavy precipitation, you should use:",
-    "options": [
-      "Low-beam headlights",
-      "High-beam headlights",
-      "Parking lights only",
-      "Hazard lights only"
-    ],
-    "answer": "Low-beam headlights"
-  },
-  {
-    "id": 329,
-    "category": "rules",
-    "question": "If the intersection is blocked, you should:",
-    "options": [
-      "Wait until you can clear it",
-      "Enter and block it",
-      "Turn on hazard lights and proceed",
-      "Follow the vehicle ahead closely"
-    ],
-    "answer": "Wait until you can clear it"
-  },
-  {
-    "id": 330,
-    "category": "rules",
-    "question": "Using a handheld device while driving is:",
-    "options": [
-      "Illegal",
-      "Allowed below 30 km/h",
-      "Allowed if no passengers",
-      "Allowed on rural roads"
-    ],
-    "answer": "Illegal"
-  },
-  {
-    "id": 331,
-    "category": "rules",
-    "question": "Seat belts must be worn by:",
-    "options": [
-      "All occupants",
-      "Only the driver",
-      "Only front passengers",
-      "Only on highways"
-    ],
-    "answer": "All occupants"
-  },
-  {
-    "id": 332,
-    "category": "rules",
-    "question": "Before changing lanes, you should:",
-    "options": [
-      "Signal and check mirrors and blind spots",
-      "Only check mirrors",
-      "Only check blind spots",
-      "Speed up sharply"
-    ],
-    "answer": "Signal and check mirrors and blind spots"
-  },
-  {
-    "id": 333,
-    "category": "rules",
-    "question": "If your vehicle is disabled on the road, you should:",
-    "options": [
-      "Use hazard lights",
-      "Turn off all lights",
-      "Leave the engine running and exit",
-      "Stand in the lane"
-    ],
-    "answer": "Use hazard lights"
-  },
-  {
-    "id": 334,
-    "category": "rules",
-    "question": "At an unmarked crosswalk, you must:",
-    "options": [
-      "Yield to pedestrians",
-      "Honk and proceed",
-      "Speed up",
-      "Stop only at night"
-    ],
-    "answer": "Yield to pedestrians"
-  },
-  {
-    "id": 335,
-    "category": "rules",
-    "question": "In a school zone, you must:",
-    "options": [
-      "Obey the posted speed limit during indicated times",
-      "Drive 30 km/h at all times",
-      "Honk to warn",
-      "Ignore posted signs"
-    ],
-    "answer": "Obey the posted speed limit during indicated times"
-  },
-  {
-    "id": 336,
-    "category": "rules",
-    "question": "If a transit bus signals to re-enter traffic from a bus bay, you should:",
-    "options": [
-      "Yield to the bus",
-      "Speed up to pass",
-      "Stop immediately",
-      "Honk and proceed"
-    ],
-    "answer": "Yield to the bus"
-  },
-  {
-    "id": 337,
-    "category": "rules",
-    "question": "On a two-way road, you should:",
-    "options": [
-      "Keep to the right side of your lane",
-      "Drive on the centre line",
-      "Drive on the shoulder",
-      "Straddle lanes"
-    ],
-    "answer": "Keep to the right side of your lane"
-  },
-  {
-    "id": 338,
-    "category": "rules",
-    "question": "At a 4-way stop, if two vehicles arrive at the same time, the driver on the left must:",
-    "options": [
-      "Yield to the driver on the right",
-      "Go first",
-      "Honk and proceed",
-      "Reverse"
-    ],
-    "answer": "Yield to the driver on the right"
-  },
-  {
-    "id": 339,
-    "category": "rules",
-    "question": "Drivers must use headlights between:",
-    "options": [
-      "Half an hour before sunset to half an hour after sunrise",
-      "Only during rain",
-      "Only on highways",
-      "Only below 40 km/h"
-    ],
-    "answer": "Half an hour before sunset to half an hour after sunrise"
-  },
-  {
-    "id": 340,
-    "category": "rules",
-    "question": "When an emergency vehicle approaches with lights and siren, you must:",
-    "options": [
-      "Pull to the right and stop",
-      "Speed up",
-      "Maintain speed",
-      "Stop in your lane"
-    ],
-    "answer": "Pull to the right and stop"
   },
   {
     "id": 341,
@@ -4690,18 +4270,6 @@
     "answer": "Headlights"
   },
   {
-    "id": 376,
-    "category": "rules",
-    "question": "When entering a freeway, you should:",
-    "options": [
-      "Use the acceleration lane to match traffic speed",
-      "Stop at the end of the ramp",
-      "Enter at 30 km/h",
-      "Sound your horn"
-    ],
-    "answer": "Use the acceleration lane to match traffic speed"
-  },
-  {
     "id": 377,
     "category": "rules",
     "question": "If you miss your exit on a freeway, you should:",
@@ -4724,18 +4292,6 @@
       "Stop only if you are behind it"
     ],
     "answer": "Stop in both directions"
-  },
-  {
-    "id": 379,
-    "category": "rules",
-    "question": "You must not pass another vehicle within ____ of a railway crossing.",
-    "options": [
-      "30 metres",
-      "5 metres",
-      "10 metres",
-      "100 metres"
-    ],
-    "answer": "30 metres"
   },
   {
     "id": 380,
@@ -4774,18 +4330,6 @@
     "answer": "Look to the right edge of your lane"
   },
   {
-    "id": 383,
-    "category": "rules",
-    "question": "When approaching a pedestrian crossover, you must:",
-    "options": [
-      "Stop and yield when required",
-      "Slow down only",
-      "Proceed if pedestrians are on the sidewalk",
-      "Honk to warn"
-    ],
-    "answer": "Stop and yield when required"
-  },
-  {
     "id": 384,
     "category": "rules",
     "question": "If a traffic light turns yellow as you approach, you should:",
@@ -4796,18 +4340,6 @@
       "Proceed without caution"
     ],
     "answer": "Stop if you can do so safely"
-  },
-  {
-    "id": 385,
-    "category": "rules",
-    "question": "Before changing lanes, you should:",
-    "options": [
-      "Signal and check mirrors and blind spots",
-      "Only check mirrors",
-      "Only check blind spots",
-      "Speed up sharply"
-    ],
-    "answer": "Signal and check mirrors and blind spots"
   },
   {
     "id": 386,
@@ -4832,18 +4364,6 @@
       "Change lanes in the curve"
     ],
     "answer": "Slow down before the curve"
-  },
-  {
-    "id": 388,
-    "category": "rules",
-    "question": "If your vehicle begins to skid, you should:",
-    "options": [
-      "Steer in the direction you want to go",
-      "Brake hard",
-      "Accelerate",
-      "Turn opposite the skid"
-    ],
-    "answer": "Steer in the direction you want to go"
   },
   {
     "id": 389,
@@ -4894,18 +4414,6 @@
     "answer": "Yield to the bus"
   },
   {
-    "id": 393,
-    "category": "rules",
-    "question": "If your brakes fail, you should:",
-    "options": [
-      "Shift to a lower gear and use the parking brake gradually",
-      "Turn off the ignition immediately",
-      "Pump the brakes once",
-      "Accelerate to regain control"
-    ],
-    "answer": "Shift to a lower gear and use the parking brake gradually"
-  },
-  {
     "id": 394,
     "category": "rules",
     "question": "At a 4-way stop, the vehicle that arrives first should:",
@@ -4916,30 +4424,6 @@
       "Let the largest vehicle go"
     ],
     "answer": "Go first"
-  },
-  {
-    "id": 395,
-    "category": "rules",
-    "question": "When approaching a stopped emergency vehicle with flashing lights, you must:",
-    "options": [
-      "Slow down and move over if safe",
-      "Maintain speed",
-      "Stop in your lane",
-      "Pass quickly"
-    ],
-    "answer": "Slow down and move over if safe"
-  },
-  {
-    "id": 396,
-    "category": "rules",
-    "question": "Using a handheld phone while driving is:",
-    "options": [
-      "Illegal",
-      "Allowed at red lights",
-      "Allowed if on speaker",
-      "Allowed under 40 km/h"
-    ],
-    "answer": "Illegal"
   },
   {
     "id": 397,
@@ -4954,18 +4438,6 @@
     "answer": "Increase following distance"
   },
   {
-    "id": 398,
-    "category": "rules",
-    "question": "If you are being passed, you should:",
-    "options": [
-      "Stay in your lane and maintain speed",
-      "Speed up",
-      "Move into the other lane",
-      "Brake sharply"
-    ],
-    "answer": "Stay in your lane and maintain speed"
-  },
-  {
     "id": 399,
     "category": "rules",
     "question": "When opening your door after parking, you should:",
@@ -4976,18 +4448,6 @@
       "Only check the mirror"
     ],
     "answer": "Check mirrors and blind spots for cyclists"
-  },
-  {
-    "id": 400,
-    "category": "rules",
-    "question": "Seat belts must be worn by:",
-    "options": [
-      "All occupants",
-      "Only the driver",
-      "Only front passengers",
-      "Only on highways"
-    ],
-    "answer": "All occupants"
   },
   {
     "id": 401,
@@ -5464,18 +4924,6 @@
     "answer": "Fines and demerit points"
   },
   {
-    "id": 438,
-    "category": "rules",
-    "question": "When entering a freeway, you should:",
-    "options": [
-      "Match the speed of traffic",
-      "Stop and wait for gap",
-      "Drive slowly",
-      "Use hazard lights"
-    ],
-    "answer": "Match the speed of traffic"
-  },
-  {
     "id": 439,
     "category": "rules",
     "question": "A flashing red light at an intersection means:",
@@ -5564,24 +5012,12 @@
     "category": "rules",
     "question": "Winter tires are recommended when temperatures drop below:",
     "options": [
-      "7\u00b0C",
-      "0\u00b0C",
-      "-5\u00b0C",
-      "-10\u00b0C"
+      "7°C",
+      "0°C",
+      "-5°C",
+      "-10°C"
     ],
-    "answer": "7\u00b0C"
-  },
-  {
-    "id": 447,
-    "category": "rules",
-    "question": "A G1 driver must be accompanied by:",
-    "options": [
-      "Fully licensed driver with 4+ years experience",
-      "Any licensed driver",
-      "G2 driver",
-      "Family member only"
-    ],
-    "answer": "Fully licensed driver with 4+ years experience"
+    "answer": "7°C"
   },
   {
     "id": 448,
@@ -6202,18 +5638,6 @@
     "answer": "You may change lanes if safe"
   },
   {
-    "id": 497,
-    "category": "rules",
-    "question": "When driving in heavy rain, you should:",
-    "options": [
-      "Slow down and increase following distance",
-      "Speed up to avoid hydroplaning",
-      "Use cruise control",
-      "Drive in the left lane"
-    ],
-    "answer": "Slow down and increase following distance"
-  },
-  {
     "id": 498,
     "category": "rules",
     "question": "The demerit point system is designed to:",
@@ -6248,18 +5672,6 @@
       "Within 100m of intersection"
     ],
     "answer": "When you have clear view and legal passing zone"
-  },
-  {
-    "id": 501,
-    "category": "rules",
-    "question": "If you miss your exit on a freeway, you should:",
-    "options": [
-      "Continue to next exit",
-      "Back up",
-      "Stop and reverse",
-      "Cut across lanes"
-    ],
-    "answer": "Continue to next exit"
   },
   {
     "id": 502,
@@ -6404,18 +5816,6 @@
       "Speed up through it"
     ],
     "answer": "Yield to traffic already in circle"
-  },
-  {
-    "id": 514,
-    "category": "rules",
-    "question": "Hydroplaning occurs when:",
-    "options": [
-      "Tires lose contact with road on wet surface",
-      "Driving through deep water",
-      "Brakes fail in rain",
-      "Windshield fogs up"
-    ],
-    "answer": "Tires lose contact with road on wet surface"
   },
   {
     "id": 515,
@@ -7010,18 +6410,6 @@
     "answer": "Designated school pedestrian area"
   },
   {
-    "id": 561,
-    "category": "rules",
-    "question": "When parking uphill without a curb, you should turn your wheels:",
-    "options": [
-      "To the right",
-      "To the left",
-      "Straight ahead",
-      "Either direction"
-    ],
-    "answer": "To the right"
-  },
-  {
     "id": 562,
     "category": "rules",
     "question": "The main cause of skidding is:",
@@ -7092,18 +6480,6 @@
       "0.02%"
     ],
     "answer": "Zero"
-  },
-  {
-    "id": 568,
-    "category": "rules",
-    "question": "When entering a curve, you should:",
-    "options": [
-      "Slow down before the curve",
-      "Brake in the curve",
-      "Accelerate through it",
-      "Use high beams"
-    ],
-    "answer": "Slow down before the curve"
   },
   {
     "id": 569,
