@@ -6,9 +6,9 @@
     "image": "assets/images/sign-084.jpg",
     "options": [
       "No left turn during the posted times",
-      "Left turn only during the posted times",
+      "No U-turns during the posted times",
       "Left lane closed at rush hour",
-      "No U-turns during the posted times"
+      "Left turn only during the posted times"
     ],
     "answer": "No left turn during the posted times"
   },
@@ -18,9 +18,9 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-086.jpg",
     "options": [
+      "Bicycles must dismount",
       "No bicycles",
       "Bicycle lane ahead",
-      "Bicycles must dismount",
       "Bicycle crossing ahead"
     ],
     "answer": "No bicycles"
@@ -31,10 +31,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-087.jpg",
     "options": [
-      "No pedestrians",
-      "Pedestrian crossing ahead",
+      "School zone ahead",
       "Pedestrians have the right-of-way",
-      "School zone ahead"
+      "No pedestrians",
+      "Pedestrian crossing ahead"
     ],
     "answer": "No pedestrians"
   },
@@ -44,10 +44,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-088.jpg",
     "options": [
-      "Keep right",
       "Right turn only",
       "Right lane ends",
-      "Yield to traffic on the right"
+      "Yield to traffic on the right",
+      "Keep right"
     ],
     "answer": "Keep right"
   },
@@ -70,10 +70,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-091.jpg",
     "options": [
-      "Slower traffic must keep right",
-      "Right lane ends ahead",
       "Minimum speed is posted",
-      "Trucks must use the right lane only"
+      "Slower traffic must keep right",
+      "Trucks must use the right lane only",
+      "Right lane ends ahead"
     ],
     "answer": "Slower traffic must keep right"
   },
@@ -83,9 +83,9 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-092.jpg",
     "options": [
-      "Community Safety Zone: fines are increased",
-      "School bus stop ahead",
       "Construction zone: workers present",
+      "School bus stop ahead",
+      "Community Safety Zone: fines are increased",
       "Neighbourhood watch area"
     ],
     "answer": "Community Safety Zone: fines are increased"
@@ -96,10 +96,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-093.jpg",
     "options": [
-      "The maximum speed is 40 km/h when the lights are flashing",
-      "The maximum speed is 40 km/h at all times",
+      "Pedestrian crossover ahead",
       "School bus stop ahead",
-      "Pedestrian crossover ahead"
+      "The maximum speed is 40 km/h at all times",
+      "The maximum speed is 40 km/h when the lights are flashing"
     ],
     "answer": "The maximum speed is 40 km/h when the lights are flashing"
   },
@@ -110,9 +110,9 @@
     "image": "assets/images/sign-094.jpg",
     "options": [
       "Stop for school bus when signals are flashing",
-      "School bus stop ahead",
+      "No stopping at any time",
       "School bus parking only",
-      "No stopping at any time"
+      "School bus stop ahead"
     ],
     "answer": "Stop for school bus when signals are flashing"
   },
@@ -122,10 +122,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-097.jpg",
     "options": [
+      "Detour to the right",
       "One-way traffic in the direction of the arrow",
-      "Right turn only",
       "Two-way traffic ahead",
-      "Detour to the right"
+      "Right turn only"
     ],
     "answer": "One-way traffic in the direction of the arrow"
   },
@@ -135,9 +135,9 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-098.jpg",
     "options": [
-      "Pedestrian crossover ahead: do not pass here",
       "Railway crossing ahead",
       "Pedestrians prohibited",
+      "Pedestrian crossover ahead: do not pass here",
       "School crossing ahead"
     ],
     "answer": "Pedestrian crossover ahead: do not pass here"
@@ -148,10 +148,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-099.jpg",
     "options": [
-      "Centre lane used for left turns by traffic from both directions",
-      "Two-way traffic with passing allowed",
+      "Lane ends ahead",
       "Reversible lane",
-      "Lane ends ahead"
+      "Two-way traffic with passing allowed",
+      "Centre lane used for left turns by traffic from both directions"
     ],
     "answer": "Centre lane used for left turns by traffic from both directions"
   },
@@ -163,8 +163,8 @@
     "options": [
       "Yield to transit buses re-entering traffic",
       "Yield sign ahead",
-      "Bus stop ahead",
-      "Buses only lane"
+      "Buses only lane",
+      "Bus stop ahead"
     ],
     "answer": "Yield to transit buses re-entering traffic"
   },
@@ -174,10 +174,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-105.jpg",
     "options": [
-      "School bus loading zone",
       "School bus parking only",
-      "School crossing ahead",
-      "No stopping of school buses"
+      "School bus loading zone",
+      "No stopping of school buses",
+      "School crossing ahead"
     ],
     "answer": "School bus loading zone"
   },
@@ -187,9 +187,9 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-106.jpg",
     "options": [
-      "Reserved lane for vehicles with 2 or more persons (HOV lane)",
-      "Carpooling is optional in this lane",
       "Bus lane only",
+      "Carpooling is optional in this lane",
+      "Reserved lane for vehicles with 2 or more persons (HOV lane)",
       "Lane ends ahead"
     ],
     "answer": "Reserved lane for vehicles with 2 or more persons (HOV lane)"
@@ -200,10 +200,10 @@
     "question": "This sign indicates:",
     "image": "assets/images/sign-113.jpg",
     "options": [
-      "Airport",
       "Heliport",
       "Rest area",
-      "Train station"
+      "Train station",
+      "Airport"
     ],
     "answer": "Airport"
   },
@@ -214,9 +214,9 @@
     "image": "assets/images/sign-114.jpg",
     "options": [
       "Curve to the right ahead",
-      "Road ends ahead",
+      "Merging traffic ahead",
       "Right turn only",
-      "Merging traffic ahead"
+      "Road ends ahead"
     ],
     "answer": "Curve to the right ahead"
   },
@@ -226,10 +226,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-115.jpg",
     "options": [
-      "Advisory speed: the recommended safe speed for the hazard ahead is 60 km/h",
       "The maximum speed limit is 60 km/h",
-      "The minimum speed is 60 km/h",
-      "The speed limit ends"
+      "Advisory speed: the recommended safe speed for the hazard ahead is 60 km/h",
+      "The speed limit ends",
+      "The minimum speed is 60 km/h"
     ],
     "answer": "Advisory speed: the recommended safe speed for the hazard ahead is 60 km/h"
   },
@@ -239,10 +239,10 @@
     "question": "What does this warning sign mean?",
     "image": "assets/images/sign-116.jpg",
     "options": [
-      "Sharp turn to the right ahead",
-      "Right turn only",
+      "Side road on the right",
       "Right lane ends",
-      "Side road on the right"
+      "Sharp turn to the right ahead",
+      "Right turn only"
     ],
     "answer": "Sharp turn to the right ahead"
   },
@@ -252,10 +252,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-117.jpg",
     "options": [
-      "Sharp change in the direction of the road; follow the arrow",
-      "Road ends: turn right",
+      "One-way road",
       "Right turn prohibited",
-      "One-way road"
+      "Road ends: turn right",
+      "Sharp change in the direction of the road; follow the arrow"
     ],
     "answer": "Sharp change in the direction of the road; follow the arrow"
   },
@@ -267,8 +267,8 @@
     "options": [
       "Winding road ahead",
       "Slippery when wet",
-      "Road narrows",
-      "Lane shift ahead"
+      "Lane shift ahead",
+      "Road narrows"
     ],
     "answer": "Winding road ahead"
   },
@@ -278,10 +278,10 @@
     "question": "What does this warning sign mean?",
     "image": "assets/images/sign-121.jpg",
     "options": [
+      "Cyclists must dismount",
       "Bicycle crossing ahead",
       "Bicycles prohibited",
-      "Bike lane ends",
-      "Cyclists must dismount"
+      "Bike lane ends"
     ],
     "answer": "Bicycle crossing ahead"
   },
@@ -291,10 +291,10 @@
     "question": "What does this warning sign mean?",
     "image": "assets/images/sign-122.jpg",
     "options": [
-      "Stop sign ahead",
       "Stop here",
-      "Yield sign ahead",
-      "Do not enter"
+      "Do not enter",
+      "Stop sign ahead",
+      "Yield sign ahead"
     ],
     "answer": "Stop sign ahead"
   },
@@ -304,10 +304,10 @@
     "question": "What does this warning sign mean?",
     "image": "assets/images/sign-123.jpg",
     "options": [
-      "Two-way traffic ahead",
-      "Divided highway begins",
+      "Passing lane ahead",
       "Road narrows",
-      "Passing lane ahead"
+      "Divided highway begins",
+      "Two-way traffic ahead"
     ],
     "answer": "Two-way traffic ahead"
   },
@@ -330,10 +330,10 @@
     "question": "What does this warning sign mean?",
     "image": "assets/images/sign-129.jpg",
     "options": [
-      "Traffic signals ahead",
       "Railway crossing ahead",
-      "Stop sign ahead",
-      "Pedestrian crossover ahead"
+      "Traffic signals ahead",
+      "Pedestrian crossover ahead",
+      "Stop sign ahead"
     ],
     "answer": "Traffic signals ahead"
   },
@@ -343,10 +343,10 @@
     "question": "What does this warning sign mean?",
     "image": "assets/images/sign-130.jpg",
     "options": [
-      "Steep hill ahead (18% grade)",
       "Truck crossing ahead",
-      "Runaway truck ramp",
-      "Maximum 18 km/h"
+      "Maximum 18 km/h",
+      "Steep hill ahead (18% grade)",
+      "Runaway truck ramp"
     ],
     "answer": "Steep hill ahead (18% grade)"
   },
@@ -356,10 +356,10 @@
     "question": "What does this warning sign mean?",
     "image": "assets/images/sign-132.jpg",
     "options": [
-      "Snowmobiles may cross the road",
-      "Snowmobiles prohibited",
       "Snowmobile parking",
-      "Winter road conditions"
+      "Snowmobiles prohibited",
+      "Winter road conditions",
+      "Snowmobiles may cross the road"
     ],
     "answer": "Snowmobiles may cross the road"
   },
@@ -370,8 +370,8 @@
     "image": "assets/images/sign-138.jpg",
     "options": [
       "Parking reserved for persons with a disabled person parking permit",
-      "Hospital ahead",
       "Parking for taxis only",
+      "Hospital ahead",
       "Loading zone"
     ],
     "answer": "Parking reserved for persons with a disabled person parking permit"
@@ -382,10 +382,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-140.jpg",
     "options": [
-      "No snowmobiles",
-      "Snowmobile route",
       "Snowmobile crossing ahead",
-      "Winter road closed"
+      "No snowmobiles",
+      "Winter road closed",
+      "Snowmobile route"
     ],
     "answer": "No snowmobiles"
   },
@@ -395,9 +395,9 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-141.jpg",
     "options": [
-      "Emergency detour route to use when a highway is closed",
-      "Permanent detour",
       "Truck route",
+      "Permanent detour",
+      "Emergency detour route to use when a highway is closed",
       "Scenic route"
     ],
     "answer": "Emergency detour route to use when a highway is closed"
@@ -408,10 +408,10 @@
     "question": "What does this traffic signal mean?",
     "image": "assets/images/sign-145.jpg",
     "options": [
-      "Green: proceed if the intersection is clear, yielding to pedestrians and vehicles still in it",
       "Stop and wait",
       "Proceed with caution only",
-      "Pedestrians have the right-of-way only"
+      "Pedestrians have the right-of-way only",
+      "Green: proceed if the intersection is clear, yielding to pedestrians and vehicles still in it"
     ],
     "answer": "Green: proceed if the intersection is clear, yielding to pedestrians and vehicles still in it"
   },
@@ -422,9 +422,9 @@
     "image": "assets/images/sign-146.jpg",
     "options": [
       "Yellow: stop if you can do so safely",
+      "Yield to pedestrians only",
       "Speed up to clear the intersection",
-      "Proceed with caution",
-      "Yield to pedestrians only"
+      "Proceed with caution"
     ],
     "answer": "Yellow: stop if you can do so safely"
   },
@@ -434,10 +434,10 @@
     "question": "What does this traffic signal mean?",
     "image": "assets/images/sign-147.jpg",
     "options": [
+      "Yield to oncoming traffic",
       "Red: stop and wait for green",
       "Stop only if traffic is approaching",
-      "Proceed with caution",
-      "Yield to oncoming traffic"
+      "Proceed with caution"
     ],
     "answer": "Red: stop and wait for green"
   },
@@ -447,10 +447,10 @@
     "question": "What does this sign mean?",
     "image": "assets/images/sign-151.jpg",
     "options": [
-      "No passing when the lights are flashing",
-      "Passing allowed when the lights flash",
+      "Stop when the lights flash",
       "Slow down when the lights flash",
-      "Stop when the lights flash"
+      "No passing when the lights are flashing",
+      "Passing allowed when the lights flash"
     ],
     "answer": "No passing when the lights are flashing"
   },
@@ -460,10 +460,10 @@
     "question": "What do these paddle signs mean?",
     "image": "assets/images/sign-152.jpg",
     "options": [
-      "A traffic control person is directing traffic: obey STOP and SLOW",
       "Stop sign and slow zone ahead",
       "School crossing guard only",
-      "Advisory speeds for trucks"
+      "Advisory speeds for trucks",
+      "A traffic control person is directing traffic: obey STOP and SLOW"
     ],
     "answer": "A traffic control person is directing traffic: obey STOP and SLOW"
   },
@@ -485,8 +485,8 @@
     "category": "road_signs",
     "question": "What shape is a stop sign?",
     "options": [
-      "Octagon (eight sides)",
       "Triangle",
+      "Octagon (eight sides)",
       "Diamond",
       "Rectangle"
     ],
@@ -497,9 +497,9 @@
     "category": "road_signs",
     "question": "What colour is a stop sign?",
     "options": [
-      "Red with white letters",
       "Yellow with black letters",
       "Orange with black letters",
+      "Red with white letters",
       "White with red letters"
     ],
     "answer": "Red with white letters"
@@ -509,10 +509,10 @@
     "category": "road_signs",
     "question": "What shape is a yield sign?",
     "options": [
-      "Downward-pointing triangle",
       "Octagon",
       "Diamond",
-      "Pentagon"
+      "Pentagon",
+      "Downward-pointing triangle"
     ],
     "answer": "Downward-pointing triangle"
   },
@@ -523,8 +523,8 @@
     "options": [
       "The action shown is prohibited",
       "The action shown is required",
-      "Caution ahead",
-      "Services are available"
+      "Services are available",
+      "Caution ahead"
     ],
     "answer": "The action shown is prohibited"
   },
@@ -533,10 +533,10 @@
     "category": "road_signs",
     "question": "Yellow diamond-shaped signs are:",
     "options": [
+      "Direction signs",
       "Warning signs",
-      "Regulatory signs",
       "Information signs",
-      "Direction signs"
+      "Regulatory signs"
     ],
     "answer": "Warning signs"
   },
@@ -545,10 +545,10 @@
     "category": "road_signs",
     "question": "White rectangular signs with black or red lettering are usually:",
     "options": [
-      "Regulatory signs",
+      "Tourist signs",
       "Warning signs",
-      "Construction signs",
-      "Tourist signs"
+      "Regulatory signs",
+      "Construction signs"
     ],
     "answer": "Regulatory signs"
   },
@@ -557,10 +557,10 @@
     "category": "road_signs",
     "question": "Orange signs are used for:",
     "options": [
-      "Construction and maintenance zones",
-      "School zones",
       "Tourist attractions",
-      "Parking regulations"
+      "Parking regulations",
+      "School zones",
+      "Construction and maintenance zones"
     ],
     "answer": "Construction and maintenance zones"
   },
@@ -581,8 +581,8 @@
     "category": "road_signs",
     "question": "Blue signs show:",
     "options": [
-      "Services such as gas, food and lodging",
       "Hazards",
+      "Services such as gas, food and lodging",
       "Speed limits",
       "Construction detours"
     ],
@@ -593,10 +593,10 @@
     "category": "road_signs",
     "question": "A pentagon-shaped fluorescent yellow-green sign warns of:",
     "options": [
-      "A school zone or school crossing",
+      "A hospital",
       "A railway crossing",
-      "A construction zone",
-      "A hospital"
+      "A school zone or school crossing",
+      "A construction zone"
     ],
     "answer": "A school zone or school crossing"
   },
@@ -605,10 +605,10 @@
     "category": "road_signs",
     "question": "A round yellow sign with a black X and \"RR\" warns of:",
     "options": [
-      "A railway crossing ahead",
       "A roundabout ahead",
+      "Road closed",
       "A school zone",
-      "Road closed"
+      "A railway crossing ahead"
     ],
     "answer": "A railway crossing ahead"
   },
@@ -619,8 +619,8 @@
     "options": [
       "A crossbuck; yield to trains and stop if a train is approaching",
       "A stop sign for cars only",
-      "A pedestrian crossing",
-      "An optional warning"
+      "An optional warning",
+      "A pedestrian crossing"
     ],
     "answer": "A crossbuck; yield to trains and stop if a train is approaching"
   },
@@ -629,10 +629,10 @@
     "category": "road_signs",
     "question": "A solid yellow line on your side of the centre line means:",
     "options": [
+      "The road is one way",
       "Passing is not allowed",
       "Passing is allowed",
-      "The lane ends",
-      "The road is one way"
+      "The lane ends"
     ],
     "answer": "Passing is not allowed"
   },
@@ -641,10 +641,10 @@
     "category": "road_signs",
     "question": "A broken yellow centre line means:",
     "options": [
-      "Traffic travels in opposite directions and you may pass when it is safe",
       "No passing",
-      "One-way traffic",
-      "Lane ends"
+      "Lane ends",
+      "Traffic travels in opposite directions and you may pass when it is safe",
+      "One-way traffic"
     ],
     "answer": "Traffic travels in opposite directions and you may pass when it is safe"
   },
@@ -653,10 +653,10 @@
     "category": "road_signs",
     "question": "A solid white line on the road edge marks:",
     "options": [
-      "The edge of the roadway",
+      "A pedestrian crossing",
       "The centre of the road",
       "A passing zone",
-      "A pedestrian crossing"
+      "The edge of the roadway"
     ],
     "answer": "The edge of the roadway"
   },
@@ -667,8 +667,8 @@
     "options": [
       "Traffic travelling in the same direction",
       "Traffic travelling in opposite directions",
-      "Parking areas only",
-      "Bike lanes only"
+      "Bike lanes only",
+      "Parking areas only"
     ],
     "answer": "Traffic travelling in the same direction"
   },
@@ -677,10 +677,10 @@
     "category": "road_signs",
     "question": "A yellow line separates:",
     "options": [
+      "Bike lanes from traffic",
       "Traffic travelling in opposite directions",
       "Traffic travelling in the same direction",
-      "Parking from traffic",
-      "Bike lanes from traffic"
+      "Parking from traffic"
     ],
     "answer": "Traffic travelling in opposite directions"
   },
@@ -689,10 +689,10 @@
     "category": "road_signs",
     "question": "A white painted diamond on a lane indicates:",
     "options": [
-      "A lane reserved for specific vehicles such as buses or HOV",
       "A pedestrian crossing",
-      "A parking space",
-      "A railway crossing"
+      "A railway crossing",
+      "A lane reserved for specific vehicles such as buses or HOV",
+      "A parking space"
     ],
     "answer": "A lane reserved for specific vehicles such as buses or HOV"
   },
@@ -701,10 +701,10 @@
     "category": "road_signs",
     "question": "A stop line is a:",
     "options": [
-      "Solid white line showing where you must stop",
-      "Broken yellow line",
+      "Optional marking",
       "Line to park behind",
-      "Optional marking"
+      "Broken yellow line",
+      "Solid white line showing where you must stop"
     ],
     "answer": "Solid white line showing where you must stop"
   },
@@ -715,8 +715,8 @@
     "options": [
       "You may turn left; oncoming traffic is stopped",
       "You must go straight",
-      "You may turn left only after yielding",
-      "Stop and wait"
+      "Stop and wait",
+      "You may turn left only after yielding"
     ],
     "answer": "You may turn left; oncoming traffic is stopped"
   },
@@ -725,10 +725,10 @@
     "category": "road_signs",
     "question": "A flashing red traffic light means:",
     "options": [
-      "Stop, then proceed when it is safe, as at a stop sign",
-      "Slow down and proceed",
       "Yield to all traffic",
-      "The light is broken; treat as a yield"
+      "Stop, then proceed when it is safe, as at a stop sign",
+      "The light is broken; treat as a yield",
+      "Slow down and proceed"
     ],
     "answer": "Stop, then proceed when it is safe, as at a stop sign"
   },
@@ -737,9 +737,9 @@
     "category": "road_signs",
     "question": "A flashing yellow (amber) traffic light means:",
     "options": [
-      "Slow down and proceed with caution",
       "Stop completely",
       "Yield to all vehicles",
+      "Slow down and proceed with caution",
       "Road closed"
     ],
     "answer": "Slow down and proceed with caution"
@@ -749,10 +749,10 @@
     "category": "road_signs",
     "question": "A steady green light means:",
     "options": [
-      "Proceed if the intersection is clear",
-      "Stop and wait",
+      "Yield to all other vehicles",
       "Proceed without looking",
-      "Yield to all other vehicles"
+      "Stop and wait",
+      "Proceed if the intersection is clear"
     ],
     "answer": "Proceed if the intersection is clear"
   },
@@ -762,9 +762,9 @@
     "question": "A pedestrian signal showing a flashing hand means:",
     "options": [
       "Do not start crossing; finish crossing if already in the intersection",
-      "Start crossing now",
       "Wait for a car to stop",
-      "Run across quickly"
+      "Run across quickly",
+      "Start crossing now"
     ],
     "answer": "Do not start crossing; finish crossing if already in the intersection"
   },
@@ -773,10 +773,10 @@
     "category": "road_signs",
     "question": "A pedestrian signal showing a steady white walking person means:",
     "options": [
+      "The signal is broken",
       "Pedestrians may cross",
-      "Pedestrians must stop",
       "Vehicles may turn without yielding",
-      "The signal is broken"
+      "Pedestrians must stop"
     ],
     "answer": "Pedestrians may cross"
   },
@@ -785,9 +785,9 @@
     "category": "road_signs",
     "question": "A \"Do Not Enter\" sign means:",
     "options": [
-      "You may not enter; you would be driving against traffic",
-      "Local traffic only",
       "Enter if no vehicles are present",
+      "Local traffic only",
+      "You may not enter; you would be driving against traffic",
       "Parking only"
     ],
     "answer": "You may not enter; you would be driving against traffic"
@@ -797,10 +797,10 @@
     "category": "road_signs",
     "question": "A sign with a bicycle in a white diamond on the pavement means:",
     "options": [
-      "Designated bicycle lane",
-      "Bicycle parking",
       "Cyclists must dismount",
-      "No cycling"
+      "Bicycle parking",
+      "No cycling",
+      "Designated bicycle lane"
     ],
     "answer": "Designated bicycle lane"
   },
@@ -810,9 +810,9 @@
     "question": "A sign with a wheelchair symbol on a blue background indicates:",
     "options": [
       "Accessible parking for permit holders",
-      "Hospital nearby",
       "Handicapped washroom only",
-      "Taxi stand"
+      "Taxi stand",
+      "Hospital nearby"
     ],
     "answer": "Accessible parking for permit holders"
   },
@@ -821,9 +821,9 @@
     "category": "road_signs",
     "question": "A speed limit sign is:",
     "options": [
+      "An advisory sign",
       "A regulatory sign showing the maximum speed allowed",
       "A warning sign",
-      "An advisory sign",
       "An information sign"
     ],
     "answer": "A regulatory sign showing the maximum speed allowed"
@@ -833,9 +833,9 @@
     "category": "road_signs",
     "question": "Advisory speed signs below a warning sign tell you:",
     "options": [
-      "The safest speed for the hazard ahead",
       "The maximum legal speed",
       "The minimum speed",
+      "The safest speed for the hazard ahead",
       "The speed trucks must use"
     ],
     "answer": "The safest speed for the hazard ahead"
@@ -845,10 +845,10 @@
     "category": "road_signs",
     "question": "A \"Yield\" sign tells you to:",
     "options": [
-      "Slow down and give the right-of-way to traffic and pedestrians",
       "Always stop completely",
       "Speed up to clear the intersection",
-      "Ignore it if no one is near"
+      "Ignore it if no one is near",
+      "Slow down and give the right-of-way to traffic and pedestrians"
     ],
     "answer": "Slow down and give the right-of-way to traffic and pedestrians"
   },
@@ -858,9 +858,9 @@
     "question": "A \"Dead End\" sign warns that:",
     "options": [
       "The road does not go through",
-      "The road is one way",
       "The road is closed to trucks",
-      "A parking area is ahead"
+      "A parking area is ahead",
+      "The road is one way"
     ],
     "answer": "The road does not go through"
   },
@@ -869,10 +869,10 @@
     "category": "road_signs",
     "question": "A white sign with a black arrow curving around a median is:",
     "options": [
-      "A keep right (or left) sign",
       "A detour sign",
-      "A no passing sign",
-      "A roundabout sign"
+      "A keep right (or left) sign",
+      "A roundabout sign",
+      "A no passing sign"
     ],
     "answer": "A keep right (or left) sign"
   },
@@ -881,9 +881,9 @@
     "category": "road_signs",
     "question": "Construction zone signs are:",
     "options": [
-      "Orange and diamond shaped",
-      "Blue and round",
       "Green and rectangular",
+      "Blue and round",
+      "Orange and diamond shaped",
       "White and octagonal"
     ],
     "answer": "Orange and diamond shaped"
@@ -893,10 +893,10 @@
     "category": "road_signs",
     "question": "Where a traffic control person is directing traffic at a construction zone, you must:",
     "options": [
-      "Obey their signals",
-      "Obey only traffic signals",
       "Ignore them if the light is green",
-      "Proceed if no one is coming"
+      "Obey only traffic signals",
+      "Proceed if no one is coming",
+      "Obey their signals"
     ],
     "answer": "Obey their signals"
   },
@@ -906,9 +906,9 @@
     "question": "A pennant-shaped yellow sign on the left side of the road warns of:",
     "options": [
       "A no passing zone",
+      "An exit ramp",
       "A school zone",
-      "A railway crossing",
-      "An exit ramp"
+      "A railway crossing"
     ],
     "answer": "A no passing zone"
   },
@@ -917,8 +917,8 @@
     "category": "rules",
     "question": "At a 4-way stop, who goes first?",
     "options": [
-      "First vehicle to arrive",
       "Vehicle on the left",
+      "First vehicle to arrive",
       "Largest vehicle",
       "Fastest vehicle"
     ],
@@ -929,10 +929,10 @@
     "category": "rules",
     "question": "The default speed limit in cities/towns in Ontario is:",
     "options": [
-      "50 km/h",
-      "40 km/h",
+      "80 km/h",
       "60 km/h",
-      "80 km/h"
+      "50 km/h",
+      "40 km/h"
     ],
     "answer": "50 km/h"
   },
@@ -941,10 +941,10 @@
     "category": "rules",
     "question": "When must you stop for a school bus with flashing red lights?",
     "options": [
-      "Always unless on a divided highway",
-      "Only in school zones",
       "Only if children are visible",
-      "Never on rural roads"
+      "Only in school zones",
+      "Never on rural roads",
+      "Always unless on a divided highway"
     ],
     "answer": "Always unless on a divided highway"
   },
@@ -954,9 +954,9 @@
     "question": "The minimum safe following distance is:",
     "options": [
       "2 seconds",
-      "1 second",
+      "Car length rule",
       "5 seconds",
-      "Car length rule"
+      "1 second"
     ],
     "answer": "2 seconds"
   },
@@ -965,8 +965,8 @@
     "category": "rules",
     "question": "When an emergency vehicle approaches with lights on, you must:",
     "options": [
-      "Pull to the right and stop",
       "Speed up",
+      "Pull to the right and stop",
       "Maintain speed",
       "Stop in your lane"
     ],
@@ -977,10 +977,10 @@
     "category": "rules",
     "question": "When is passing on the right permitted?",
     "options": [
-      "When the vehicle ahead is turning left",
+      "Only in school zones",
       "On all highways",
-      "Never",
-      "Only in school zones"
+      "When the vehicle ahead is turning left",
+      "Never"
     ],
     "answer": "When the vehicle ahead is turning left"
   },
@@ -989,10 +989,10 @@
     "category": "rules",
     "question": "At a yield sign, you must:",
     "options": [
-      "Slow and give way if needed",
-      "Stop always",
       "Speed through",
-      "Ignore if road looks clear"
+      "Stop always",
+      "Ignore if road looks clear",
+      "Slow and give way if needed"
     ],
     "answer": "Slow and give way if needed"
   },
@@ -1002,9 +1002,9 @@
     "question": "When railway lights are flashing, you must stop:",
     "options": [
       "At least 5 metres from the tracks",
+      "Only if the gate lowers",
       "Wherever you choose",
-      "Only if a train is visible",
-      "Only if the gate lowers"
+      "Only if a train is visible"
     ],
     "answer": "At least 5 metres from the tracks"
   },
@@ -1013,10 +1013,10 @@
     "category": "rules",
     "question": "Before changing lanes, you must:",
     "options": [
+      "Speed up sharply",
       "Signal and check mirrors + blind spot",
-      "Only check mirrors",
       "Only check blind spot",
-      "Speed up sharply"
+      "Only check mirrors"
     ],
     "answer": "Signal and check mirrors + blind spot"
   },
@@ -1025,10 +1025,10 @@
     "category": "rules",
     "question": "The left lane on multi-lane roads is mainly for:",
     "options": [
-      "Passing",
-      "Slow vehicles",
       "Parking",
-      "Entering traffic"
+      "Entering traffic",
+      "Passing",
+      "Slow vehicles"
     ],
     "answer": "Passing"
   },
@@ -1037,10 +1037,10 @@
     "category": "rules",
     "question": "You must dim high beams when approaching another vehicle within:",
     "options": [
-      "150 metres",
       "300 metres",
+      "75 metres",
       "50 metres",
-      "75 metres"
+      "150 metres"
     ],
     "answer": "150 metres"
   },
@@ -1050,9 +1050,9 @@
     "question": "Hydroplaning occurs when:",
     "options": [
       "Tires lose contact with the road due to water",
-      "Brakes overheat",
       "Engine loses power",
-      "Wipers stop working"
+      "Wipers stop working",
+      "Brakes overheat"
     ],
     "answer": "Tires lose contact with the road due to water"
   },
@@ -1061,8 +1061,8 @@
     "category": "rules",
     "question": "If you miss your highway exit, you should:",
     "options": [
-      "Take the next exit",
       "Reverse carefully",
+      "Take the next exit",
       "Stop and back up",
       "Turn around on the shoulder"
     ],
@@ -1073,10 +1073,10 @@
     "category": "rules",
     "question": "When a school patrol guard holds up a stop sign, you must:",
     "options": [
-      "Stop until the guard lowers the sign",
       "Slow down only",
-      "Proceed if no children are visible",
-      "Honk to alert"
+      "Honk to alert",
+      "Stop until the guard lowers the sign",
+      "Proceed if no children are visible"
     ],
     "answer": "Stop until the guard lowers the sign"
   },
@@ -1085,10 +1085,10 @@
     "category": "rules",
     "question": "Using a handheld phone while driving is:",
     "options": [
-      "Illegal at all times",
       "Allowed at red lights",
+      "Allowed under 40 km/h",
       "Allowed if on speaker",
-      "Allowed under 40 km/h"
+      "Illegal at all times"
     ],
     "answer": "Illegal at all times"
   },
@@ -1098,9 +1098,9 @@
     "question": "When parallel parking, you must park within _____ of the curb.",
     "options": [
       "30 cm",
-      "60 cm",
+      "1 metre",
       "10 cm",
-      "1 metre"
+      "60 cm"
     ],
     "answer": "30 cm"
   },
@@ -1109,10 +1109,10 @@
     "category": "rules",
     "question": "If your vehicle begins to skid, you should:",
     "options": [
+      "Accelerate",
       "Steer in the direction you want to go",
       "Brake hard immediately",
-      "Turn opposite the skid",
-      "Accelerate"
+      "Turn opposite the skid"
     ],
     "answer": "Steer in the direction you want to go"
   },
@@ -1121,10 +1121,10 @@
     "category": "rules",
     "question": "A flashing yellow traffic light means:",
     "options": [
-      "Proceed with caution",
-      "Stop completely",
       "Road closed",
-      "Right turn only"
+      "Right turn only",
+      "Proceed with caution",
+      "Stop completely"
     ],
     "answer": "Proceed with caution"
   },
@@ -1133,10 +1133,10 @@
     "category": "rules",
     "question": "When following a motorcycle, you should:",
     "options": [
-      "Allow extra space",
       "Follow closely",
+      "Honk before passing",
       "Pass immediately",
-      "Honk before passing"
+      "Allow extra space"
     ],
     "answer": "Allow extra space"
   },
@@ -1145,10 +1145,10 @@
     "category": "rules",
     "question": "Drivers must use headlights between:",
     "options": [
-      "Half an hour before sunset to half an hour after sunrise",
+      "Half an hour after sunset to half an hour before sunrise",
+      "Only below 40 km/h",
       "Only during rain",
-      "Only on highways",
-      "Only below 40 km/h"
+      "Only on highways"
     ],
     "answer": "Half an hour after sunset to half an hour before sunrise"
   },
@@ -1157,9 +1157,9 @@
     "category": "rules",
     "question": "Seat belts must be worn by:",
     "options": [
+      "Only front passengers",
       "All occupants",
       "Only the driver",
-      "Only front passengers",
       "Only on highways"
     ],
     "answer": "All occupants"
@@ -1169,9 +1169,9 @@
     "category": "rules",
     "question": "You may turn right on a red light if:",
     "options": [
-      "You stop first and the way is clear",
       "You slow down only",
       "There is a green arrow",
+      "You stop first and the way is clear",
       "There is a pedestrian signal"
     ],
     "answer": "You stop first and the way is clear"
@@ -1181,10 +1181,10 @@
     "category": "rules",
     "question": "A flashing red traffic light means:",
     "options": [
-      "Stop and proceed when safe",
-      "Proceed with caution",
       "Lane closed",
-      "Stop only if pedestrians"
+      "Stop only if pedestrians",
+      "Proceed with caution",
+      "Stop and proceed when safe"
     ],
     "answer": "Stop and proceed when safe"
   },
@@ -1194,8 +1194,8 @@
     "question": "At an uncontrolled intersection, you must yield to:",
     "options": [
       "Vehicles on your right",
-      "Vehicles on your left",
       "Larger vehicles",
+      "Vehicles on your left",
       "Vehicles behind you"
     ],
     "answer": "Vehicles on your right"
@@ -1205,10 +1205,10 @@
     "category": "rules",
     "question": "When approaching a stopped emergency vehicle with flashing lights, you must:",
     "options": [
-      "Slow down and move over if safe",
-      "Maintain speed",
       "Stop in your lane",
-      "Pass quickly"
+      "Slow down and move over if safe",
+      "Pass quickly",
+      "Maintain speed"
     ],
     "answer": "Slow down and move over if safe"
   },
@@ -1217,10 +1217,10 @@
     "category": "rules",
     "question": "The minimum age to obtain a G1 licence in Ontario is:",
     "options": [
-      "16 years",
+      "17 years",
       "15 years",
-      "18 years",
-      "17 years"
+      "16 years",
+      "18 years"
     ],
     "answer": "16 years"
   },
@@ -1229,10 +1229,10 @@
     "category": "rules",
     "question": "For G1 and G2 drivers, the blood alcohol concentration must be:",
     "options": [
-      "0.00",
+      "0.08",
       "0.02",
       "0.05",
-      "0.08"
+      "0.00"
     ],
     "answer": "0.00"
   },
@@ -1242,9 +1242,9 @@
     "question": "You should signal at least ____ before turning or changing lanes.",
     "options": [
       "30 metres",
-      "5 metres",
       "10 metres",
-      "100 metres"
+      "100 metres",
+      "5 metres"
     ],
     "answer": "30 metres"
   },
@@ -1253,9 +1253,9 @@
     "category": "rules",
     "question": "When parking uphill with a curb, you should turn your wheels:",
     "options": [
+      "Straight ahead",
       "Left, away from the curb",
       "Right, toward the curb",
-      "Straight ahead",
       "Any direction"
     ],
     "answer": "Left, away from the curb"
@@ -1265,10 +1265,10 @@
     "category": "rules",
     "question": "At a pedestrian crosswalk, you must:",
     "options": [
-      "Yield and stop for pedestrians",
-      "Honk to warn",
       "Proceed if you are faster",
-      "Only stop if signaled"
+      "Only stop if signaled",
+      "Yield and stop for pedestrians",
+      "Honk to warn"
     ],
     "answer": "Yield and stop for pedestrians"
   },
@@ -1277,10 +1277,10 @@
     "category": "rules",
     "question": "When a traffic signal is not working, you should:",
     "options": [
-      "Treat it as a 4-way stop",
       "Proceed without stopping",
+      "Yield to larger vehicles",
       "Stop only if pedestrians",
-      "Yield to larger vehicles"
+      "Treat it as a 4-way stop"
     ],
     "answer": "Treat it as a 4-way stop"
   },
@@ -1291,8 +1291,8 @@
     "options": [
       "Stop and wait until they rise",
       "Drive around them",
-      "Proceed if no train is visible",
-      "Honk and proceed"
+      "Honk and proceed",
+      "Proceed if no train is visible"
     ],
     "answer": "Stop and wait until they rise"
   },
@@ -1301,10 +1301,10 @@
     "category": "rules",
     "question": "Use headlights in daytime when:",
     "options": [
+      "It is above 50 km/h",
       "Visibility is poor",
-      "You are on a rural road",
       "Traffic is heavy",
-      "It is above 50 km/h"
+      "You are on a rural road"
     ],
     "answer": "Visibility is poor"
   },
@@ -1313,10 +1313,10 @@
     "category": "rules",
     "question": "You must not pass another vehicle within ____ of a railway crossing.",
     "options": [
-      "30 metres",
+      "100 metres",
       "5 metres",
-      "10 metres",
-      "100 metres"
+      "30 metres",
+      "10 metres"
     ],
     "answer": "30 metres"
   },
@@ -1325,10 +1325,10 @@
     "category": "rules",
     "question": "In a school zone, you must:",
     "options": [
-      "Obey the posted limit during indicated times",
+      "Ignore posted signs",
       "Drive 30 km/h at all times",
       "Honk to alert children",
-      "Ignore posted signs"
+      "Obey the posted limit during indicated times"
     ],
     "answer": "Obey the posted limit during indicated times"
   },
@@ -1339,8 +1339,8 @@
     "options": [
       "At least 2 metres behind the rear door",
       "Only if doors open",
-      "Only if you are behind it",
-      "Only at night"
+      "Only at night",
+      "Only if you are behind it"
     ],
     "answer": "At least 2 metres behind the rear door"
   },
@@ -1349,10 +1349,10 @@
     "category": "rules",
     "question": "At a roundabout, you must:",
     "options": [
-      "Yield to traffic already in the roundabout",
       "Stop before entering always",
-      "Speed up to enter",
-      "Yield to traffic behind you"
+      "Yield to traffic already in the roundabout",
+      "Yield to traffic behind you",
+      "Speed up to enter"
     ],
     "answer": "Yield to traffic already in the roundabout"
   },
@@ -1361,10 +1361,10 @@
     "category": "rules",
     "question": "When entering a freeway, you should:",
     "options": [
-      "Use the acceleration lane to match traffic speed",
       "Stop at the end of the ramp",
-      "Enter at 30 km/h",
-      "Sound your horn"
+      "Sound your horn",
+      "Use the acceleration lane to match traffic speed",
+      "Enter at 30 km/h"
     ],
     "answer": "Use the acceleration lane to match traffic speed"
   },
@@ -1373,10 +1373,10 @@
     "category": "rules",
     "question": "If a tire blows out, you should:",
     "options": [
-      "Grip the wheel and ease off the accelerator",
-      "Brake hard immediately",
+      "Accelerate to stabilize",
       "Turn sharply off the road",
-      "Accelerate to stabilize"
+      "Brake hard immediately",
+      "Grip the wheel and ease off the accelerator"
     ],
     "answer": "Grip the wheel and ease off the accelerator"
   },
@@ -1397,10 +1397,10 @@
     "category": "rules",
     "question": "At a stop sign, you must stop:",
     "options": [
+      "Only if traffic is present",
       "Before the stop line or crosswalk",
       "On the crosswalk",
-      "Past the intersection",
-      "Only if traffic is present"
+      "Past the intersection"
     ],
     "answer": "Before the stop line or crosswalk"
   },
@@ -1409,9 +1409,9 @@
     "category": "rules",
     "question": "In bad weather, a safe following distance is at least:",
     "options": [
-      "4 seconds or more",
       "1 second",
       "2 seconds",
+      "4 seconds or more",
       "3 seconds"
     ],
     "answer": "4 seconds or more"
@@ -1421,10 +1421,10 @@
     "category": "rules",
     "question": "You must not park within ____ of a fire hydrant.",
     "options": [
-      "3 metres",
-      "1 metre",
       "9 metres",
-      "15 metres"
+      "15 metres",
+      "1 metre",
+      "3 metres"
     ],
     "answer": "3 metres"
   },
@@ -1434,9 +1434,9 @@
     "question": "You must not park within ____ of an intersection.",
     "options": [
       "9 metres",
-      "3 metres",
       "15 metres",
-      "30 metres"
+      "30 metres",
+      "3 metres"
     ],
     "answer": "9 metres"
   },
@@ -1445,10 +1445,10 @@
     "category": "rules",
     "question": "At night, daytime running lights are not enough. You must use:",
     "options": [
+      "Parking lights",
       "Headlights and tail lights",
-      "High beams only",
       "Hazard lights",
-      "Parking lights"
+      "High beams only"
     ],
     "answer": "Headlights and tail lights"
   },
@@ -1457,9 +1457,9 @@
     "category": "rules",
     "question": "In rural areas with no posted speed limit, the maximum is:",
     "options": [
-      "80 km/h",
       "50 km/h",
       "90 km/h",
+      "80 km/h",
       "100 km/h"
     ],
     "answer": "80 km/h"
@@ -1469,10 +1469,10 @@
     "category": "rules",
     "question": "Children under 8 must be:",
     "options": [
-      "In an approved child restraint or booster as required",
+      "Using only a seat belt",
       "In the front seat",
       "Held by an adult",
-      "Using only a seat belt"
+      "In an approved child restraint or booster as required"
     ],
     "answer": "In an approved child restraint or booster as required"
   },
@@ -1482,9 +1482,9 @@
     "question": "A solid yellow line on your side of a two-way road means:",
     "options": [
       "No passing",
-      "Passing allowed",
+      "One-way road",
       "Lane ends",
-      "One-way road"
+      "Passing allowed"
     ],
     "answer": "No passing"
   },
@@ -1493,10 +1493,10 @@
     "category": "rules",
     "question": "You must not pass when approaching:",
     "options": [
+      "A green light",
       "A hill or curve where the view is blocked",
-      "A straight, clear road",
       "A passing lane",
-      "A green light"
+      "A straight, clear road"
     ],
     "answer": "A hill or curve where the view is blocked"
   },
@@ -1505,9 +1505,9 @@
     "category": "rules",
     "question": "In fog, you should use:",
     "options": [
-      "Low-beam headlights",
-      "High-beam headlights",
       "Parking lights only",
+      "High-beam headlights",
+      "Low-beam headlights",
       "Hazard lights only"
     ],
     "answer": "Low-beam headlights"
@@ -1517,10 +1517,10 @@
     "category": "rules",
     "question": "On an undivided road, when a school bus with flashing red lights stops, you must:",
     "options": [
-      "Stop in both directions",
-      "Only stop if you are behind it",
+      "Stop only if children are visible",
       "Pass slowly",
-      "Stop only if children are visible"
+      "Only stop if you are behind it",
+      "Stop in both directions"
     ],
     "answer": "Stop in both directions"
   },
@@ -1530,8 +1530,8 @@
     "question": "When towing or carrying a heavy load, you should:",
     "options": [
       "Increase following distance",
-      "Follow closely",
       "Drive in the left lane",
+      "Follow closely",
       "Accelerate harder"
     ],
     "answer": "Increase following distance"
@@ -1541,8 +1541,8 @@
     "category": "rules",
     "question": "A collision with total damage over $2,000 must be:",
     "options": [
-      "Reported to a collision reporting centre or police",
       "Ignored if no injuries",
+      "Reported to a collision reporting centre or police",
       "Reported only to insurance",
       "Reported only if on a highway"
     ],
@@ -1553,9 +1553,9 @@
     "category": "rules",
     "question": "When turning left at an intersection, you must yield to:",
     "options": [
-      "Oncoming traffic and pedestrians",
       "Vehicles behind you",
       "Traffic on your left only",
+      "Oncoming traffic and pedestrians",
       "No one"
     ],
     "answer": "Oncoming traffic and pedestrians"
@@ -1565,10 +1565,10 @@
     "category": "rules",
     "question": "A green arrow signal means you may:",
     "options": [
-      "Proceed in the direction of the arrow",
-      "Turn any direction",
       "Stop and wait",
-      "Only go straight"
+      "Turn any direction",
+      "Only go straight",
+      "Proceed in the direction of the arrow"
     ],
     "answer": "Proceed in the direction of the arrow"
   },
@@ -1578,9 +1578,9 @@
     "question": "A complete stop means:",
     "options": [
       "Wheels are not moving",
-      "You slow to 5 km/h",
+      "You flash your brake lights",
       "You stop only if traffic",
-      "You flash your brake lights"
+      "You slow to 5 km/h"
     ],
     "answer": "Wheels are not moving"
   },
@@ -1589,10 +1589,10 @@
     "category": "rules",
     "question": "If you are being tailgated, you should:",
     "options": [
+      "Move into oncoming traffic",
       "Increase following distance and allow space",
-      "Brake hard",
       "Speed up aggressively",
-      "Move into oncoming traffic"
+      "Brake hard"
     ],
     "answer": "Increase following distance and allow space"
   },
@@ -1601,10 +1601,10 @@
     "category": "rules",
     "question": "When passing a cyclist, you should:",
     "options": [
-      "Leave at least 1 metre of space",
-      "Pass as close as possible",
       "Use the horn continuously",
-      "Stop behind them"
+      "Stop behind them",
+      "Leave at least 1 metre of space",
+      "Pass as close as possible"
     ],
     "answer": "Leave at least 1 metre of space"
   },
@@ -1613,10 +1613,10 @@
     "category": "rules",
     "question": "If a vehicle approaches with high beams on, you should:",
     "options": [
-      "Look to the right edge of your lane",
-      "Look directly at the lights",
       "Turn on your high beams",
-      "Stop in your lane"
+      "Look directly at the lights",
+      "Stop in your lane",
+      "Look to the right edge of your lane"
     ],
     "answer": "Look to the right edge of your lane"
   },
@@ -1626,9 +1626,9 @@
     "question": "Before opening your car door, you should:",
     "options": [
       "Check mirrors and blind spot for cyclists",
+      "Only check the mirror",
       "Open quickly",
-      "Sound the horn",
-      "Only check the mirror"
+      "Sound the horn"
     ],
     "answer": "Check mirrors and blind spot for cyclists"
   },
@@ -1637,9 +1637,9 @@
     "category": "rules",
     "question": "When approaching a railway crossing without gates, you should:",
     "options": [
+      "Stop only if a train is visible",
       "Slow down, look, listen, and be prepared to stop",
       "Speed up to cross quickly",
-      "Stop only if a train is visible",
       "Ignore if lights are off"
     ],
     "answer": "Slow down, look, listen, and be prepared to stop"
@@ -1649,9 +1649,9 @@
     "category": "rules",
     "question": "A learner (G1) driver must be accompanied by a fully licensed driver with at least ____ years of experience.",
     "options": [
-      "4",
       "2",
       "5",
+      "4",
       "1"
     ],
     "answer": "4"
@@ -1661,10 +1661,10 @@
     "category": "rules",
     "question": "If your accelerator sticks, you should:",
     "options": [
-      "Shift to neutral and brake to a stop",
+      "Accelerate to clear it",
       "Turn off the ignition immediately",
       "Pump the gas pedal",
-      "Accelerate to clear it"
+      "Shift to neutral and brake to a stop"
     ],
     "answer": "Shift to neutral and brake to a stop"
   },
@@ -1675,8 +1675,8 @@
     "options": [
       "Stop and yield to pedestrians when required",
       "Slow down only",
-      "Proceed if pedestrians are on the sidewalk",
-      "Honk to warn"
+      "Honk to warn",
+      "Proceed if pedestrians are on the sidewalk"
     ],
     "answer": "Stop and yield to pedestrians when required"
   },
@@ -1685,10 +1685,10 @@
     "category": "rules",
     "question": "If you are in a roundabout and an emergency vehicle approaches, you should:",
     "options": [
+      "Turn around",
       "Exit if possible, then pull over",
-      "Stop immediately in the roundabout",
       "Speed up to clear it",
-      "Turn around"
+      "Stop immediately in the roundabout"
     ],
     "answer": "Exit if possible, then pull over"
   },
@@ -1697,10 +1697,10 @@
     "category": "rules",
     "question": "When driving on a freeway, you should check your mirrors every:",
     "options": [
-      "5 to 8 seconds",
+      "1 minute",
       "20 seconds",
-      "30 seconds",
-      "1 minute"
+      "5 to 8 seconds",
+      "30 seconds"
     ],
     "answer": "5 to 8 seconds"
   },
@@ -1709,10 +1709,10 @@
     "category": "rules",
     "question": "On a two-way road, if you are turning left, you should:",
     "options": [
-      "Move to the left of your lane before turning",
-      "Stay in the right lane",
+      "Signal after you turn",
       "Turn from the shoulder",
-      "Signal after you turn"
+      "Stay in the right lane",
+      "Move to the left of your lane before turning"
     ],
     "answer": "Move to the left of your lane before turning"
   },
@@ -1723,8 +1723,8 @@
     "options": [
       "Crossing at a marked or unmarked crosswalk",
       "Waiting on the sidewalk",
-      "Across the street",
-      "Walking along the roadway"
+      "Walking along the roadway",
+      "Across the street"
     ],
     "answer": "Crossing at a marked or unmarked crosswalk"
   },
@@ -1733,10 +1733,10 @@
     "category": "rules",
     "question": "If you have a green light and a pedestrian is still crossing, you must:",
     "options": [
-      "Wait until the pedestrian clears your lane",
-      "Proceed and honk",
       "Turn around",
-      "Change lanes quickly"
+      "Wait until the pedestrian clears your lane",
+      "Change lanes quickly",
+      "Proceed and honk"
     ],
     "answer": "Wait until the pedestrian clears your lane"
   },
@@ -1745,10 +1745,10 @@
     "category": "rules",
     "question": "When driving in heavy rain, you should:",
     "options": [
-      "Reduce speed and increase following distance",
-      "Use cruise control",
       "Keep high beams on",
-      "Brake hard often"
+      "Brake hard often",
+      "Reduce speed and increase following distance",
+      "Use cruise control"
     ],
     "answer": "Reduce speed and increase following distance"
   },
@@ -1757,10 +1757,10 @@
     "category": "rules",
     "question": "You must not turn left on a red light except:",
     "options": [
-      "From a one-way street to a one-way street, after stopping",
-      "From any street to any street",
+      "When turning from a two-way to a one-way",
       "When no vehicles are present",
-      "When turning from a two-way to a one-way"
+      "From any street to any street",
+      "From a one-way street to a one-way street, after stopping"
     ],
     "answer": "From a one-way street to a one-way street, after stopping"
   },
@@ -1770,9 +1770,9 @@
     "question": "When you see a stopped school bus with flashing amber lights, you should:",
     "options": [
       "Slow down and be prepared to stop",
-      "Stop immediately",
       "Pass quickly",
-      "Ignore unless children are visible"
+      "Ignore unless children are visible",
+      "Stop immediately"
     ],
     "answer": "Slow down and be prepared to stop"
   },
@@ -1781,8 +1781,8 @@
     "category": "rules",
     "question": "In Ontario, if you are convicted of driving without insurance, you may face:",
     "options": [
-      "A fine and licence suspension",
       "Only a warning",
+      "A fine and licence suspension",
       "Vehicle registration renewal",
       "No penalties"
     ],
@@ -1793,10 +1793,10 @@
     "category": "rules",
     "question": "When entering a curve, you should:",
     "options": [
-      "Slow down before the curve",
       "Brake hard in the curve",
-      "Accelerate through",
-      "Change lanes in the curve"
+      "Change lanes in the curve",
+      "Slow down before the curve",
+      "Accelerate through"
     ],
     "answer": "Slow down before the curve"
   },
@@ -1805,10 +1805,10 @@
     "category": "rules",
     "question": "You must stop for pedestrians at a crosswalk when they are:",
     "options": [
-      "On the roadway or about to step onto it",
-      "Only halfway across",
       "Only if they wave",
-      "Only at night"
+      "Only halfway across",
+      "Only at night",
+      "On the roadway or about to step onto it"
     ],
     "answer": "On the roadway or about to step onto it"
   },
@@ -1819,8 +1819,8 @@
     "options": [
       "Name, address, licence, and insurance",
       "Only your name",
-      "Only your phone number",
-      "Only your insurance"
+      "Only your insurance",
+      "Only your phone number"
     ],
     "answer": "Name, address, licence, and insurance"
   },
@@ -1829,9 +1829,9 @@
     "category": "rules",
     "question": "When approaching a bicycle crossover, you must:",
     "options": [
+      "Pass quickly",
       "Yield and give cyclists right-of-way when required",
       "Sound the horn",
-      "Pass quickly",
       "Stop only if a cyclist is directly in front"
     ],
     "answer": "Yield and give cyclists right-of-way when required"
@@ -1841,9 +1841,9 @@
     "category": "rules",
     "question": "On a freeway, you should signal and check blind spots:",
     "options": [
-      "Before changing lanes",
       "Only when exiting",
       "Only when entering",
+      "Before changing lanes",
       "Only at night"
     ],
     "answer": "Before changing lanes"
@@ -1853,10 +1853,10 @@
     "category": "rules",
     "question": "A red light with a green arrow means:",
     "options": [
-      "You may turn in the arrow direction only",
+      "Proceed only if no pedestrians",
       "You may go any direction",
       "Stop and wait for green",
-      "Proceed only if no pedestrians"
+      "You may turn in the arrow direction only"
     ],
     "answer": "You may turn in the arrow direction only"
   },
@@ -1877,8 +1877,8 @@
     "category": "rules",
     "question": "When approaching a train crossing with a stop sign, you must:",
     "options": [
-      "At least 5 metres from the nearest rail",
       "Stop on the tracks",
+      "At least 5 metres from the nearest rail",
       "Stop only if a train is visible",
       "Ignore the sign if lights are off"
     ],
@@ -1889,10 +1889,10 @@
     "category": "rules",
     "question": "On a two-way road, you may pass another vehicle:",
     "options": [
-      "Only when the left lane is clearly visible and safe",
       "At any time",
-      "When approaching a hill",
-      "When near an intersection"
+      "When near an intersection",
+      "Only when the left lane is clearly visible and safe",
+      "When approaching a hill"
     ],
     "answer": "Only when the left lane is clearly visible and safe"
   },
@@ -1901,10 +1901,10 @@
     "category": "rules",
     "question": "If you are stopped by police, you should:",
     "options": [
-      "Pull over safely and remain in the vehicle",
+      "Ignore and continue",
       "Drive to the nearest station",
       "Get out and walk toward the officer",
-      "Ignore and continue"
+      "Pull over safely and remain in the vehicle"
     ],
     "answer": "Pull over safely and remain in the vehicle"
   },
@@ -1925,10 +1925,10 @@
     "category": "rules",
     "question": "If your vehicle is equipped with ABS and you must brake hard, you should:",
     "options": [
+      "Shift to neutral first",
       "Press and hold the brake pedal",
-      "Pump the brakes",
       "Release the brakes",
-      "Shift to neutral first"
+      "Pump the brakes"
     ],
     "answer": "Press and hold the brake pedal"
   },
@@ -1937,9 +1937,9 @@
     "category": "rules",
     "question": "At night on a two-way road, you must use low beams when within ____ of an oncoming vehicle.",
     "options": [
-      "150 metres",
       "300 metres",
       "75 metres",
+      "150 metres",
       "50 metres"
     ],
     "answer": "150 metres"
@@ -1949,10 +1949,10 @@
     "category": "rules",
     "question": "You must stop for a school bus with flashing red lights when you are:",
     "options": [
-      "Approaching from either direction on an undivided road",
+      "In a lane separated by a median",
       "Behind the bus only",
       "In the opposite direction on a divided highway",
-      "In a lane separated by a median"
+      "Approaching from either direction on an undivided road"
     ],
     "answer": "Approaching from either direction on an undivided road"
   },
@@ -1963,8 +1963,8 @@
     "options": [
       "Yield to all vehicles and pedestrians",
       "Honk and proceed",
-      "Enter quickly",
-      "Stop only if traffic is heavy"
+      "Stop only if traffic is heavy",
+      "Enter quickly"
     ],
     "answer": "Yield to all vehicles and pedestrians"
   },
@@ -1973,10 +1973,10 @@
     "category": "rules",
     "question": "A solid white line between lanes means:",
     "options": [
+      "Two-way traffic",
       "Lane changes are discouraged",
       "Lane changes are required",
-      "Passing allowed",
-      "Two-way traffic"
+      "Passing allowed"
     ],
     "answer": "Lane changes are discouraged"
   },
@@ -1985,9 +1985,9 @@
     "category": "rules",
     "question": "On a freeway, you should use the right lane except when:",
     "options": [
-      "Passing or preparing to turn",
       "Traffic is light",
       "You are below 80 km/h",
+      "Passing or preparing to turn",
       "You are in the city"
     ],
     "answer": "Passing or preparing to turn"
@@ -1997,10 +1997,10 @@
     "category": "rules",
     "question": "If you approach a green light that has been green for a long time, you should:",
     "options": [
-      "Be ready to stop if it changes",
-      "Speed up to get through",
       "Stop anyway",
-      "Ignore the signal"
+      "Ignore the signal",
+      "Speed up to get through",
+      "Be ready to stop if it changes"
     ],
     "answer": "Be ready to stop if it changes"
   },
@@ -2010,8 +2010,8 @@
     "question": "At a stop sign with a stop line, you must stop:",
     "options": [
       "Before the stop line",
-      "On the stop line",
       "After the stop line",
+      "On the stop line",
       "Only if traffic is present"
     ],
     "answer": "Before the stop line"
@@ -2021,10 +2021,10 @@
     "category": "rules",
     "question": "If your vehicle starts to hydroplane, you should:",
     "options": [
-      "Ease off the accelerator and steer straight",
-      "Brake hard",
       "Turn sharply",
-      "Speed up"
+      "Ease off the accelerator and steer straight",
+      "Speed up",
+      "Brake hard"
     ],
     "answer": "Ease off the accelerator and steer straight"
   },
@@ -2033,10 +2033,10 @@
     "category": "rules",
     "question": "You must not pass a vehicle stopped at a pedestrian crossover:",
     "options": [
-      "At any time",
-      "Only at night",
       "Only in school zones",
-      "Only if pedestrians are visible"
+      "Only if pedestrians are visible",
+      "At any time",
+      "Only at night"
     ],
     "answer": "At any time"
   },
@@ -2045,10 +2045,10 @@
     "category": "rules",
     "question": "If you are driving and your view of the road is blocked by snow or ice on the windshield, you must:",
     "options": [
-      "Clear the windshield completely before driving",
-      "Drive slowly",
+      "Open a window",
       "Use high beams",
-      "Open a window"
+      "Drive slowly",
+      "Clear the windshield completely before driving"
     ],
     "answer": "Clear the windshield completely before driving"
   },
@@ -2069,10 +2069,10 @@
     "category": "rules",
     "question": "You must not park within ____ of a railway crossing.",
     "options": [
+      "60 metres",
       "15 metres",
-      "5 metres",
       "30 metres",
-      "60 metres"
+      "5 metres"
     ],
     "answer": "15 metres"
   },
@@ -2081,9 +2081,9 @@
     "category": "rules",
     "question": "When driving behind a large truck, you should:",
     "options": [
-      "Stay far enough back to see the truck’s mirrors",
-      "Follow closely",
       "Stay in the blind spot",
+      "Follow closely",
+      "Stay far enough back to see the truck’s mirrors",
       "Flash high beams"
     ],
     "answer": "Stay far enough back to see the truck’s mirrors"
@@ -2093,10 +2093,10 @@
     "category": "rules",
     "question": "If you are on a two-way road and passing is prohibited, the center line will be:",
     "options": [
-      "Solid yellow",
       "Broken yellow",
+      "Solid white",
       "Broken white",
-      "Solid white"
+      "Solid yellow"
     ],
     "answer": "Solid yellow"
   },
@@ -2107,8 +2107,8 @@
     "options": [
       "Traffic on the through road and pedestrians",
       "Traffic on your left only",
-      "Traffic on your right only",
-      "Only vehicles already stopped"
+      "Only vehicles already stopped",
+      "Traffic on your right only"
     ],
     "answer": "Traffic on the through road and pedestrians"
   },
@@ -2117,10 +2117,10 @@
     "category": "rules",
     "question": "When two vehicles arrive at an uncontrolled intersection at the same time, the driver on the left must:",
     "options": [
+      "Reverse",
       "Yield to the driver on the right",
-      "Proceed first",
       "Honk and proceed",
-      "Reverse"
+      "Proceed first"
     ],
     "answer": "Yield to the driver on the right"
   },
@@ -2129,9 +2129,9 @@
     "category": "rules",
     "question": "When approaching a hill, you should not pass another vehicle if:",
     "options": [
-      "You cannot see far enough ahead",
-      "Traffic is light",
       "You are below the speed limit",
+      "Traffic is light",
+      "You cannot see far enough ahead",
       "There is a broken line"
     ],
     "answer": "You cannot see far enough ahead"
@@ -2141,10 +2141,10 @@
     "category": "rules",
     "question": "If you are being passed, you should:",
     "options": [
-      "Stay in your lane and maintain speed",
-      "Speed up",
       "Move into the other lane",
-      "Brake sharply"
+      "Brake sharply",
+      "Speed up",
+      "Stay in your lane and maintain speed"
     ],
     "answer": "Stay in your lane and maintain speed"
   },
@@ -2154,8 +2154,8 @@
     "question": "When you hear a siren, you should:",
     "options": [
       "Check mirrors and move safely to the right",
-      "Stop in your lane immediately",
       "Speed up",
+      "Stop in your lane immediately",
       "Turn left"
     ],
     "answer": "Check mirrors and move safely to the right"
@@ -2165,8 +2165,8 @@
     "category": "rules",
     "question": "If a traffic light turns yellow as you approach the intersection, you should:",
     "options": [
-      "Stop if you can do so safely",
       "Accelerate to get through",
+      "Stop if you can do so safely",
       "Stop in the intersection",
       "Proceed without caution"
     ],
@@ -2177,10 +2177,10 @@
     "category": "rules",
     "question": "When driving through a work zone, you should:",
     "options": [
-      "Obey reduced speed limits and be alert",
+      "Ignore workers’ signals",
       "Maintain normal speed",
-      "Pass construction vehicles",
-      "Ignore workers’ signals"
+      "Obey reduced speed limits and be alert",
+      "Pass construction vehicles"
     ],
     "answer": "Obey reduced speed limits and be alert"
   },
@@ -2189,10 +2189,10 @@
     "category": "rules",
     "question": "You must not enter an intersection unless:",
     "options": [
-      "You can clear it completely",
-      "The light is green",
       "You are turning right",
-      "You honk first"
+      "You honk first",
+      "The light is green",
+      "You can clear it completely"
     ],
     "answer": "You can clear it completely"
   },
@@ -2202,9 +2202,9 @@
     "question": "Changing lanes in an intersection is:",
     "options": [
       "Unsafe and should be avoided",
-      "Required when turning",
+      "Only allowed at night",
       "Allowed at any time",
-      "Only allowed at night"
+      "Required when turning"
     ],
     "answer": "Unsafe and should be avoided"
   },
@@ -2213,8 +2213,8 @@
     "category": "rules",
     "question": "When turning right, you should:",
     "options": [
-      "Turn into the right lane",
       "Turn into the left lane",
+      "Turn into the right lane",
       "Turn from the left lane",
       "Honk and turn"
     ],
@@ -2225,10 +2225,10 @@
     "category": "rules",
     "question": "When turning left from a two-way road onto a two-way road, you should:",
     "options": [
-      "Turn into the left lane",
       "Turn into the right lane",
-      "Turn from the right lane",
-      "Change lanes mid-turn"
+      "Change lanes mid-turn",
+      "Turn into the left lane",
+      "Turn from the right lane"
     ],
     "answer": "Turn into the left lane"
   },
@@ -2237,10 +2237,10 @@
     "category": "rules",
     "question": "When turning right at a green light, you must:",
     "options": [
-      "Yield to pedestrians and cyclists",
+      "Use the left lane",
       "Proceed without looking",
       "Stop only for vehicles",
-      "Use the left lane"
+      "Yield to pedestrians and cyclists"
     ],
     "answer": "Yield to pedestrians and cyclists"
   },
@@ -2250,8 +2250,8 @@
     "question": "Before leaving a parking space, you should:",
     "options": [
       "Signal and check for traffic",
-      "Pull out immediately",
       "Only check your mirror",
+      "Pull out immediately",
       "Honk and go"
     ],
     "answer": "Signal and check for traffic"
@@ -2261,10 +2261,10 @@
     "category": "rules",
     "question": "On a multi-lane highway, you should:",
     "options": [
-      "Keep right except to pass",
-      "Drive in the left lane only",
       "Weave between lanes",
-      "Stop on the shoulder"
+      "Keep right except to pass",
+      "Stop on the shoulder",
+      "Drive in the left lane only"
     ],
     "answer": "Keep right except to pass"
   },
@@ -2273,9 +2273,9 @@
     "category": "rules",
     "question": "If a lane is marked for turning only, you must:",
     "options": [
-      "Turn in the direction of the arrow",
       "Go straight if clear",
       "Change lanes in the intersection",
+      "Turn in the direction of the arrow",
       "Stop and wait"
     ],
     "answer": "Turn in the direction of the arrow"
@@ -2285,10 +2285,10 @@
     "category": "rules",
     "question": "A G1 driver must be accompanied by:",
     "options": [
-      "A fully licensed driver in the front seat",
       "Any adult passenger",
+      "No one",
       "A passenger in the back seat",
-      "No one"
+      "A fully licensed driver in the front seat"
     ],
     "answer": "A fully licensed driver in the front seat"
   },
@@ -2298,9 +2298,9 @@
     "question": "A G1 driver must not drive between:",
     "options": [
       "Midnight and 5 a.m.",
-      "6 a.m. and 10 a.m.",
       "Noon and 4 p.m.",
-      "7 p.m. and 9 p.m."
+      "7 p.m. and 9 p.m.",
+      "6 a.m. and 10 a.m."
     ],
     "answer": "Midnight and 5 a.m."
   },
@@ -2309,9 +2309,9 @@
     "category": "rules",
     "question": "If your vehicle stalls on railway tracks, you should:",
     "options": [
+      "Wait inside the vehicle",
       "Leave the vehicle and move away from the tracks",
       "Try to push the vehicle along the tracks",
-      "Wait inside the vehicle",
       "Call a tow and stay in the car"
     ],
     "answer": "Leave the vehicle and move away from the tracks"
@@ -2321,10 +2321,10 @@
     "category": "rules",
     "question": "You must not stop or park:",
     "options": [
-      "On railway tracks or within the crossing",
+      "At a rest area",
       "On a private driveway",
-      "On your own driveway",
-      "At a rest area"
+      "On railway tracks or within the crossing",
+      "On your own driveway"
     ],
     "answer": "On railway tracks or within the crossing"
   },
@@ -2333,10 +2333,10 @@
     "category": "rules",
     "question": "When passing another vehicle, you should return to your lane when:",
     "options": [
-      "You can see the passed vehicle in your rearview mirror",
-      "You are halfway past",
       "You hear a horn",
-      "You are beside the vehicle"
+      "You are beside the vehicle",
+      "You are halfway past",
+      "You can see the passed vehicle in your rearview mirror"
     ],
     "answer": "You can see the passed vehicle in your rearview mirror"
   },
@@ -2357,8 +2357,8 @@
     "category": "rules",
     "question": "Using a handheld device while driving is:",
     "options": [
-      "Illegal",
       "Allowed below 30 km/h",
+      "Illegal",
       "Allowed if no passengers",
       "Allowed on rural roads"
     ],
@@ -2369,10 +2369,10 @@
     "category": "rules",
     "question": "At an unmarked crosswalk, you must:",
     "options": [
-      "Yield to pedestrians",
-      "Honk and proceed",
+      "Stop only at night",
       "Speed up",
-      "Stop only at night"
+      "Yield to pedestrians",
+      "Honk and proceed"
     ],
     "answer": "Yield to pedestrians"
   },
@@ -2381,10 +2381,10 @@
     "category": "rules",
     "question": "If a transit bus signals to re-enter traffic from a bus bay, you should:",
     "options": [
-      "Yield to the bus",
+      "Honk and proceed",
       "Speed up to pass",
       "Stop immediately",
-      "Honk and proceed"
+      "Yield to the bus"
     ],
     "answer": "Yield to the bus"
   },
@@ -2395,8 +2395,8 @@
     "options": [
       "Keep to the right side of your lane",
       "Drive on the centre line",
-      "Drive on the shoulder",
-      "Straddle lanes"
+      "Straddle lanes",
+      "Drive on the shoulder"
     ],
     "answer": "Keep to the right side of your lane"
   },
@@ -2405,10 +2405,10 @@
     "category": "rules",
     "question": "At a 4-way stop, if two vehicles arrive at the same time, the driver on the left must:",
     "options": [
-      "Yield to the driver on the right",
       "Go first",
-      "Honk and proceed",
-      "Reverse"
+      "Yield to the driver on the right",
+      "Reverse",
+      "Honk and proceed"
     ],
     "answer": "Yield to the driver on the right"
   },
@@ -2417,9 +2417,9 @@
     "category": "rules",
     "question": "When a traffic light is red, you must stop:",
     "options": [
-      "Before the stop line or crosswalk",
       "On the crosswalk",
       "In the intersection",
+      "Before the stop line or crosswalk",
       "After the intersection"
     ],
     "answer": "Before the stop line or crosswalk"
@@ -2429,10 +2429,10 @@
     "category": "rules",
     "question": "At a stop sign without a marked line, you must stop:",
     "options": [
-      "At a point with a clear view of traffic",
       "At the center of the intersection",
       "Only if traffic is coming",
-      "After the intersection"
+      "After the intersection",
+      "At a point with a clear view of traffic"
     ],
     "answer": "At a point with a clear view of traffic"
   },
@@ -2442,9 +2442,9 @@
     "question": "When driving downhill with a curb, you should turn your wheels:",
     "options": [
       "Right, toward the curb",
-      "Left, away from the curb",
       "Straight ahead",
-      "Any direction"
+      "Any direction",
+      "Left, away from the curb"
     ],
     "answer": "Right, toward the curb"
   },
@@ -2453,8 +2453,8 @@
     "category": "rules",
     "question": "When following another vehicle at night, you should use low beams when within:",
     "options": [
-      "60 metres",
       "150 metres",
+      "60 metres",
       "30 metres",
       "300 metres"
     ],
@@ -2465,10 +2465,10 @@
     "category": "rules",
     "question": "If visibility is less than 150 metres, you must use:",
     "options": [
-      "Headlights",
-      "Parking lights",
+      "High beams only",
       "Hazard lights",
-      "High beams only"
+      "Headlights",
+      "Parking lights"
     ],
     "answer": "Headlights"
   },
@@ -2477,10 +2477,10 @@
     "category": "rules",
     "question": "When passing a cyclist, you must leave at least:",
     "options": [
-      "1 metre of space",
-      "30 cm of space",
+      "No minimum distance",
       "2 metres of space",
-      "No minimum distance"
+      "30 cm of space",
+      "1 metre of space"
     ],
     "answer": "1 metre of space"
   },
@@ -2501,10 +2501,10 @@
     "category": "rules",
     "question": "In bad weather, you should:",
     "options": [
-      "Increase following distance",
-      "Use cruise control",
       "Brake late",
-      "Drive faster"
+      "Increase following distance",
+      "Drive faster",
+      "Use cruise control"
     ],
     "answer": "Increase following distance"
   },
@@ -2513,10 +2513,10 @@
     "category": "rules",
     "question": "Fully licensed drivers in Ontario can face an immediate roadside licence suspension at a blood alcohol concentration of:",
     "options": [
-      "0.05%",
-      "0.08%",
+      "Zero",
       "0.10%",
-      "Zero"
+      "0.05%",
+      "0.08%"
     ],
     "answer": "0.05%"
   },
@@ -2525,10 +2525,10 @@
     "category": "rules",
     "question": "When parallel parking on a hill facing uphill with a curb, you should:",
     "options": [
-      "Turn wheels away from curb",
       "Turn wheels toward curb",
+      "Engage parking brake only",
       "Keep wheels straight",
-      "Engage parking brake only"
+      "Turn wheels away from curb"
     ],
     "answer": "Turn wheels away from curb"
   },
@@ -2538,9 +2538,9 @@
     "question": "The shoulder check is required when:",
     "options": [
       "Changing lanes or merging",
-      "Stopping at a red light",
       "Driving straight",
-      "Following traffic"
+      "Following traffic",
+      "Stopping at a red light"
     ],
     "answer": "Changing lanes or merging"
   },
@@ -2549,10 +2549,10 @@
     "category": "rules",
     "question": "At an intersection with no traffic lights or signs, you must:",
     "options": [
-      "Yield to traffic on the right",
-      "Proceed without stopping",
       "Always stop",
-      "Honk your horn"
+      "Yield to traffic on the right",
+      "Honk your horn",
+      "Proceed without stopping"
     ],
     "answer": "Yield to traffic on the right"
   },
@@ -2561,9 +2561,9 @@
     "category": "rules",
     "question": "If you are convicted of distracted driving in Ontario, you can receive:",
     "options": [
-      "Fines and demerit points",
       "Warning only",
       "Community service",
+      "Fines and demerit points",
       "License upgrade"
     ],
     "answer": "Fines and demerit points"
@@ -2573,10 +2573,10 @@
     "category": "rules",
     "question": "When approaching a stopped school bus with flashing red lights on a divided highway:",
     "options": [
-      "Only stop if on same side",
-      "Always stop both directions",
       "Slow down and pass",
-      "Change lanes"
+      "Always stop both directions",
+      "Change lanes",
+      "Only stop if on same side"
     ],
     "answer": "Only stop if on same side"
   },
@@ -2587,8 +2587,8 @@
     "options": [
       "Following distance",
       "Reaction time",
-      "Brake time",
-      "Signal duration"
+      "Signal duration",
+      "Brake time"
     ],
     "answer": "Following distance"
   },
@@ -2597,9 +2597,9 @@
     "category": "rules",
     "question": "When may you exceed the speed limit in Ontario?",
     "options": [
+      "In emergencies",
       "Never",
       "To pass another vehicle",
-      "In emergencies",
       "On highways only"
     ],
     "answer": "Never"
@@ -2609,9 +2609,9 @@
     "category": "rules",
     "question": "Winter tires are recommended when temperatures drop below:",
     "options": [
-      "7°C",
-      "0°C",
       "-5°C",
+      "0°C",
+      "7°C",
       "-10°C"
     ],
     "answer": "7°C"
@@ -2621,10 +2621,10 @@
     "category": "rules",
     "question": "When should you use your vehicle's horn?",
     "options": [
-      "To warn of danger",
-      "To greet friends",
       "When angry",
-      "At every intersection"
+      "At every intersection",
+      "To greet friends",
+      "To warn of danger"
     ],
     "answer": "To warn of danger"
   },
@@ -2645,10 +2645,10 @@
     "category": "rules",
     "question": "Diamond-shaped pavement markings indicate:",
     "options": [
-      "Reserved lane (HOV or bus)",
       "Bicycle lane",
-      "Parking area",
-      "Loading zone"
+      "Reserved lane (HOV or bus)",
+      "Loading zone",
+      "Parking area"
     ],
     "answer": "Reserved lane (HOV or bus)"
   },
@@ -2657,10 +2657,10 @@
     "category": "rules",
     "question": "You must dim your high beams when within how many meters of oncoming traffic?",
     "options": [
-      "150 meters",
+      "50 meters",
       "100 meters",
-      "200 meters",
-      "50 meters"
+      "150 meters",
+      "200 meters"
     ],
     "answer": "150 meters"
   },
@@ -2669,10 +2669,10 @@
     "category": "rules",
     "question": "If you refuse a roadside breath test, you can face:",
     "options": [
-      "Immediate license suspension",
-      "Warning",
       "Small fine only",
-      "No penalty"
+      "Warning",
+      "No penalty",
+      "Immediate license suspension"
     ],
     "answer": "Immediate license suspension"
   },
@@ -2682,9 +2682,9 @@
     "question": "When parking downhill with a curb, turn your wheels:",
     "options": [
       "Toward the curb",
-      "Away from curb",
+      "Fully left",
       "Straight",
-      "Fully left"
+      "Away from curb"
     ],
     "answer": "Toward the curb"
   },
@@ -2693,10 +2693,10 @@
     "category": "rules",
     "question": "The safest way to exit a freeway is to:",
     "options": [
-      "Signal early and reduce speed in exit lane",
       "Slow down in traffic lane",
-      "Exit quickly",
-      "Stop before exiting"
+      "Signal early and reduce speed in exit lane",
+      "Stop before exiting",
+      "Exit quickly"
     ],
     "answer": "Signal early and reduce speed in exit lane"
   },
@@ -2705,10 +2705,10 @@
     "category": "rules",
     "question": "A novice driver with a BAC above zero can face:",
     "options": [
-      "Immediate license suspension",
+      "No consequence",
       "Written warning",
-      "Points only",
-      "No consequence"
+      "Immediate license suspension",
+      "Points only"
     ],
     "answer": "Immediate license suspension"
   },
@@ -2717,10 +2717,10 @@
     "category": "rules",
     "question": "The maximum speed limit on Ontario highways is typically:",
     "options": [
-      "100 km/h",
+      "120 km/h",
       "110 km/h",
       "90 km/h",
-      "120 km/h"
+      "100 km/h"
     ],
     "answer": "100 km/h"
   },
@@ -2730,8 +2730,8 @@
     "question": "When driving at night, you should:",
     "options": [
       "Reduce speed and increase following distance",
-      "Drive faster to see better",
       "Use high beams constantly",
+      "Drive faster to see better",
       "Follow closer to see road"
     ],
     "answer": "Reduce speed and increase following distance"
@@ -2741,8 +2741,8 @@
     "category": "rules",
     "question": "If involved in a collision, you must report it to police if damage exceeds:",
     "options": [
-      "$2,000",
       "$1,000",
+      "$2,000",
       "$500",
       "$5,000"
     ],
@@ -2753,10 +2753,10 @@
     "category": "rules",
     "question": "A broken white line between lanes means:",
     "options": [
-      "You may change lanes if safe",
       "You cannot change lanes",
-      "Advisory only",
-      "Carpool lane"
+      "Carpool lane",
+      "You may change lanes if safe",
+      "Advisory only"
     ],
     "answer": "You may change lanes if safe"
   },
@@ -2765,10 +2765,10 @@
     "category": "rules",
     "question": "The demerit point system is designed to:",
     "options": [
-      "Identify and warn drivers with repeated violations",
-      "Increase insurance rates",
       "Generate revenue",
-      "Replace fines"
+      "Increase insurance rates",
+      "Replace fines",
+      "Identify and warn drivers with repeated violations"
     ],
     "answer": "Identify and warn drivers with repeated violations"
   },
@@ -2778,8 +2778,8 @@
     "question": "When is it safe to pass another vehicle?",
     "options": [
       "When you have clear view and legal passing zone",
-      "Anytime on highway",
       "When other vehicle is slow",
+      "Anytime on highway",
       "Within 100m of intersection"
     ],
     "answer": "When you have clear view and legal passing zone"
@@ -2789,10 +2789,10 @@
     "category": "rules",
     "question": "A yellow traffic light means:",
     "options": [
+      "Yield to pedestrians only",
       "Stop if safe to do so",
-      "Speed up to clear intersection",
       "Proceed with caution",
-      "Yield to pedestrians only"
+      "Speed up to clear intersection"
     ],
     "answer": "Stop if safe to do so"
   },
@@ -2801,9 +2801,9 @@
     "category": "rules",
     "question": "The center lane with arrows pointing both left and right is used for:",
     "options": [
-      "Left turns from either direction",
-      "Passing",
       "Emergency vehicles",
+      "Passing",
+      "Left turns from either direction",
       "HOV traffic"
     ],
     "answer": "Left turns from either direction"
@@ -2813,10 +2813,10 @@
     "category": "rules",
     "question": "Driving with a BAC of 0.08 or over results in:",
     "options": [
-      "Criminal charges",
-      "Warning only",
       "Small fine",
-      "Points only"
+      "Points only",
+      "Warning only",
+      "Criminal charges"
     ],
     "answer": "Criminal charges"
   },
@@ -2826,9 +2826,9 @@
     "question": "When parking facing downhill without a curb, turn wheels:",
     "options": [
       "To the right",
-      "To the left",
       "Straight",
-      "Either direction"
+      "Either direction",
+      "To the left"
     ],
     "answer": "To the right"
   },
@@ -2837,10 +2837,10 @@
     "category": "rules",
     "question": "A flashing green light at an intersection means:",
     "options": [
+      "The signal is malfunctioning",
       "You may turn left, go straight or turn right; oncoming traffic faces a red light",
       "Stop and wait for a solid green",
-      "Pedestrians have the right-of-way only",
-      "The signal is malfunctioning"
+      "Pedestrians have the right-of-way only"
     ],
     "answer": "You may turn left, go straight or turn right; oncoming traffic faces a red light"
   },
@@ -2849,327 +2849,315 @@
     "category": "rules",
     "question": "What is the purpose of anti-lock brakes (ABS)?",
     "options": [
-      "Prevent wheels from locking during hard braking",
       "Stop vehicle faster",
-      "Replace regular brakes",
-      "Work only in winter"
+      "Work only in winter",
+      "Prevent wheels from locking during hard braking",
+      "Replace regular brakes"
     ],
     "answer": "Prevent wheels from locking during hard braking"
   },
   {
     "id": 236,
     "category": "rules",
-    "question": "You must use headlights from:",
-    "options": [
-      "One half hour before sunset to half hour after sunrise",
-      "Sunset to sunrise only",
-      "Anytime it's dark",
-      "Only at night"
-    ],
-    "answer": "Half an hour after sunset to half an hour before sunrise"
-  },
-  {
-    "id": 237,
-    "category": "rules",
     "question": "Black ice is most likely to form:",
     "options": [
-      "On bridges and shaded areas",
-      "In direct sunlight",
       "Only on highways",
-      "During heavy snow"
+      "During heavy snow",
+      "In direct sunlight",
+      "On bridges and shaded areas"
     ],
     "answer": "On bridges and shaded areas"
   },
   {
-    "id": 238,
+    "id": 237,
     "category": "rules",
     "question": "You should increase following distance when:",
     "options": [
       "Driving in poor conditions or behind large vehicles",
-      "Driving on highways",
       "In good weather",
+      "Driving on highways",
       "During daytime only"
     ],
     "answer": "Driving in poor conditions or behind large vehicles"
   },
   {
-    "id": 239,
+    "id": 238,
     "category": "rules",
     "question": "Using hand-held devices while driving results in:",
     "options": [
-      "Fines, demerit points, and possible suspension",
-      "Warning for first offense",
       "Small fine only",
-      "No penalty if parked"
+      "Fines, demerit points, and possible suspension",
+      "No penalty if parked",
+      "Warning for first offense"
     ],
     "answer": "Fines, demerit points, and possible suspension"
   },
   {
-    "id": 240,
+    "id": 239,
     "category": "rules",
     "question": "When changing lanes, you should check blind spots because:",
     "options": [
-      "Mirrors don't show everything beside your vehicle",
       "It's the law",
-      "Mirrors can be adjusted wrong",
-      "Other drivers expect it"
+      "Other drivers expect it",
+      "Mirrors don't show everything beside your vehicle",
+      "Mirrors can be adjusted wrong"
     ],
     "answer": "Mirrors don't show everything beside your vehicle"
   },
   {
-    "id": 241,
+    "id": 240,
     "category": "rules",
     "question": "If your gas pedal sticks, you should:",
     "options": [
-      "Shift to neutral and brake",
-      "Turn off engine immediately",
       "Pump the gas pedal",
-      "Pull parking brake"
+      "Pull parking brake",
+      "Turn off engine immediately",
+      "Shift to neutral and brake"
     ],
     "answer": "Shift to neutral and brake"
   },
   {
-    "id": 242,
+    "id": 241,
     "category": "rules",
     "question": "You may only drive in the far left lane of a multi-lane highway when:",
     "options": [
       "Passing or traffic is heavy",
       "Driving fast",
-      "No one is behind you",
-      "Anytime you want"
+      "Anytime you want",
+      "No one is behind you"
     ],
     "answer": "Passing or traffic is heavy"
   },
   {
-    "id": 243,
+    "id": 242,
     "category": "rules",
     "question": "The main cause of skidding is:",
     "options": [
-      "Driver error and excessive speed",
       "Poor road conditions only",
+      "Driver error and excessive speed",
       "Vehicle defects",
       "Tire pressure"
     ],
     "answer": "Driver error and excessive speed"
   },
   {
-    "id": 244,
+    "id": 243,
     "category": "rules",
     "question": "A pedestrian with a white cane is:",
     "options": [
-      "Blind or visually impaired",
-      "Elderly",
       "Injured",
+      "Elderly",
+      "Blind or visually impaired",
       "A crossing guard"
     ],
     "answer": "Blind or visually impaired"
   },
   {
-    "id": 245,
+    "id": 244,
     "category": "rules",
     "question": "You must yield the right-of-way to pedestrians:",
     "options": [
-      "At all marked and unmarked crosswalks",
       "Only at marked crossings",
+      "When they wave",
       "Only with walk signal",
-      "When they wave"
+      "At all marked and unmarked crosswalks"
     ],
     "answer": "At all marked and unmarked crosswalks"
   },
   {
-    "id": 246,
+    "id": 245,
     "category": "rules",
     "question": "If two vehicles arrive at an uncontrolled intersection at the same time:",
     "options": [
       "Vehicle on the right has right-of-way",
+      "Both should stop",
       "Larger vehicle goes first",
-      "First to signal goes first",
-      "Both should stop"
+      "First to signal goes first"
     ],
     "answer": "Vehicle on the right has right-of-way"
   },
   {
-    "id": 247,
+    "id": 246,
     "category": "rules",
     "question": "When driving in heavy fog, you should avoid using:",
     "options": [
+      "Windshield wipers",
       "High beam headlights",
       "Low beam headlights",
-      "Windshield wipers",
       "Turn signals"
     ],
     "answer": "High beam headlights"
   },
   {
-    "id": 248,
+    "id": 247,
     "category": "rules",
     "question": "When should you use your vehicle's emergency flashers?",
     "options": [
-      "When stopped on roadway creating hazard",
       "While driving slowly",
-      "In heavy rain",
-      "When passing"
+      "When passing",
+      "When stopped on roadway creating hazard",
+      "In heavy rain"
     ],
     "answer": "When stopped on roadway creating hazard"
   },
   {
-    "id": 249,
+    "id": 248,
     "category": "rules",
     "question": "Before entering an intersection on a green light, you should:",
     "options": [
-      "Check for traffic in intersection",
       "Speed up",
       "Honk horn",
-      "Flash headlights"
+      "Flash headlights",
+      "Check for traffic in intersection"
     ],
     "answer": "Check for traffic in intersection"
   },
   {
-    "id": 250,
+    "id": 249,
     "category": "rules",
     "question": "The 'move over' law requires drivers to:",
     "options": [
       "Change lanes or slow down for stopped emergency vehicles",
-      "Always move to right lane",
       "Stop for all emergency vehicles",
-      "Use hazard lights"
+      "Use hazard lights",
+      "Always move to right lane"
     ],
     "answer": "Change lanes or slow down for stopped emergency vehicles"
   },
   {
-    "id": 251,
+    "id": 250,
     "category": "rules",
     "question": "A broken yellow line on your side means:",
     "options": [
+      "Lane ends",
       "You may pass if safe",
-      "Do not pass",
       "Two-way traffic",
-      "Lane ends"
+      "Do not pass"
     ],
     "answer": "You may pass if safe"
   },
   {
-    "id": 252,
+    "id": 251,
     "category": "rules",
     "question": "When driving on a freeway, you should:",
     "options": [
-      "Keep pace with traffic flow",
       "Drive at minimum speed",
-      "Stay in left lane",
-      "Use cruise control always"
+      "Use cruise control always",
+      "Keep pace with traffic flow",
+      "Stay in left lane"
     ],
     "answer": "Keep pace with traffic flow"
   },
   {
-    "id": 253,
+    "id": 252,
     "category": "rules",
     "question": "You are not allowed to make a U-turn:",
     "options": [
-      "On a curve or near a hill crest",
-      "On any highway",
       "At any intersection",
-      "In residential areas"
+      "On any highway",
+      "In residential areas",
+      "On a curve or near a hill crest"
     ],
     "answer": "On a curve or near a hill crest"
   },
   {
-    "id": 254,
+    "id": 253,
     "category": "rules",
     "question": "When exiting a driveway, you must:",
     "options": [
       "Yield to pedestrians and traffic on sidewalk",
-      "Sound horn",
+      "Signal only",
       "Have right-of-way",
-      "Signal only"
+      "Sound horn"
     ],
     "answer": "Yield to pedestrians and traffic on sidewalk"
   },
   {
-    "id": 255,
+    "id": 254,
     "category": "rules",
     "question": "You can be charged with impaired driving if:",
     "options": [
-      "Ability to drive is affected by any substance",
       "Only if BAC is over 0.08",
-      "Only with alcohol",
-      "Only if in accident"
+      "Ability to drive is affected by any substance",
+      "Only if in accident",
+      "Only with alcohol"
     ],
     "answer": "Ability to drive is affected by any substance"
   },
   {
-    "id": 256,
+    "id": 255,
     "category": "rules",
     "question": "Airbags are designed to:",
     "options": [
-      "Work with seatbelts for protection",
       "Replace seatbelts",
-      "Protect in all collisions",
-      "Deploy at any impact"
+      "Deploy at any impact",
+      "Work with seatbelts for protection",
+      "Protect in all collisions"
     ],
     "answer": "Work with seatbelts for protection"
   },
   {
-    "id": 257,
+    "id": 256,
     "category": "rules",
     "question": "When can you remove your seatbelt while driving?",
     "options": [
-      "Never, unless you have a medical exemption",
       "When backing up slowly",
+      "In parking lots",
       "On residential streets",
-      "In parking lots"
+      "Never, unless you have a medical exemption"
     ],
     "answer": "Never, unless you have a medical exemption"
   },
   {
-    "id": 258,
+    "id": 257,
     "category": "rules",
     "question": "When driving in winter conditions, you should increase your following distance to:",
     "options": [
       "4 seconds or more",
-      "1 second",
       "Less than 2 seconds",
-      "Keep the same distance"
+      "Keep the same distance",
+      "1 second"
     ],
     "answer": "4 seconds or more"
   },
   {
-    "id": 259,
+    "id": 258,
     "category": "rules",
     "question": "If you lose your driver's license, you must:",
     "options": [
+      "Nothing if you have a copy",
       "Report it to Ministry of Transportation",
       "Get a new one immediately",
-      "Wait 30 days",
-      "Nothing if you have a copy"
+      "Wait 30 days"
     ],
     "answer": "Report it to Ministry of Transportation"
   },
   {
-    "id": 260,
+    "id": 259,
     "category": "rules",
     "question": "When sharing the road with cyclists, you should:",
     "options": [
-      "Give them space and pass carefully",
       "Honk to warn them",
       "Pass as quickly as possible",
+      "Give them space and pass carefully",
       "Force them to shoulder"
     ],
     "answer": "Give them space and pass carefully"
   },
   {
-    "id": 261,
+    "id": 260,
     "category": "rules",
     "question": "A red X above a lane means:",
     "options": [
-      "Do not drive in this lane",
       "Lane ends ahead",
+      "Slow traffic lane",
       "Exit only",
-      "Slow traffic lane"
+      "Do not drive in this lane"
     ],
     "answer": "Do not drive in this lane"
   },
   {
-    "id": 262,
+    "id": 261,
     "category": "rules",
     "question": "When children are getting on or off a school bus, you must:",
     "options": [
@@ -3181,26 +3169,26 @@
     "answer": "Remain stopped until signals stop"
   },
   {
-    "id": 263,
+    "id": 262,
     "category": "rules",
     "question": "If you change your address, you must notify the Ministry within:",
     "options": [
-      "6 days",
-      "30 days",
       "14 days",
-      "3 months"
+      "6 days",
+      "3 months",
+      "30 days"
     ],
     "answer": "6 days"
   },
   {
-    "id": 264,
+    "id": 263,
     "category": "rules",
     "question": "The best way to check your blind spot is to:",
     "options": [
-      "Turn your head and look over your shoulder",
+      "Rely on backup camera",
       "Use mirrors only",
-      "Adjust mirrors properly",
-      "Rely on backup camera"
+      "Turn your head and look over your shoulder",
+      "Adjust mirrors properly"
     ],
     "answer": "Turn your head and look over your shoulder"
   }
