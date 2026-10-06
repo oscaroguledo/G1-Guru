@@ -723,30 +723,6 @@
   {
     "id": 58,
     "category": "road_signs",
-    "question": "A flashing red traffic light means:",
-    "options": [
-      "Yield to all traffic",
-      "Stop, then proceed when it is safe, as at a stop sign",
-      "The light is broken; treat as a yield",
-      "Slow down and proceed"
-    ],
-    "answer": "Stop, then proceed when it is safe, as at a stop sign"
-  },
-  {
-    "id": 59,
-    "category": "road_signs",
-    "question": "A flashing yellow (amber) traffic light means:",
-    "options": [
-      "Stop completely",
-      "Yield to all vehicles",
-      "Slow down and proceed with caution",
-      "Road closed"
-    ],
-    "answer": "Slow down and proceed with caution"
-  },
-  {
-    "id": 60,
-    "category": "road_signs",
     "question": "A steady green light means:",
     "options": [
       "Yield to all other vehicles",
@@ -757,7 +733,7 @@
     "answer": "Proceed if the intersection is clear"
   },
   {
-    "id": 61,
+    "id": 59,
     "category": "road_signs",
     "question": "A pedestrian signal showing a flashing hand means:",
     "options": [
@@ -769,7 +745,7 @@
     "answer": "Do not start crossing; finish crossing if already in the intersection"
   },
   {
-    "id": 62,
+    "id": 60,
     "category": "road_signs",
     "question": "A pedestrian signal showing a steady white walking person means:",
     "options": [
@@ -781,7 +757,7 @@
     "answer": "Pedestrians may cross"
   },
   {
-    "id": 63,
+    "id": 61,
     "category": "road_signs",
     "question": "A \"Do Not Enter\" sign means:",
     "options": [
@@ -793,7 +769,7 @@
     "answer": "You may not enter; you would be driving against traffic"
   },
   {
-    "id": 64,
+    "id": 62,
     "category": "road_signs",
     "question": "A sign with a bicycle in a white diamond on the pavement means:",
     "options": [
@@ -805,7 +781,7 @@
     "answer": "Designated bicycle lane"
   },
   {
-    "id": 65,
+    "id": 63,
     "category": "road_signs",
     "question": "A sign with a wheelchair symbol on a blue background indicates:",
     "options": [
@@ -817,7 +793,7 @@
     "answer": "Accessible parking for permit holders"
   },
   {
-    "id": 66,
+    "id": 64,
     "category": "road_signs",
     "question": "A speed limit sign is:",
     "options": [
@@ -829,7 +805,7 @@
     "answer": "A regulatory sign showing the maximum speed allowed"
   },
   {
-    "id": 67,
+    "id": 65,
     "category": "road_signs",
     "question": "Advisory speed signs below a warning sign tell you:",
     "options": [
@@ -841,7 +817,7 @@
     "answer": "The safest speed for the hazard ahead"
   },
   {
-    "id": 68,
+    "id": 66,
     "category": "road_signs",
     "question": "A \"Yield\" sign tells you to:",
     "options": [
@@ -853,7 +829,7 @@
     "answer": "Slow down and give the right-of-way to traffic and pedestrians"
   },
   {
-    "id": 69,
+    "id": 67,
     "category": "road_signs",
     "question": "A \"Dead End\" sign warns that:",
     "options": [
@@ -865,7 +841,7 @@
     "answer": "The road does not go through"
   },
   {
-    "id": 70,
+    "id": 68,
     "category": "road_signs",
     "question": "A white sign with a black arrow curving around a median is:",
     "options": [
@@ -877,7 +853,7 @@
     "answer": "A keep right (or left) sign"
   },
   {
-    "id": 71,
+    "id": 69,
     "category": "road_signs",
     "question": "Construction zone signs are:",
     "options": [
@@ -889,7 +865,7 @@
     "answer": "Orange and diamond shaped"
   },
   {
-    "id": 72,
+    "id": 70,
     "category": "road_signs",
     "question": "Where a traffic control person is directing traffic at a construction zone, you must:",
     "options": [
@@ -901,7 +877,7 @@
     "answer": "Obey their signals"
   },
   {
-    "id": 73,
+    "id": 71,
     "category": "road_signs",
     "question": "A pennant-shaped yellow sign on the left side of the road warns of:",
     "options": [
@@ -913,7 +889,7 @@
     "answer": "A no passing zone"
   },
   {
-    "id": 74,
+    "id": 72,
     "category": "rules",
     "question": "At a 4-way stop, who goes first?",
     "options": [
@@ -925,7 +901,7 @@
     "answer": "First vehicle to arrive"
   },
   {
-    "id": 75,
+    "id": 73,
     "category": "rules",
     "question": "The default speed limit in cities/towns in Ontario is:",
     "options": [
@@ -937,7 +913,7 @@
     "answer": "50 km/h"
   },
   {
-    "id": 76,
+    "id": 74,
     "category": "rules",
     "question": "When must you stop for a school bus with flashing red lights?",
     "options": [
@@ -949,7 +925,7 @@
     "answer": "Always unless on a divided highway"
   },
   {
-    "id": 77,
+    "id": 75,
     "category": "rules",
     "question": "The minimum safe following distance is:",
     "options": [
@@ -961,7 +937,7 @@
     "answer": "2 seconds"
   },
   {
-    "id": 78,
+    "id": 76,
     "category": "rules",
     "question": "When an emergency vehicle approaches with lights on, you must:",
     "options": [
@@ -973,7 +949,7 @@
     "answer": "Pull to the right and stop"
   },
   {
-    "id": 79,
+    "id": 77,
     "category": "rules",
     "question": "When is passing on the right permitted?",
     "options": [
@@ -985,7 +961,7 @@
     "answer": "When the vehicle ahead is turning left"
   },
   {
-    "id": 80,
+    "id": 78,
     "category": "rules",
     "question": "At a yield sign, you must:",
     "options": [
@@ -997,7 +973,7 @@
     "answer": "Slow and give way if needed"
   },
   {
-    "id": 81,
+    "id": 79,
     "category": "rules",
     "question": "When railway lights are flashing, you must stop:",
     "options": [
@@ -1009,7 +985,7 @@
     "answer": "At least 5 metres from the tracks"
   },
   {
-    "id": 82,
+    "id": 80,
     "category": "rules",
     "question": "Before changing lanes, you must:",
     "options": [
@@ -1021,7 +997,7 @@
     "answer": "Signal and check mirrors + blind spot"
   },
   {
-    "id": 83,
+    "id": 81,
     "category": "rules",
     "question": "The left lane on multi-lane roads is mainly for:",
     "options": [
@@ -1033,7 +1009,7 @@
     "answer": "Passing"
   },
   {
-    "id": 84,
+    "id": 82,
     "category": "rules",
     "question": "You must dim high beams when approaching another vehicle within:",
     "options": [
@@ -1045,7 +1021,7 @@
     "answer": "150 metres"
   },
   {
-    "id": 85,
+    "id": 83,
     "category": "rules",
     "question": "Hydroplaning occurs when:",
     "options": [
@@ -1057,7 +1033,7 @@
     "answer": "Tires lose contact with the road due to water"
   },
   {
-    "id": 86,
+    "id": 84,
     "category": "rules",
     "question": "If you miss your highway exit, you should:",
     "options": [
@@ -1069,7 +1045,7 @@
     "answer": "Take the next exit"
   },
   {
-    "id": 87,
+    "id": 85,
     "category": "rules",
     "question": "When a school patrol guard holds up a stop sign, you must:",
     "options": [
@@ -1081,7 +1057,7 @@
     "answer": "Stop until the guard lowers the sign"
   },
   {
-    "id": 88,
+    "id": 86,
     "category": "rules",
     "question": "Using a handheld phone while driving is:",
     "options": [
@@ -1093,7 +1069,7 @@
     "answer": "Illegal at all times"
   },
   {
-    "id": 89,
+    "id": 87,
     "category": "rules",
     "question": "When parallel parking, you must park within _____ of the curb.",
     "options": [
@@ -1105,7 +1081,7 @@
     "answer": "30 cm"
   },
   {
-    "id": 90,
+    "id": 88,
     "category": "rules",
     "question": "If your vehicle begins to skid, you should:",
     "options": [
@@ -1117,7 +1093,7 @@
     "answer": "Steer in the direction you want to go"
   },
   {
-    "id": 91,
+    "id": 89,
     "category": "rules",
     "question": "A flashing yellow traffic light means:",
     "options": [
@@ -1129,7 +1105,7 @@
     "answer": "Proceed with caution"
   },
   {
-    "id": 92,
+    "id": 90,
     "category": "rules",
     "question": "When following a motorcycle, you should:",
     "options": [
@@ -1141,7 +1117,7 @@
     "answer": "Allow extra space"
   },
   {
-    "id": 93,
+    "id": 91,
     "category": "rules",
     "question": "Drivers must use headlights between:",
     "options": [
@@ -1153,7 +1129,7 @@
     "answer": "Half an hour after sunset to half an hour before sunrise"
   },
   {
-    "id": 94,
+    "id": 92,
     "category": "rules",
     "question": "Seat belts must be worn by:",
     "options": [
@@ -1165,7 +1141,7 @@
     "answer": "All occupants"
   },
   {
-    "id": 95,
+    "id": 93,
     "category": "rules",
     "question": "You may turn right on a red light if:",
     "options": [
@@ -1177,7 +1153,7 @@
     "answer": "You stop first and the way is clear"
   },
   {
-    "id": 96,
+    "id": 94,
     "category": "rules",
     "question": "A flashing red traffic light means:",
     "options": [
@@ -1189,7 +1165,7 @@
     "answer": "Stop and proceed when safe"
   },
   {
-    "id": 97,
+    "id": 95,
     "category": "rules",
     "question": "At an uncontrolled intersection, you must yield to:",
     "options": [
@@ -1201,7 +1177,7 @@
     "answer": "Vehicles on your right"
   },
   {
-    "id": 98,
+    "id": 96,
     "category": "rules",
     "question": "When approaching a stopped emergency vehicle with flashing lights, you must:",
     "options": [
@@ -1213,7 +1189,7 @@
     "answer": "Slow down and move over if safe"
   },
   {
-    "id": 99,
+    "id": 97,
     "category": "rules",
     "question": "The minimum age to obtain a G1 licence in Ontario is:",
     "options": [
@@ -1225,7 +1201,7 @@
     "answer": "16 years"
   },
   {
-    "id": 100,
+    "id": 98,
     "category": "rules",
     "question": "For G1 and G2 drivers, the blood alcohol concentration must be:",
     "options": [
@@ -1237,7 +1213,7 @@
     "answer": "0.00"
   },
   {
-    "id": 101,
+    "id": 99,
     "category": "rules",
     "question": "You should signal at least ____ before turning or changing lanes.",
     "options": [
@@ -1249,7 +1225,7 @@
     "answer": "30 metres"
   },
   {
-    "id": 102,
+    "id": 100,
     "category": "rules",
     "question": "When parking uphill with a curb, you should turn your wheels:",
     "options": [
@@ -1261,7 +1237,7 @@
     "answer": "Left, away from the curb"
   },
   {
-    "id": 103,
+    "id": 101,
     "category": "rules",
     "question": "At a pedestrian crosswalk, you must:",
     "options": [
@@ -1273,7 +1249,7 @@
     "answer": "Yield and stop for pedestrians"
   },
   {
-    "id": 104,
+    "id": 102,
     "category": "rules",
     "question": "When a traffic signal is not working, you should:",
     "options": [
@@ -1285,7 +1261,7 @@
     "answer": "Treat it as a 4-way stop"
   },
   {
-    "id": 105,
+    "id": 103,
     "category": "rules",
     "question": "If railway crossing gates are down, you must:",
     "options": [
@@ -1297,7 +1273,7 @@
     "answer": "Stop and wait until they rise"
   },
   {
-    "id": 106,
+    "id": 104,
     "category": "rules",
     "question": "Use headlights in daytime when:",
     "options": [
@@ -1309,7 +1285,7 @@
     "answer": "Visibility is poor"
   },
   {
-    "id": 107,
+    "id": 105,
     "category": "rules",
     "question": "You must not pass another vehicle within ____ of a railway crossing.",
     "options": [
@@ -1321,7 +1297,7 @@
     "answer": "30 metres"
   },
   {
-    "id": 108,
+    "id": 106,
     "category": "rules",
     "question": "In a school zone, you must:",
     "options": [
@@ -1333,7 +1309,7 @@
     "answer": "Obey the posted limit during indicated times"
   },
   {
-    "id": 109,
+    "id": 107,
     "category": "rules",
     "question": "When a streetcar stops to let passengers on or off, you must stop:",
     "options": [
@@ -1345,7 +1321,7 @@
     "answer": "At least 2 metres behind the rear door"
   },
   {
-    "id": 110,
+    "id": 108,
     "category": "rules",
     "question": "At a roundabout, you must:",
     "options": [
@@ -1357,7 +1333,7 @@
     "answer": "Yield to traffic already in the roundabout"
   },
   {
-    "id": 111,
+    "id": 109,
     "category": "rules",
     "question": "When entering a freeway, you should:",
     "options": [
@@ -1369,7 +1345,7 @@
     "answer": "Use the acceleration lane to match traffic speed"
   },
   {
-    "id": 112,
+    "id": 110,
     "category": "rules",
     "question": "If a tire blows out, you should:",
     "options": [
@@ -1381,7 +1357,7 @@
     "answer": "Grip the wheel and ease off the accelerator"
   },
   {
-    "id": 113,
+    "id": 111,
     "category": "rules",
     "question": "If your vehicle is disabled on the road, you should:",
     "options": [
@@ -1393,7 +1369,7 @@
     "answer": "Use hazard lights"
   },
   {
-    "id": 114,
+    "id": 112,
     "category": "rules",
     "question": "At a stop sign, you must stop:",
     "options": [
@@ -1405,7 +1381,7 @@
     "answer": "Before the stop line or crosswalk"
   },
   {
-    "id": 115,
+    "id": 113,
     "category": "rules",
     "question": "In bad weather, a safe following distance is at least:",
     "options": [
@@ -1417,7 +1393,7 @@
     "answer": "4 seconds or more"
   },
   {
-    "id": 116,
+    "id": 114,
     "category": "rules",
     "question": "You must not park within ____ of a fire hydrant.",
     "options": [
@@ -1429,7 +1405,7 @@
     "answer": "3 metres"
   },
   {
-    "id": 117,
+    "id": 115,
     "category": "rules",
     "question": "You must not park within ____ of an intersection.",
     "options": [
@@ -1441,7 +1417,7 @@
     "answer": "9 metres"
   },
   {
-    "id": 118,
+    "id": 116,
     "category": "rules",
     "question": "At night, daytime running lights are not enough. You must use:",
     "options": [
@@ -1453,7 +1429,7 @@
     "answer": "Headlights and tail lights"
   },
   {
-    "id": 119,
+    "id": 117,
     "category": "rules",
     "question": "In rural areas with no posted speed limit, the maximum is:",
     "options": [
@@ -1465,7 +1441,7 @@
     "answer": "80 km/h"
   },
   {
-    "id": 120,
+    "id": 118,
     "category": "rules",
     "question": "Children under 8 must be:",
     "options": [
@@ -1477,7 +1453,7 @@
     "answer": "In an approved child restraint or booster as required"
   },
   {
-    "id": 121,
+    "id": 119,
     "category": "rules",
     "question": "A solid yellow line on your side of a two-way road means:",
     "options": [
@@ -1489,7 +1465,7 @@
     "answer": "No passing"
   },
   {
-    "id": 122,
+    "id": 120,
     "category": "rules",
     "question": "You must not pass when approaching:",
     "options": [
@@ -1501,7 +1477,7 @@
     "answer": "A hill or curve where the view is blocked"
   },
   {
-    "id": 123,
+    "id": 121,
     "category": "rules",
     "question": "In fog, you should use:",
     "options": [
@@ -1513,7 +1489,7 @@
     "answer": "Low-beam headlights"
   },
   {
-    "id": 124,
+    "id": 122,
     "category": "rules",
     "question": "On an undivided road, when a school bus with flashing red lights stops, you must:",
     "options": [
@@ -1525,7 +1501,7 @@
     "answer": "Stop in both directions"
   },
   {
-    "id": 125,
+    "id": 123,
     "category": "rules",
     "question": "When towing or carrying a heavy load, you should:",
     "options": [
@@ -1537,7 +1513,7 @@
     "answer": "Increase following distance"
   },
   {
-    "id": 126,
+    "id": 124,
     "category": "rules",
     "question": "A collision with total damage over $2,000 must be:",
     "options": [
@@ -1549,7 +1525,7 @@
     "answer": "Reported to a collision reporting centre or police"
   },
   {
-    "id": 127,
+    "id": 125,
     "category": "rules",
     "question": "When turning left at an intersection, you must yield to:",
     "options": [
@@ -1561,7 +1537,7 @@
     "answer": "Oncoming traffic and pedestrians"
   },
   {
-    "id": 128,
+    "id": 126,
     "category": "rules",
     "question": "A green arrow signal means you may:",
     "options": [
@@ -1573,7 +1549,7 @@
     "answer": "Proceed in the direction of the arrow"
   },
   {
-    "id": 129,
+    "id": 127,
     "category": "rules",
     "question": "A complete stop means:",
     "options": [
@@ -1585,7 +1561,7 @@
     "answer": "Wheels are not moving"
   },
   {
-    "id": 130,
+    "id": 128,
     "category": "rules",
     "question": "If you are being tailgated, you should:",
     "options": [
@@ -1597,7 +1573,7 @@
     "answer": "Increase following distance and allow space"
   },
   {
-    "id": 131,
+    "id": 129,
     "category": "rules",
     "question": "When passing a cyclist, you should:",
     "options": [
@@ -1609,7 +1585,7 @@
     "answer": "Leave at least 1 metre of space"
   },
   {
-    "id": 132,
+    "id": 130,
     "category": "rules",
     "question": "If a vehicle approaches with high beams on, you should:",
     "options": [
@@ -1621,7 +1597,7 @@
     "answer": "Look to the right edge of your lane"
   },
   {
-    "id": 133,
+    "id": 131,
     "category": "rules",
     "question": "Before opening your car door, you should:",
     "options": [
@@ -1633,7 +1609,7 @@
     "answer": "Check mirrors and blind spot for cyclists"
   },
   {
-    "id": 134,
+    "id": 132,
     "category": "rules",
     "question": "When approaching a railway crossing without gates, you should:",
     "options": [
@@ -1645,7 +1621,7 @@
     "answer": "Slow down, look, listen, and be prepared to stop"
   },
   {
-    "id": 135,
+    "id": 133,
     "category": "rules",
     "question": "A learner (G1) driver must be accompanied by a fully licensed driver with at least ____ years of experience.",
     "options": [
@@ -1657,7 +1633,7 @@
     "answer": "4"
   },
   {
-    "id": 136,
+    "id": 134,
     "category": "rules",
     "question": "If your accelerator sticks, you should:",
     "options": [
@@ -1669,7 +1645,7 @@
     "answer": "Shift to neutral and brake to a stop"
   },
   {
-    "id": 137,
+    "id": 135,
     "category": "rules",
     "question": "When approaching a pedestrian crossover, you must:",
     "options": [
@@ -1681,7 +1657,7 @@
     "answer": "Stop and yield to pedestrians when required"
   },
   {
-    "id": 138,
+    "id": 136,
     "category": "rules",
     "question": "If you are in a roundabout and an emergency vehicle approaches, you should:",
     "options": [
@@ -1693,7 +1669,7 @@
     "answer": "Exit if possible, then pull over"
   },
   {
-    "id": 139,
+    "id": 137,
     "category": "rules",
     "question": "When driving on a freeway, you should check your mirrors every:",
     "options": [
@@ -1705,7 +1681,7 @@
     "answer": "5 to 8 seconds"
   },
   {
-    "id": 140,
+    "id": 138,
     "category": "rules",
     "question": "On a two-way road, if you are turning left, you should:",
     "options": [
@@ -1717,7 +1693,7 @@
     "answer": "Move to the left of your lane before turning"
   },
   {
-    "id": 141,
+    "id": 139,
     "category": "rules",
     "question": "You must yield the right-of-way to a pedestrian who is:",
     "options": [
@@ -1729,7 +1705,7 @@
     "answer": "Crossing at a marked or unmarked crosswalk"
   },
   {
-    "id": 142,
+    "id": 140,
     "category": "rules",
     "question": "If you have a green light and a pedestrian is still crossing, you must:",
     "options": [
@@ -1741,7 +1717,7 @@
     "answer": "Wait until the pedestrian clears your lane"
   },
   {
-    "id": 143,
+    "id": 141,
     "category": "rules",
     "question": "When driving in heavy rain, you should:",
     "options": [
@@ -1753,7 +1729,7 @@
     "answer": "Reduce speed and increase following distance"
   },
   {
-    "id": 144,
+    "id": 142,
     "category": "rules",
     "question": "You must not turn left on a red light except:",
     "options": [
@@ -1765,7 +1741,7 @@
     "answer": "From a one-way street to a one-way street, after stopping"
   },
   {
-    "id": 145,
+    "id": 143,
     "category": "rules",
     "question": "When you see a stopped school bus with flashing amber lights, you should:",
     "options": [
@@ -1777,7 +1753,7 @@
     "answer": "Slow down and be prepared to stop"
   },
   {
-    "id": 146,
+    "id": 144,
     "category": "rules",
     "question": "In Ontario, if you are convicted of driving without insurance, you may face:",
     "options": [
@@ -1789,7 +1765,7 @@
     "answer": "A fine and licence suspension"
   },
   {
-    "id": 147,
+    "id": 145,
     "category": "rules",
     "question": "When entering a curve, you should:",
     "options": [
@@ -1801,7 +1777,7 @@
     "answer": "Slow down before the curve"
   },
   {
-    "id": 148,
+    "id": 146,
     "category": "rules",
     "question": "You must stop for pedestrians at a crosswalk when they are:",
     "options": [
@@ -1813,7 +1789,7 @@
     "answer": "On the roadway or about to step onto it"
   },
   {
-    "id": 149,
+    "id": 147,
     "category": "rules",
     "question": "If you are involved in a collision, you must provide:",
     "options": [
@@ -1825,7 +1801,7 @@
     "answer": "Name, address, licence, and insurance"
   },
   {
-    "id": 150,
+    "id": 148,
     "category": "rules",
     "question": "When approaching a bicycle crossover, you must:",
     "options": [
@@ -1837,7 +1813,7 @@
     "answer": "Yield and give cyclists right-of-way when required"
   },
   {
-    "id": 151,
+    "id": 149,
     "category": "rules",
     "question": "On a freeway, you should signal and check blind spots:",
     "options": [
@@ -1849,7 +1825,7 @@
     "answer": "Before changing lanes"
   },
   {
-    "id": 152,
+    "id": 150,
     "category": "rules",
     "question": "A red light with a green arrow means:",
     "options": [
@@ -1861,7 +1837,7 @@
     "answer": "You may turn in the arrow direction only"
   },
   {
-    "id": 153,
+    "id": 151,
     "category": "rules",
     "question": "If your brakes fail, you should:",
     "options": [
@@ -1873,7 +1849,7 @@
     "answer": "Shift to a lower gear and use the parking brake gradually"
   },
   {
-    "id": 154,
+    "id": 152,
     "category": "rules",
     "question": "When approaching a train crossing with a stop sign, you must:",
     "options": [
@@ -1885,7 +1861,7 @@
     "answer": "At least 5 metres from the nearest rail"
   },
   {
-    "id": 155,
+    "id": 153,
     "category": "rules",
     "question": "On a two-way road, you may pass another vehicle:",
     "options": [
@@ -1897,7 +1873,7 @@
     "answer": "Only when the left lane is clearly visible and safe"
   },
   {
-    "id": 156,
+    "id": 154,
     "category": "rules",
     "question": "If you are stopped by police, you should:",
     "options": [
@@ -1909,7 +1885,7 @@
     "answer": "Pull over safely and remain in the vehicle"
   },
   {
-    "id": 157,
+    "id": 155,
     "category": "rules",
     "question": "When driving in snow, you should:",
     "options": [
@@ -1921,7 +1897,7 @@
     "answer": "Reduce speed and be gentle with steering and braking"
   },
   {
-    "id": 158,
+    "id": 156,
     "category": "rules",
     "question": "If your vehicle is equipped with ABS and you must brake hard, you should:",
     "options": [
@@ -1933,7 +1909,7 @@
     "answer": "Press and hold the brake pedal"
   },
   {
-    "id": 159,
+    "id": 157,
     "category": "rules",
     "question": "At night on a two-way road, you must use low beams when within ____ of an oncoming vehicle.",
     "options": [
@@ -1945,7 +1921,7 @@
     "answer": "150 metres"
   },
   {
-    "id": 160,
+    "id": 158,
     "category": "rules",
     "question": "You must stop for a school bus with flashing red lights when you are:",
     "options": [
@@ -1957,7 +1933,7 @@
     "answer": "Approaching from either direction on an undivided road"
   },
   {
-    "id": 161,
+    "id": 159,
     "category": "rules",
     "question": "When entering traffic from a private driveway, you must:",
     "options": [
@@ -1969,7 +1945,7 @@
     "answer": "Yield to all vehicles and pedestrians"
   },
   {
-    "id": 162,
+    "id": 160,
     "category": "rules",
     "question": "A solid white line between lanes means:",
     "options": [
@@ -1981,7 +1957,7 @@
     "answer": "Lane changes are discouraged"
   },
   {
-    "id": 163,
+    "id": 161,
     "category": "rules",
     "question": "On a freeway, you should use the right lane except when:",
     "options": [
@@ -1993,7 +1969,7 @@
     "answer": "Passing or preparing to turn"
   },
   {
-    "id": 164,
+    "id": 162,
     "category": "rules",
     "question": "If you approach a green light that has been green for a long time, you should:",
     "options": [
@@ -2005,7 +1981,7 @@
     "answer": "Be ready to stop if it changes"
   },
   {
-    "id": 165,
+    "id": 163,
     "category": "rules",
     "question": "At a stop sign with a stop line, you must stop:",
     "options": [
@@ -2017,7 +1993,7 @@
     "answer": "Before the stop line"
   },
   {
-    "id": 166,
+    "id": 164,
     "category": "rules",
     "question": "If your vehicle starts to hydroplane, you should:",
     "options": [
@@ -2029,7 +2005,7 @@
     "answer": "Ease off the accelerator and steer straight"
   },
   {
-    "id": 167,
+    "id": 165,
     "category": "rules",
     "question": "You must not pass a vehicle stopped at a pedestrian crossover:",
     "options": [
@@ -2041,7 +2017,7 @@
     "answer": "At any time"
   },
   {
-    "id": 168,
+    "id": 166,
     "category": "rules",
     "question": "If you are driving and your view of the road is blocked by snow or ice on the windshield, you must:",
     "options": [
@@ -2053,7 +2029,7 @@
     "answer": "Clear the windshield completely before driving"
   },
   {
-    "id": 169,
+    "id": 167,
     "category": "rules",
     "question": "When approaching a school zone, you must:",
     "options": [
@@ -2065,7 +2041,7 @@
     "answer": "Obey the posted speed limit and times"
   },
   {
-    "id": 170,
+    "id": 168,
     "category": "rules",
     "question": "You must not park within ____ of a railway crossing.",
     "options": [
@@ -2077,7 +2053,7 @@
     "answer": "15 metres"
   },
   {
-    "id": 171,
+    "id": 169,
     "category": "rules",
     "question": "When driving behind a large truck, you should:",
     "options": [
@@ -2089,7 +2065,7 @@
     "answer": "Stay far enough back to see the truck’s mirrors"
   },
   {
-    "id": 172,
+    "id": 170,
     "category": "rules",
     "question": "If you are on a two-way road and passing is prohibited, the center line will be:",
     "options": [
@@ -2101,7 +2077,7 @@
     "answer": "Solid yellow"
   },
   {
-    "id": 173,
+    "id": 171,
     "category": "rules",
     "question": "At an intersection with a stop sign, you must yield to:",
     "options": [
@@ -2113,7 +2089,7 @@
     "answer": "Traffic on the through road and pedestrians"
   },
   {
-    "id": 174,
+    "id": 172,
     "category": "rules",
     "question": "When two vehicles arrive at an uncontrolled intersection at the same time, the driver on the left must:",
     "options": [
@@ -2125,7 +2101,7 @@
     "answer": "Yield to the driver on the right"
   },
   {
-    "id": 175,
+    "id": 173,
     "category": "rules",
     "question": "When approaching a hill, you should not pass another vehicle if:",
     "options": [
@@ -2137,7 +2113,7 @@
     "answer": "You cannot see far enough ahead"
   },
   {
-    "id": 176,
+    "id": 174,
     "category": "rules",
     "question": "If you are being passed, you should:",
     "options": [
@@ -2149,7 +2125,7 @@
     "answer": "Stay in your lane and maintain speed"
   },
   {
-    "id": 177,
+    "id": 175,
     "category": "rules",
     "question": "When you hear a siren, you should:",
     "options": [
@@ -2161,7 +2137,7 @@
     "answer": "Check mirrors and move safely to the right"
   },
   {
-    "id": 178,
+    "id": 176,
     "category": "rules",
     "question": "If a traffic light turns yellow as you approach the intersection, you should:",
     "options": [
@@ -2173,7 +2149,7 @@
     "answer": "Stop if you can do so safely"
   },
   {
-    "id": 179,
+    "id": 177,
     "category": "rules",
     "question": "When driving through a work zone, you should:",
     "options": [
@@ -2185,7 +2161,7 @@
     "answer": "Obey reduced speed limits and be alert"
   },
   {
-    "id": 180,
+    "id": 178,
     "category": "rules",
     "question": "You must not enter an intersection unless:",
     "options": [
@@ -2197,7 +2173,7 @@
     "answer": "You can clear it completely"
   },
   {
-    "id": 181,
+    "id": 179,
     "category": "rules",
     "question": "Changing lanes in an intersection is:",
     "options": [
@@ -2209,7 +2185,7 @@
     "answer": "Unsafe and should be avoided"
   },
   {
-    "id": 182,
+    "id": 180,
     "category": "rules",
     "question": "When turning right, you should:",
     "options": [
@@ -2221,7 +2197,7 @@
     "answer": "Turn into the right lane"
   },
   {
-    "id": 183,
+    "id": 181,
     "category": "rules",
     "question": "When turning left from a two-way road onto a two-way road, you should:",
     "options": [
@@ -2233,7 +2209,7 @@
     "answer": "Turn into the left lane"
   },
   {
-    "id": 184,
+    "id": 182,
     "category": "rules",
     "question": "When turning right at a green light, you must:",
     "options": [
@@ -2245,7 +2221,7 @@
     "answer": "Yield to pedestrians and cyclists"
   },
   {
-    "id": 185,
+    "id": 183,
     "category": "rules",
     "question": "Before leaving a parking space, you should:",
     "options": [
@@ -2257,7 +2233,7 @@
     "answer": "Signal and check for traffic"
   },
   {
-    "id": 186,
+    "id": 184,
     "category": "rules",
     "question": "On a multi-lane highway, you should:",
     "options": [
@@ -2269,7 +2245,7 @@
     "answer": "Keep right except to pass"
   },
   {
-    "id": 187,
+    "id": 185,
     "category": "rules",
     "question": "If a lane is marked for turning only, you must:",
     "options": [
@@ -2281,7 +2257,7 @@
     "answer": "Turn in the direction of the arrow"
   },
   {
-    "id": 188,
+    "id": 186,
     "category": "rules",
     "question": "A G1 driver must be accompanied by:",
     "options": [
@@ -2293,7 +2269,7 @@
     "answer": "A fully licensed driver in the front seat"
   },
   {
-    "id": 189,
+    "id": 187,
     "category": "rules",
     "question": "A G1 driver must not drive between:",
     "options": [
@@ -2305,7 +2281,7 @@
     "answer": "Midnight and 5 a.m."
   },
   {
-    "id": 190,
+    "id": 188,
     "category": "rules",
     "question": "If your vehicle stalls on railway tracks, you should:",
     "options": [
@@ -2317,7 +2293,7 @@
     "answer": "Leave the vehicle and move away from the tracks"
   },
   {
-    "id": 191,
+    "id": 189,
     "category": "rules",
     "question": "You must not stop or park:",
     "options": [
@@ -2329,7 +2305,7 @@
     "answer": "On railway tracks or within the crossing"
   },
   {
-    "id": 192,
+    "id": 190,
     "category": "rules",
     "question": "When passing another vehicle, you should return to your lane when:",
     "options": [
@@ -2341,7 +2317,7 @@
     "answer": "You can see the passed vehicle in your rearview mirror"
   },
   {
-    "id": 193,
+    "id": 191,
     "category": "rules",
     "question": "If the intersection is blocked, you should:",
     "options": [
@@ -2353,7 +2329,7 @@
     "answer": "Wait until you can clear it"
   },
   {
-    "id": 194,
+    "id": 192,
     "category": "rules",
     "question": "Using a handheld device while driving is:",
     "options": [
@@ -2365,7 +2341,7 @@
     "answer": "Illegal"
   },
   {
-    "id": 195,
+    "id": 193,
     "category": "rules",
     "question": "At an unmarked crosswalk, you must:",
     "options": [
@@ -2377,7 +2353,7 @@
     "answer": "Yield to pedestrians"
   },
   {
-    "id": 196,
+    "id": 194,
     "category": "rules",
     "question": "If a transit bus signals to re-enter traffic from a bus bay, you should:",
     "options": [
@@ -2389,7 +2365,7 @@
     "answer": "Yield to the bus"
   },
   {
-    "id": 197,
+    "id": 195,
     "category": "rules",
     "question": "On a two-way road, you should:",
     "options": [
@@ -2401,7 +2377,7 @@
     "answer": "Keep to the right side of your lane"
   },
   {
-    "id": 198,
+    "id": 196,
     "category": "rules",
     "question": "At a 4-way stop, if two vehicles arrive at the same time, the driver on the left must:",
     "options": [
@@ -2413,7 +2389,7 @@
     "answer": "Yield to the driver on the right"
   },
   {
-    "id": 199,
+    "id": 197,
     "category": "rules",
     "question": "When a traffic light is red, you must stop:",
     "options": [
@@ -2425,7 +2401,7 @@
     "answer": "Before the stop line or crosswalk"
   },
   {
-    "id": 200,
+    "id": 198,
     "category": "rules",
     "question": "At a stop sign without a marked line, you must stop:",
     "options": [
@@ -2437,7 +2413,7 @@
     "answer": "At a point with a clear view of traffic"
   },
   {
-    "id": 201,
+    "id": 199,
     "category": "rules",
     "question": "When driving downhill with a curb, you should turn your wheels:",
     "options": [
@@ -2449,7 +2425,7 @@
     "answer": "Right, toward the curb"
   },
   {
-    "id": 202,
+    "id": 200,
     "category": "rules",
     "question": "When following another vehicle at night, you should use low beams when within:",
     "options": [
@@ -2461,7 +2437,7 @@
     "answer": "60 metres"
   },
   {
-    "id": 203,
+    "id": 201,
     "category": "rules",
     "question": "If visibility is less than 150 metres, you must use:",
     "options": [
@@ -2473,7 +2449,7 @@
     "answer": "Headlights"
   },
   {
-    "id": 204,
+    "id": 202,
     "category": "rules",
     "question": "When passing a cyclist, you must leave at least:",
     "options": [
@@ -2485,7 +2461,7 @@
     "answer": "1 metre of space"
   },
   {
-    "id": 205,
+    "id": 203,
     "category": "rules",
     "question": "When parking uphill without a curb, you should turn your wheels:",
     "options": [
@@ -2497,7 +2473,7 @@
     "answer": "Right, toward the shoulder"
   },
   {
-    "id": 206,
+    "id": 204,
     "category": "rules",
     "question": "In bad weather, you should:",
     "options": [
@@ -2509,7 +2485,7 @@
     "answer": "Increase following distance"
   },
   {
-    "id": 207,
+    "id": 205,
     "category": "rules",
     "question": "Fully licensed drivers in Ontario can face an immediate roadside licence suspension at a blood alcohol concentration of:",
     "options": [
@@ -2521,7 +2497,7 @@
     "answer": "0.05%"
   },
   {
-    "id": 208,
+    "id": 206,
     "category": "rules",
     "question": "When parallel parking on a hill facing uphill with a curb, you should:",
     "options": [
@@ -2533,7 +2509,7 @@
     "answer": "Turn wheels away from curb"
   },
   {
-    "id": 209,
+    "id": 207,
     "category": "rules",
     "question": "The shoulder check is required when:",
     "options": [
@@ -2545,7 +2521,7 @@
     "answer": "Changing lanes or merging"
   },
   {
-    "id": 210,
+    "id": 208,
     "category": "rules",
     "question": "At an intersection with no traffic lights or signs, you must:",
     "options": [
@@ -2557,7 +2533,7 @@
     "answer": "Yield to traffic on the right"
   },
   {
-    "id": 211,
+    "id": 209,
     "category": "rules",
     "question": "If you are convicted of distracted driving in Ontario, you can receive:",
     "options": [
@@ -2569,7 +2545,7 @@
     "answer": "Fines and demerit points"
   },
   {
-    "id": 212,
+    "id": 210,
     "category": "rules",
     "question": "When approaching a stopped school bus with flashing red lights on a divided highway:",
     "options": [
@@ -2581,7 +2557,7 @@
     "answer": "Only stop if on same side"
   },
   {
-    "id": 213,
+    "id": 211,
     "category": "rules",
     "question": "The two-second rule refers to:",
     "options": [
@@ -2593,7 +2569,7 @@
     "answer": "Following distance"
   },
   {
-    "id": 214,
+    "id": 212,
     "category": "rules",
     "question": "When may you exceed the speed limit in Ontario?",
     "options": [
@@ -2605,7 +2581,7 @@
     "answer": "Never"
   },
   {
-    "id": 215,
+    "id": 213,
     "category": "rules",
     "question": "Winter tires are recommended when temperatures drop below:",
     "options": [
@@ -2617,7 +2593,7 @@
     "answer": "7°C"
   },
   {
-    "id": 216,
+    "id": 214,
     "category": "rules",
     "question": "When should you use your vehicle's horn?",
     "options": [
@@ -2629,7 +2605,7 @@
     "answer": "To warn of danger"
   },
   {
-    "id": 217,
+    "id": 215,
     "category": "rules",
     "question": "The speed limit in school zones during school hours is typically:",
     "options": [
@@ -2641,7 +2617,7 @@
     "answer": "40 km/h"
   },
   {
-    "id": 218,
+    "id": 216,
     "category": "rules",
     "question": "Diamond-shaped pavement markings indicate:",
     "options": [
@@ -2653,7 +2629,7 @@
     "answer": "Reserved lane (HOV or bus)"
   },
   {
-    "id": 219,
+    "id": 217,
     "category": "rules",
     "question": "You must dim your high beams when within how many meters of oncoming traffic?",
     "options": [
@@ -2665,7 +2641,7 @@
     "answer": "150 meters"
   },
   {
-    "id": 220,
+    "id": 218,
     "category": "rules",
     "question": "If you refuse a roadside breath test, you can face:",
     "options": [
@@ -2677,7 +2653,7 @@
     "answer": "Immediate license suspension"
   },
   {
-    "id": 221,
+    "id": 219,
     "category": "rules",
     "question": "When parking downhill with a curb, turn your wheels:",
     "options": [
@@ -2689,7 +2665,7 @@
     "answer": "Toward the curb"
   },
   {
-    "id": 222,
+    "id": 220,
     "category": "rules",
     "question": "The safest way to exit a freeway is to:",
     "options": [
@@ -2701,7 +2677,7 @@
     "answer": "Signal early and reduce speed in exit lane"
   },
   {
-    "id": 223,
+    "id": 221,
     "category": "rules",
     "question": "A novice driver with a BAC above zero can face:",
     "options": [
@@ -2713,7 +2689,7 @@
     "answer": "Immediate license suspension"
   },
   {
-    "id": 224,
+    "id": 222,
     "category": "rules",
     "question": "The maximum speed limit on Ontario highways is typically:",
     "options": [
@@ -2725,7 +2701,7 @@
     "answer": "100 km/h"
   },
   {
-    "id": 225,
+    "id": 223,
     "category": "rules",
     "question": "When driving at night, you should:",
     "options": [
@@ -2737,7 +2713,7 @@
     "answer": "Reduce speed and increase following distance"
   },
   {
-    "id": 226,
+    "id": 224,
     "category": "rules",
     "question": "If involved in a collision, you must report it to police if damage exceeds:",
     "options": [
@@ -2749,7 +2725,7 @@
     "answer": "$2,000"
   },
   {
-    "id": 227,
+    "id": 225,
     "category": "rules",
     "question": "A broken white line between lanes means:",
     "options": [
@@ -2761,7 +2737,7 @@
     "answer": "You may change lanes if safe"
   },
   {
-    "id": 228,
+    "id": 226,
     "category": "rules",
     "question": "The demerit point system is designed to:",
     "options": [
@@ -2773,7 +2749,7 @@
     "answer": "Identify and warn drivers with repeated violations"
   },
   {
-    "id": 229,
+    "id": 227,
     "category": "rules",
     "question": "When is it safe to pass another vehicle?",
     "options": [
@@ -2785,7 +2761,7 @@
     "answer": "When you have clear view and legal passing zone"
   },
   {
-    "id": 230,
+    "id": 228,
     "category": "rules",
     "question": "A yellow traffic light means:",
     "options": [
@@ -2797,7 +2773,7 @@
     "answer": "Stop if safe to do so"
   },
   {
-    "id": 231,
+    "id": 229,
     "category": "rules",
     "question": "The center lane with arrows pointing both left and right is used for:",
     "options": [
@@ -2809,7 +2785,7 @@
     "answer": "Left turns from either direction"
   },
   {
-    "id": 232,
+    "id": 230,
     "category": "rules",
     "question": "Driving with a BAC of 0.08 or over results in:",
     "options": [
@@ -2821,7 +2797,7 @@
     "answer": "Criminal charges"
   },
   {
-    "id": 233,
+    "id": 231,
     "category": "rules",
     "question": "When parking facing downhill without a curb, turn wheels:",
     "options": [
@@ -2833,7 +2809,7 @@
     "answer": "To the right"
   },
   {
-    "id": 234,
+    "id": 232,
     "category": "rules",
     "question": "A flashing green light at an intersection means:",
     "options": [
@@ -2845,7 +2821,7 @@
     "answer": "You may turn left, go straight or turn right; oncoming traffic faces a red light"
   },
   {
-    "id": 235,
+    "id": 233,
     "category": "rules",
     "question": "What is the purpose of anti-lock brakes (ABS)?",
     "options": [
@@ -2857,7 +2833,7 @@
     "answer": "Prevent wheels from locking during hard braking"
   },
   {
-    "id": 236,
+    "id": 234,
     "category": "rules",
     "question": "Black ice is most likely to form:",
     "options": [
@@ -2869,7 +2845,7 @@
     "answer": "On bridges and shaded areas"
   },
   {
-    "id": 237,
+    "id": 235,
     "category": "rules",
     "question": "You should increase following distance when:",
     "options": [
@@ -2881,7 +2857,7 @@
     "answer": "Driving in poor conditions or behind large vehicles"
   },
   {
-    "id": 238,
+    "id": 236,
     "category": "rules",
     "question": "Using hand-held devices while driving results in:",
     "options": [
@@ -2893,7 +2869,7 @@
     "answer": "Fines, demerit points, and possible suspension"
   },
   {
-    "id": 239,
+    "id": 237,
     "category": "rules",
     "question": "When changing lanes, you should check blind spots because:",
     "options": [
@@ -2905,7 +2881,7 @@
     "answer": "Mirrors don't show everything beside your vehicle"
   },
   {
-    "id": 240,
+    "id": 238,
     "category": "rules",
     "question": "If your gas pedal sticks, you should:",
     "options": [
@@ -2917,7 +2893,7 @@
     "answer": "Shift to neutral and brake"
   },
   {
-    "id": 241,
+    "id": 239,
     "category": "rules",
     "question": "You may only drive in the far left lane of a multi-lane highway when:",
     "options": [
@@ -2929,7 +2905,7 @@
     "answer": "Passing or traffic is heavy"
   },
   {
-    "id": 242,
+    "id": 240,
     "category": "rules",
     "question": "The main cause of skidding is:",
     "options": [
@@ -2941,7 +2917,7 @@
     "answer": "Driver error and excessive speed"
   },
   {
-    "id": 243,
+    "id": 241,
     "category": "rules",
     "question": "A pedestrian with a white cane is:",
     "options": [
@@ -2953,7 +2929,7 @@
     "answer": "Blind or visually impaired"
   },
   {
-    "id": 244,
+    "id": 242,
     "category": "rules",
     "question": "You must yield the right-of-way to pedestrians:",
     "options": [
@@ -2965,7 +2941,7 @@
     "answer": "At all marked and unmarked crosswalks"
   },
   {
-    "id": 245,
+    "id": 243,
     "category": "rules",
     "question": "If two vehicles arrive at an uncontrolled intersection at the same time:",
     "options": [
@@ -2977,7 +2953,7 @@
     "answer": "Vehicle on the right has right-of-way"
   },
   {
-    "id": 246,
+    "id": 244,
     "category": "rules",
     "question": "When driving in heavy fog, you should avoid using:",
     "options": [
@@ -2989,7 +2965,7 @@
     "answer": "High beam headlights"
   },
   {
-    "id": 247,
+    "id": 245,
     "category": "rules",
     "question": "When should you use your vehicle's emergency flashers?",
     "options": [
@@ -3001,7 +2977,7 @@
     "answer": "When stopped on roadway creating hazard"
   },
   {
-    "id": 248,
+    "id": 246,
     "category": "rules",
     "question": "Before entering an intersection on a green light, you should:",
     "options": [
@@ -3013,7 +2989,7 @@
     "answer": "Check for traffic in intersection"
   },
   {
-    "id": 249,
+    "id": 247,
     "category": "rules",
     "question": "The 'move over' law requires drivers to:",
     "options": [
@@ -3025,7 +3001,7 @@
     "answer": "Change lanes or slow down for stopped emergency vehicles"
   },
   {
-    "id": 250,
+    "id": 248,
     "category": "rules",
     "question": "A broken yellow line on your side means:",
     "options": [
@@ -3037,7 +3013,7 @@
     "answer": "You may pass if safe"
   },
   {
-    "id": 251,
+    "id": 249,
     "category": "rules",
     "question": "When driving on a freeway, you should:",
     "options": [
@@ -3049,7 +3025,7 @@
     "answer": "Keep pace with traffic flow"
   },
   {
-    "id": 252,
+    "id": 250,
     "category": "rules",
     "question": "You are not allowed to make a U-turn:",
     "options": [
@@ -3061,7 +3037,7 @@
     "answer": "On a curve or near a hill crest"
   },
   {
-    "id": 253,
+    "id": 251,
     "category": "rules",
     "question": "When exiting a driveway, you must:",
     "options": [
@@ -3073,7 +3049,7 @@
     "answer": "Yield to pedestrians and traffic on sidewalk"
   },
   {
-    "id": 254,
+    "id": 252,
     "category": "rules",
     "question": "You can be charged with impaired driving if:",
     "options": [
@@ -3085,7 +3061,7 @@
     "answer": "Ability to drive is affected by any substance"
   },
   {
-    "id": 255,
+    "id": 253,
     "category": "rules",
     "question": "Airbags are designed to:",
     "options": [
@@ -3097,7 +3073,7 @@
     "answer": "Work with seatbelts for protection"
   },
   {
-    "id": 256,
+    "id": 254,
     "category": "rules",
     "question": "When can you remove your seatbelt while driving?",
     "options": [
@@ -3109,7 +3085,7 @@
     "answer": "Never, unless you have a medical exemption"
   },
   {
-    "id": 257,
+    "id": 255,
     "category": "rules",
     "question": "When driving in winter conditions, you should increase your following distance to:",
     "options": [
@@ -3121,7 +3097,7 @@
     "answer": "4 seconds or more"
   },
   {
-    "id": 258,
+    "id": 256,
     "category": "rules",
     "question": "If you lose your driver's license, you must:",
     "options": [
@@ -3133,7 +3109,7 @@
     "answer": "Report it to Ministry of Transportation"
   },
   {
-    "id": 259,
+    "id": 257,
     "category": "rules",
     "question": "When sharing the road with cyclists, you should:",
     "options": [
@@ -3145,7 +3121,7 @@
     "answer": "Give them space and pass carefully"
   },
   {
-    "id": 260,
+    "id": 258,
     "category": "rules",
     "question": "A red X above a lane means:",
     "options": [
@@ -3157,7 +3133,7 @@
     "answer": "Do not drive in this lane"
   },
   {
-    "id": 261,
+    "id": 259,
     "category": "rules",
     "question": "When children are getting on or off a school bus, you must:",
     "options": [
@@ -3169,7 +3145,7 @@
     "answer": "Remain stopped until signals stop"
   },
   {
-    "id": 262,
+    "id": 260,
     "category": "rules",
     "question": "If you change your address, you must notify the Ministry within:",
     "options": [
@@ -3181,7 +3157,7 @@
     "answer": "6 days"
   },
   {
-    "id": 263,
+    "id": 261,
     "category": "rules",
     "question": "The best way to check your blind spot is to:",
     "options": [
