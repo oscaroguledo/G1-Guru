@@ -14,3 +14,23 @@ Why Choose G1 Guru?
 Designed to match Ontario’s official Driver’s Handbook content
 Helps you pass the G1 test confidently on your first attempt
 Perfect for students, newcomers, and anyone preparing for their driver’s test
+
+## Development
+
+```bash
+npm install
+npm run dev        # start the app at http://localhost:5173
+npm test           # unit + render tests
+npm run validate   # check questions.json (answers, images, duplicates)
+npm run build      # production build in dist/ (installable, works offline)
+```
+
+### How it works
+- React + Vite single-page app; questions live in `src/data/questions.json`, sign images in `public/images/`.
+- **Mock exam**: 40 questions (20 signs, 20 rules), 30-minute timer, 80% to pass.
+- **Practice**: 20 questions with instant feedback and explanations; filter by category or review weak questions.
+- **Sign quiz**: image questions taken from the Official MTO Driver's Handbook.
+- **Progress**: saved in the browser (localStorage); stats by category, exam history, weak questions.
+- **Offline**: a service worker precaches the app, questions and images so it works with no connection.
+
+Sign images and rules are sourced from the Official MTO Driver's Handbook.
