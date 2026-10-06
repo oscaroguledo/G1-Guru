@@ -2,265 +2,918 @@
   {
     "id": 1,
     "category": "road_signs",
-    "question": "What does this sign indicate?",
-    "image": "assets/images/sign-000.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-084.jpg",
     "options": [
-      "Stop completely",
-      "Yield to traffic",
-      "No entry",
-      "Right of way ends"
+      "No left turn during the posted times",
+      "Left turn only during the posted times",
+      "Left lane closed at rush hour",
+      "No U-turns during the posted times"
     ],
-    "answer": "Stop completely"
+    "answer": "No left turn during the posted times"
   },
   {
     "id": 2,
     "category": "road_signs",
-    "question": "A yellow diamond sign showing a curved arrow means:",
-    "image": "assets/images/sign-001.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-086.jpg",
     "options": [
-      "Sharp turn ahead",
-      "No passing",
-      "Slippery road",
-      "Hidden intersection"
+      "No bicycles",
+      "Bicycle lane ahead",
+      "Bicycles must dismount",
+      "Bicycle crossing ahead"
     ],
-    "answer": "Sharp turn ahead"
+    "answer": "No bicycles"
   },
   {
     "id": 3,
     "category": "road_signs",
-    "question": "A sign with a truck going downhill warns:",
-    "image": "assets/images/sign-002.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-087.jpg",
     "options": [
-      "Steep grade ahead",
-      "Truck lane only",
-      "No heavy vehicles",
-      "Bridge crossing"
+      "No pedestrians",
+      "Pedestrian crossing ahead",
+      "Pedestrians have the right-of-way",
+      "School zone ahead"
     ],
-    "answer": "Steep grade ahead"
+    "answer": "No pedestrians"
   },
   {
     "id": 4,
     "category": "road_signs",
-    "question": "A red circle with a slash over a left arrow means:",
-    "image": "assets/images/sign-003.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-088.jpg",
     "options": [
-      "No left turn",
-      "No U-turn",
-      "Left lane ends",
-      "Turn left only"
+      "Keep right",
+      "Right turn only",
+      "Right lane ends",
+      "Yield to traffic on the right"
     ],
-    "answer": "No left turn"
+    "answer": "Keep right"
   },
   {
     "id": 5,
     "category": "road_signs",
-    "question": "A green circle sign generally means:",
-    "image": "assets/images/sign-004.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-090.jpg",
     "options": [
-      "Action permitted",
-      "Prohibited action",
-      "Caution required",
-      "Construction area"
+      "No passing",
+      "Passing lane ahead",
+      "Slow vehicles keep right",
+      "Two-way traffic ahead"
     ],
-    "answer": "Action permitted"
+    "answer": "No passing"
   },
   {
     "id": 6,
     "category": "road_signs",
-    "question": "A yellow diamond with a person walking indicates:",
-    "image": "assets/images/sign-005.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-091.jpg",
     "options": [
-      "Pedestrian crossing",
-      "Playground zone",
-      "School zone",
-      "Walking trail"
+      "Slower traffic must keep right",
+      "Right lane ends ahead",
+      "Minimum speed is posted",
+      "Trucks must use the right lane only"
     ],
-    "answer": "Pedestrian crossing"
+    "answer": "Slower traffic must keep right"
   },
   {
     "id": 7,
     "category": "road_signs",
-    "question": "A white rectangular sign means:",
-    "image": "assets/images/sign-006.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-092.jpg",
     "options": [
-      "Regulatory information",
-      "Warning",
-      "Direction only",
-      "Recreation"
+      "Community Safety Zone: fines are increased",
+      "School bus stop ahead",
+      "Construction zone: workers present",
+      "Neighbourhood watch area"
     ],
-    "answer": "Regulatory information"
+    "answer": "Community Safety Zone: fines are increased"
   },
   {
     "id": 8,
     "category": "road_signs",
-    "question": "Two arrows in opposite directions mean:",
-    "image": "assets/images/sign-007.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-093.jpg",
     "options": [
-      "Two-way traffic",
-      "Divided highway begins",
-      "Road narrows",
-      "One-way road"
+      "The maximum speed is 40 km/h when the lights are flashing",
+      "The maximum speed is 40 km/h at all times",
+      "School bus stop ahead",
+      "Pedestrian crossover ahead"
     ],
-    "answer": "Two-way traffic"
+    "answer": "The maximum speed is 40 km/h when the lights are flashing"
   },
   {
     "id": 9,
     "category": "road_signs",
-    "question": "A horn with a slash means:",
-    "image": "assets/images/sign-008.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-094.jpg",
     "options": [
-      "No honking",
-      "Sound horn ahead",
-      "Quiet zone optional",
-      "Honk before curve"
+      "Stop for school bus when signals are flashing",
+      "School bus stop ahead",
+      "School bus parking only",
+      "No stopping at any time"
     ],
-    "answer": "No honking"
+    "answer": "Stop for school bus when signals are flashing"
   },
   {
     "id": 10,
     "category": "road_signs",
-    "question": "A railway crossing sign (X) means:",
-    "image": "assets/images/sign-009.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-097.jpg",
     "options": [
-      "Yield to trains",
-      "Road closed",
-      "Stop always",
-      "Speed limit changes"
+      "One-way traffic in the direction of the arrow",
+      "Right turn only",
+      "Two-way traffic ahead",
+      "Detour to the right"
     ],
-    "answer": "Yield to trains"
+    "answer": "One-way traffic in the direction of the arrow"
   },
   {
     "id": 11,
     "category": "road_signs",
-    "question": "A sign showing merging lanes warns you to:",
-    "image": "assets/images/sign-010.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-098.jpg",
     "options": [
-      "Watch for merging traffic",
-      "Change lanes immediately",
-      "Stop ahead",
-      "Road ends"
+      "Pedestrian crossover ahead: do not pass here",
+      "Railway crossing ahead",
+      "Pedestrians prohibited",
+      "School crossing ahead"
     ],
-    "answer": "Watch for merging traffic"
+    "answer": "Pedestrian crossover ahead: do not pass here"
   },
   {
     "id": 12,
     "category": "road_signs",
-    "question": "A sign showing a bicycle means:",
-    "image": "assets/images/sign-011.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-099.jpg",
     "options": [
-      "Bicycle crossing",
-      "Bicycles prohibited",
-      "Cyclists must dismount",
-      "Bike lane only"
+      "Centre lane used for left turns by traffic from both directions",
+      "Two-way traffic with passing allowed",
+      "Reversible lane",
+      "Lane ends ahead"
     ],
-    "answer": "Bicycle crossing"
+    "answer": "Centre lane used for left turns by traffic from both directions"
   },
   {
     "id": 13,
     "category": "road_signs",
-    "question": "A sign with a snowflake symbol means:",
-    "image": "assets/images/sign-012.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-103.jpg",
     "options": [
-      "Winter hazards",
-      "Chains required",
-      "Snowmobile zone",
-      "Icy bridge only"
+      "Yield to transit buses re-entering traffic",
+      "Yield sign ahead",
+      "Bus stop ahead",
+      "Buses only lane"
     ],
-    "answer": "Winter hazards"
+    "answer": "Yield to transit buses re-entering traffic"
   },
   {
     "id": 14,
     "category": "road_signs",
-    "question": "A sign with a truck and a slash indicates:",
-    "image": "assets/images/sign-013.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-105.jpg",
     "options": [
-      "No heavy vehicles",
-      "Truck lane ends",
-      "Truck detour",
-      "Truck speed zone"
+      "School bus loading zone",
+      "School bus parking only",
+      "School crossing ahead",
+      "No stopping of school buses"
     ],
-    "answer": "No heavy vehicles"
+    "answer": "School bus loading zone"
   },
   {
     "id": 15,
     "category": "road_signs",
-    "question": "A ‘Do Not Enter’ sign means:",
-    "image": "assets/images/sign-014.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-106.jpg",
     "options": [
-      "Road closed to all traffic",
-      "One-way opposite direction",
-      "Local traffic only",
-      "No parking"
+      "Reserved lane for vehicles with 2 or more persons (HOV lane)",
+      "Carpooling is optional in this lane",
+      "Bus lane only",
+      "Lane ends ahead"
     ],
-    "answer": "One-way opposite direction"
+    "answer": "Reserved lane for vehicles with 2 or more persons (HOV lane)"
   },
   {
     "id": 16,
     "category": "road_signs",
-    "question": "A blue sign with amenities symbols indicates:",
-    "image": "assets/images/sign-015.jpg",
+    "question": "This sign indicates:",
+    "image": "assets/images/sign-113.jpg",
     "options": [
-      "Service information",
-      "Highway exit",
-      "Tourist route",
-      "Scenic lookout"
+      "Airport",
+      "Heliport",
+      "Rest area",
+      "Train station"
     ],
-    "answer": "Service information"
+    "answer": "Airport"
   },
   {
     "id": 17,
     "category": "road_signs",
-    "question": "A yellow sign showing two children walking means:",
-    "image": "assets/images/sign-016.jpg",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-114.jpg",
     "options": [
-      "School zone",
-      "Pedestrian area",
-      "Playground",
-      "Residential street"
+      "Curve to the right ahead",
+      "Road ends ahead",
+      "Right turn only",
+      "Merging traffic ahead"
     ],
-    "answer": "School zone"
+    "answer": "Curve to the right ahead"
   },
   {
     "id": 18,
     "category": "road_signs",
-    "question": "A divided highway begins sign means:",
-    "image": "assets/images/sign-017.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-115.jpg",
     "options": [
-      "Median begins",
-      "Lane ends",
-      "Bridge ahead",
-      "Two-way traffic"
+      "Advisory speed: the recommended safe speed for the hazard ahead is 60 km/h",
+      "The maximum speed limit is 60 km/h",
+      "The minimum speed is 60 km/h",
+      "The speed limit ends"
     ],
-    "answer": "Median begins"
+    "answer": "Advisory speed: the recommended safe speed for the hazard ahead is 60 km/h"
   },
   {
     "id": 19,
     "category": "road_signs",
-    "question": "A divided highway ends sign means:",
-    "image": "assets/images/sign-018.jpg",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-116.jpg",
     "options": [
-      "Median ends",
-      "Road widens",
-      "Detour ahead",
-      "Keep left only"
+      "Sharp turn to the right ahead",
+      "Right turn only",
+      "Right lane ends",
+      "Side road on the right"
     ],
-    "answer": "Median ends"
+    "answer": "Sharp turn to the right ahead"
   },
   {
     "id": 20,
     "category": "road_signs",
-    "question": "A sign with arrows going around a circle means:",
-    "image": "assets/images/sign-019.jpg",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-117.jpg",
     "options": [
-      "Roundabout ahead",
-      "U-turn allowed",
-      "T-intersection",
-      "Traffic diverges"
+      "Sharp change in the direction of the road; follow the arrow",
+      "Road ends: turn right",
+      "Right turn prohibited",
+      "One-way road"
     ],
-    "answer": "Roundabout ahead"
+    "answer": "Sharp change in the direction of the road; follow the arrow"
   },
   {
     "id": 21,
+    "category": "road_signs",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-118.jpg",
+    "options": [
+      "Winding road ahead",
+      "Slippery when wet",
+      "Road narrows",
+      "Lane shift ahead"
+    ],
+    "answer": "Winding road ahead"
+  },
+  {
+    "id": 22,
+    "category": "road_signs",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-121.jpg",
+    "options": [
+      "Bicycle crossing ahead",
+      "Bicycles prohibited",
+      "Bike lane ends",
+      "Cyclists must dismount"
+    ],
+    "answer": "Bicycle crossing ahead"
+  },
+  {
+    "id": 23,
+    "category": "road_signs",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-122.jpg",
+    "options": [
+      "Stop sign ahead",
+      "Stop here",
+      "Yield sign ahead",
+      "Do not enter"
+    ],
+    "answer": "Stop sign ahead"
+  },
+  {
+    "id": 24,
+    "category": "road_signs",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-123.jpg",
+    "options": [
+      "Two-way traffic ahead",
+      "Divided highway begins",
+      "Road narrows",
+      "Passing lane ahead"
+    ],
+    "answer": "Two-way traffic ahead"
+  },
+  {
+    "id": 25,
+    "category": "road_signs",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-125.jpg",
+    "options": [
+      "Slippery when wet",
+      "Road flooded",
+      "Winding road ahead",
+      "Rough road ahead"
+    ],
+    "answer": "Slippery when wet"
+  },
+  {
+    "id": 26,
+    "category": "road_signs",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-129.jpg",
+    "options": [
+      "Traffic signals ahead",
+      "Railway crossing ahead",
+      "Stop sign ahead",
+      "Pedestrian crossover ahead"
+    ],
+    "answer": "Traffic signals ahead"
+  },
+  {
+    "id": 27,
+    "category": "road_signs",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-130.jpg",
+    "options": [
+      "Steep hill ahead (18% grade)",
+      "Truck crossing ahead",
+      "Runaway truck ramp",
+      "Maximum 18 km/h"
+    ],
+    "answer": "Steep hill ahead (18% grade)"
+  },
+  {
+    "id": 28,
+    "category": "road_signs",
+    "question": "What does this warning sign mean?",
+    "image": "assets/images/sign-132.jpg",
+    "options": [
+      "Snowmobiles may cross the road",
+      "Snowmobiles prohibited",
+      "Snowmobile parking",
+      "Winter road conditions"
+    ],
+    "answer": "Snowmobiles may cross the road"
+  },
+  {
+    "id": 29,
+    "category": "road_signs",
+    "question": "This sign indicates:",
+    "image": "assets/images/sign-138.jpg",
+    "options": [
+      "Parking reserved for persons with a disabled person parking permit",
+      "Hospital ahead",
+      "Parking for taxis only",
+      "Loading zone"
+    ],
+    "answer": "Parking reserved for persons with a disabled person parking permit"
+  },
+  {
+    "id": 30,
+    "category": "road_signs",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-140.jpg",
+    "options": [
+      "No snowmobiles",
+      "Snowmobile route",
+      "Snowmobile crossing ahead",
+      "Winter road closed"
+    ],
+    "answer": "No snowmobiles"
+  },
+  {
+    "id": 31,
+    "category": "road_signs",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-141.jpg",
+    "options": [
+      "Emergency detour route to use when a highway is closed",
+      "Permanent detour",
+      "Truck route",
+      "Scenic route"
+    ],
+    "answer": "Emergency detour route to use when a highway is closed"
+  },
+  {
+    "id": 32,
+    "category": "road_signs",
+    "question": "What does this traffic signal mean?",
+    "image": "assets/images/sign-145.jpg",
+    "options": [
+      "Green: proceed if the intersection is clear, yielding to pedestrians and vehicles still in it",
+      "Stop and wait",
+      "Proceed with caution only",
+      "Pedestrians have the right-of-way only"
+    ],
+    "answer": "Green: proceed if the intersection is clear, yielding to pedestrians and vehicles still in it"
+  },
+  {
+    "id": 33,
+    "category": "road_signs",
+    "question": "What does this traffic signal mean?",
+    "image": "assets/images/sign-146.jpg",
+    "options": [
+      "Yellow: stop if you can do so safely",
+      "Speed up to clear the intersection",
+      "Proceed with caution",
+      "Yield to pedestrians only"
+    ],
+    "answer": "Yellow: stop if you can do so safely"
+  },
+  {
+    "id": 34,
+    "category": "road_signs",
+    "question": "What does this traffic signal mean?",
+    "image": "assets/images/sign-147.jpg",
+    "options": [
+      "Red: stop and wait for green",
+      "Stop only if traffic is approaching",
+      "Proceed with caution",
+      "Yield to oncoming traffic"
+    ],
+    "answer": "Red: stop and wait for green"
+  },
+  {
+    "id": 35,
+    "category": "road_signs",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-151.jpg",
+    "options": [
+      "No passing when the lights are flashing",
+      "Passing allowed when the lights flash",
+      "Slow down when the lights flash",
+      "Stop when the lights flash"
+    ],
+    "answer": "No passing when the lights are flashing"
+  },
+  {
+    "id": 36,
+    "category": "road_signs",
+    "question": "What do these paddle signs mean?",
+    "image": "assets/images/sign-152.jpg",
+    "options": [
+      "A traffic control person is directing traffic: obey STOP and SLOW",
+      "Stop sign and slow zone ahead",
+      "School crossing guard only",
+      "Advisory speeds for trucks"
+    ],
+    "answer": "A traffic control person is directing traffic: obey STOP and SLOW"
+  },
+  {
+    "id": 37,
+    "category": "road_signs",
+    "question": "What does this sign mean?",
+    "image": "assets/images/sign-154.jpg",
+    "options": [
+      "Speed fines are doubled in construction zones when workers are present",
+      "Maximum speed is doubled in construction zones",
+      "Construction zone ahead",
+      "Workers are always present"
+    ],
+    "answer": "Speed fines are doubled in construction zones when workers are present"
+  },
+  {
+    "id": 38,
+    "category": "road_signs",
+    "question": "What shape is a stop sign?",
+    "options": [
+      "Octagon (eight sides)",
+      "Triangle",
+      "Diamond",
+      "Rectangle"
+    ],
+    "answer": "Octagon (eight sides)"
+  },
+  {
+    "id": 39,
+    "category": "road_signs",
+    "question": "What colour is a stop sign?",
+    "options": [
+      "Red with white letters",
+      "Yellow with black letters",
+      "Orange with black letters",
+      "White with red letters"
+    ],
+    "answer": "Red with white letters"
+  },
+  {
+    "id": 40,
+    "category": "road_signs",
+    "question": "What shape is a yield sign?",
+    "options": [
+      "Downward-pointing triangle",
+      "Octagon",
+      "Diamond",
+      "Pentagon"
+    ],
+    "answer": "Downward-pointing triangle"
+  },
+  {
+    "id": 41,
+    "category": "road_signs",
+    "question": "A red circle with a diagonal slash across a symbol means:",
+    "options": [
+      "The action shown is prohibited",
+      "The action shown is required",
+      "Caution ahead",
+      "Services are available"
+    ],
+    "answer": "The action shown is prohibited"
+  },
+  {
+    "id": 42,
+    "category": "road_signs",
+    "question": "Yellow diamond-shaped signs are:",
+    "options": [
+      "Warning signs",
+      "Regulatory signs",
+      "Information signs",
+      "Direction signs"
+    ],
+    "answer": "Warning signs"
+  },
+  {
+    "id": 43,
+    "category": "road_signs",
+    "question": "White rectangular signs with black or red lettering are usually:",
+    "options": [
+      "Regulatory signs",
+      "Warning signs",
+      "Construction signs",
+      "Tourist signs"
+    ],
+    "answer": "Regulatory signs"
+  },
+  {
+    "id": 44,
+    "category": "road_signs",
+    "question": "Orange signs are used for:",
+    "options": [
+      "Construction and maintenance zones",
+      "School zones",
+      "Tourist attractions",
+      "Parking regulations"
+    ],
+    "answer": "Construction and maintenance zones"
+  },
+  {
+    "id": 45,
+    "category": "road_signs",
+    "question": "Green signs are used mainly to show:",
+    "options": [
+      "Directions and distances",
+      "Hazards",
+      "Construction",
+      "Speed limits"
+    ],
+    "answer": "Directions and distances"
+  },
+  {
+    "id": 46,
+    "category": "road_signs",
+    "question": "Blue signs show:",
+    "options": [
+      "Services such as gas, food and lodging",
+      "Hazards",
+      "Speed limits",
+      "Construction detours"
+    ],
+    "answer": "Services such as gas, food and lodging"
+  },
+  {
+    "id": 47,
+    "category": "road_signs",
+    "question": "A pentagon-shaped fluorescent yellow-green sign warns of:",
+    "options": [
+      "A school zone or school crossing",
+      "A railway crossing",
+      "A construction zone",
+      "A hospital"
+    ],
+    "answer": "A school zone or school crossing"
+  },
+  {
+    "id": 48,
+    "category": "road_signs",
+    "question": "A round yellow sign with a black X and \"RR\" warns of:",
+    "options": [
+      "A railway crossing ahead",
+      "A roundabout ahead",
+      "A school zone",
+      "Road closed"
+    ],
+    "answer": "A railway crossing ahead"
+  },
+  {
+    "id": 49,
+    "category": "road_signs",
+    "question": "An X-shaped white sign with \"Railway Crossing\" at the tracks is called:",
+    "options": [
+      "A crossbuck; yield to trains and stop if a train is approaching",
+      "A stop sign for cars only",
+      "A pedestrian crossing",
+      "An optional warning"
+    ],
+    "answer": "A crossbuck; yield to trains and stop if a train is approaching"
+  },
+  {
+    "id": 50,
+    "category": "road_signs",
+    "question": "A solid yellow line on your side of the centre line means:",
+    "options": [
+      "Passing is not allowed",
+      "Passing is allowed",
+      "The lane ends",
+      "The road is one way"
+    ],
+    "answer": "Passing is not allowed"
+  },
+  {
+    "id": 51,
+    "category": "road_signs",
+    "question": "A broken yellow centre line means:",
+    "options": [
+      "Traffic travels in opposite directions and you may pass when it is safe",
+      "No passing",
+      "One-way traffic",
+      "Lane ends"
+    ],
+    "answer": "Traffic travels in opposite directions and you may pass when it is safe"
+  },
+  {
+    "id": 52,
+    "category": "road_signs",
+    "question": "A solid white line on the road edge marks:",
+    "options": [
+      "The edge of the roadway",
+      "The centre of the road",
+      "A passing zone",
+      "A pedestrian crossing"
+    ],
+    "answer": "The edge of the roadway"
+  },
+  {
+    "id": 53,
+    "category": "road_signs",
+    "question": "White lines on a road separate:",
+    "options": [
+      "Traffic travelling in the same direction",
+      "Traffic travelling in opposite directions",
+      "Parking areas only",
+      "Bike lanes only"
+    ],
+    "answer": "Traffic travelling in the same direction"
+  },
+  {
+    "id": 54,
+    "category": "road_signs",
+    "question": "A yellow line separates:",
+    "options": [
+      "Traffic travelling in opposite directions",
+      "Traffic travelling in the same direction",
+      "Parking from traffic",
+      "Bike lanes from traffic"
+    ],
+    "answer": "Traffic travelling in opposite directions"
+  },
+  {
+    "id": 55,
+    "category": "road_signs",
+    "question": "A white painted diamond on a lane indicates:",
+    "options": [
+      "A lane reserved for specific vehicles such as buses or HOV",
+      "A pedestrian crossing",
+      "A parking space",
+      "A railway crossing"
+    ],
+    "answer": "A lane reserved for specific vehicles such as buses or HOV"
+  },
+  {
+    "id": 56,
+    "category": "road_signs",
+    "question": "A stop line is a:",
+    "options": [
+      "Solid white line showing where you must stop",
+      "Broken yellow line",
+      "Line to park behind",
+      "Optional marking"
+    ],
+    "answer": "Solid white line showing where you must stop"
+  },
+  {
+    "id": 57,
+    "category": "road_signs",
+    "question": "A green traffic light with a green arrow pointing left means:",
+    "options": [
+      "You may turn left; oncoming traffic is stopped",
+      "You must go straight",
+      "You may turn left only after yielding",
+      "Stop and wait"
+    ],
+    "answer": "You may turn left; oncoming traffic is stopped"
+  },
+  {
+    "id": 58,
+    "category": "road_signs",
+    "question": "A flashing red traffic light means:",
+    "options": [
+      "Stop, then proceed when it is safe, as at a stop sign",
+      "Slow down and proceed",
+      "Yield to all traffic",
+      "The light is broken; treat as a yield"
+    ],
+    "answer": "Stop, then proceed when it is safe, as at a stop sign"
+  },
+  {
+    "id": 59,
+    "category": "road_signs",
+    "question": "A flashing yellow (amber) traffic light means:",
+    "options": [
+      "Slow down and proceed with caution",
+      "Stop completely",
+      "Yield to all vehicles",
+      "Road closed"
+    ],
+    "answer": "Slow down and proceed with caution"
+  },
+  {
+    "id": 60,
+    "category": "road_signs",
+    "question": "A steady green light means:",
+    "options": [
+      "Proceed if the intersection is clear",
+      "Stop and wait",
+      "Proceed without looking",
+      "Yield to all other vehicles"
+    ],
+    "answer": "Proceed if the intersection is clear"
+  },
+  {
+    "id": 61,
+    "category": "road_signs",
+    "question": "A pedestrian signal showing a flashing hand means:",
+    "options": [
+      "Do not start crossing; finish crossing if already in the intersection",
+      "Start crossing now",
+      "Wait for a car to stop",
+      "Run across quickly"
+    ],
+    "answer": "Do not start crossing; finish crossing if already in the intersection"
+  },
+  {
+    "id": 62,
+    "category": "road_signs",
+    "question": "A pedestrian signal showing a steady white walking person means:",
+    "options": [
+      "Pedestrians may cross",
+      "Pedestrians must stop",
+      "Vehicles may turn without yielding",
+      "The signal is broken"
+    ],
+    "answer": "Pedestrians may cross"
+  },
+  {
+    "id": 63,
+    "category": "road_signs",
+    "question": "A \"Do Not Enter\" sign means:",
+    "options": [
+      "You may not enter; you would be driving against traffic",
+      "Local traffic only",
+      "Enter if no vehicles are present",
+      "Parking only"
+    ],
+    "answer": "You may not enter; you would be driving against traffic"
+  },
+  {
+    "id": 64,
+    "category": "road_signs",
+    "question": "A sign with a bicycle in a white diamond on the pavement means:",
+    "options": [
+      "Designated bicycle lane",
+      "Bicycle parking",
+      "Cyclists must dismount",
+      "No cycling"
+    ],
+    "answer": "Designated bicycle lane"
+  },
+  {
+    "id": 65,
+    "category": "road_signs",
+    "question": "A sign with a wheelchair symbol on a blue background indicates:",
+    "options": [
+      "Accessible parking for permit holders",
+      "Hospital nearby",
+      "Handicapped washroom only",
+      "Taxi stand"
+    ],
+    "answer": "Accessible parking for permit holders"
+  },
+  {
+    "id": 66,
+    "category": "road_signs",
+    "question": "A speed limit sign is:",
+    "options": [
+      "A regulatory sign showing the maximum speed allowed",
+      "A warning sign",
+      "An advisory sign",
+      "An information sign"
+    ],
+    "answer": "A regulatory sign showing the maximum speed allowed"
+  },
+  {
+    "id": 67,
+    "category": "road_signs",
+    "question": "Advisory speed signs below a warning sign tell you:",
+    "options": [
+      "The safest speed for the hazard ahead",
+      "The maximum legal speed",
+      "The minimum speed",
+      "The speed trucks must use"
+    ],
+    "answer": "The safest speed for the hazard ahead"
+  },
+  {
+    "id": 68,
+    "category": "road_signs",
+    "question": "A \"Yield\" sign tells you to:",
+    "options": [
+      "Slow down and give the right-of-way to traffic and pedestrians",
+      "Always stop completely",
+      "Speed up to clear the intersection",
+      "Ignore it if no one is near"
+    ],
+    "answer": "Slow down and give the right-of-way to traffic and pedestrians"
+  },
+  {
+    "id": 69,
+    "category": "road_signs",
+    "question": "A \"Dead End\" sign warns that:",
+    "options": [
+      "The road does not go through",
+      "The road is one way",
+      "The road is closed to trucks",
+      "A parking area is ahead"
+    ],
+    "answer": "The road does not go through"
+  },
+  {
+    "id": 70,
+    "category": "road_signs",
+    "question": "A white sign with a black arrow curving around a median is:",
+    "options": [
+      "A keep right (or left) sign",
+      "A detour sign",
+      "A no passing sign",
+      "A roundabout sign"
+    ],
+    "answer": "A keep right (or left) sign"
+  },
+  {
+    "id": 71,
+    "category": "road_signs",
+    "question": "Construction zone signs are:",
+    "options": [
+      "Orange and diamond shaped",
+      "Blue and round",
+      "Green and rectangular",
+      "White and octagonal"
+    ],
+    "answer": "Orange and diamond shaped"
+  },
+  {
+    "id": 72,
+    "category": "road_signs",
+    "question": "Where a traffic control person is directing traffic at a construction zone, you must:",
+    "options": [
+      "Obey their signals",
+      "Obey only traffic signals",
+      "Ignore them if the light is green",
+      "Proceed if no one is coming"
+    ],
+    "answer": "Obey their signals"
+  },
+  {
+    "id": 73,
+    "category": "road_signs",
+    "question": "A pennant-shaped yellow sign on the left side of the road warns of:",
+    "options": [
+      "A no passing zone",
+      "A school zone",
+      "A railway crossing",
+      "An exit ramp"
+    ],
+    "answer": "A no passing zone"
+  },
+  {
+    "id": 74,
     "category": "rules",
     "question": "At a 4-way stop, who goes first?",
     "options": [
@@ -272,7 +925,7 @@
     "answer": "First vehicle to arrive"
   },
   {
-    "id": 22,
+    "id": 75,
     "category": "rules",
     "question": "The default speed limit in cities/towns in Ontario is:",
     "options": [
@@ -284,7 +937,7 @@
     "answer": "50 km/h"
   },
   {
-    "id": 23,
+    "id": 76,
     "category": "rules",
     "question": "When must you stop for a school bus with flashing red lights?",
     "options": [
@@ -296,7 +949,7 @@
     "answer": "Always unless on a divided highway"
   },
   {
-    "id": 24,
+    "id": 77,
     "category": "rules",
     "question": "The minimum safe following distance is:",
     "options": [
@@ -308,7 +961,7 @@
     "answer": "2 seconds"
   },
   {
-    "id": 25,
+    "id": 78,
     "category": "rules",
     "question": "When an emergency vehicle approaches with lights on, you must:",
     "options": [
@@ -320,7 +973,7 @@
     "answer": "Pull to the right and stop"
   },
   {
-    "id": 26,
+    "id": 79,
     "category": "rules",
     "question": "When is passing on the right permitted?",
     "options": [
@@ -332,7 +985,7 @@
     "answer": "When the vehicle ahead is turning left"
   },
   {
-    "id": 27,
+    "id": 80,
     "category": "rules",
     "question": "At a yield sign, you must:",
     "options": [
@@ -344,7 +997,7 @@
     "answer": "Slow and give way if needed"
   },
   {
-    "id": 28,
+    "id": 81,
     "category": "rules",
     "question": "When railway lights are flashing, you must stop:",
     "options": [
@@ -356,7 +1009,7 @@
     "answer": "At least 5 metres from the tracks"
   },
   {
-    "id": 29,
+    "id": 82,
     "category": "rules",
     "question": "Before changing lanes, you must:",
     "options": [
@@ -368,7 +1021,7 @@
     "answer": "Signal and check mirrors + blind spot"
   },
   {
-    "id": 30,
+    "id": 83,
     "category": "rules",
     "question": "The left lane on multi-lane roads is mainly for:",
     "options": [
@@ -380,7 +1033,7 @@
     "answer": "Passing"
   },
   {
-    "id": 31,
+    "id": 84,
     "category": "rules",
     "question": "You must dim high beams when approaching another vehicle within:",
     "options": [
@@ -392,7 +1045,7 @@
     "answer": "150 metres"
   },
   {
-    "id": 32,
+    "id": 85,
     "category": "rules",
     "question": "Hydroplaning occurs when:",
     "options": [
@@ -404,7 +1057,7 @@
     "answer": "Tires lose contact with the road due to water"
   },
   {
-    "id": 33,
+    "id": 86,
     "category": "rules",
     "question": "If you miss your highway exit, you should:",
     "options": [
@@ -416,7 +1069,7 @@
     "answer": "Take the next exit"
   },
   {
-    "id": 34,
+    "id": 87,
     "category": "rules",
     "question": "When a school patrol guard holds up a stop sign, you must:",
     "options": [
@@ -428,7 +1081,7 @@
     "answer": "Stop until the guard lowers the sign"
   },
   {
-    "id": 35,
+    "id": 88,
     "category": "rules",
     "question": "Using a handheld phone while driving is:",
     "options": [
@@ -440,7 +1093,7 @@
     "answer": "Illegal at all times"
   },
   {
-    "id": 36,
+    "id": 89,
     "category": "rules",
     "question": "When parallel parking, you must park within _____ of the curb.",
     "options": [
@@ -452,7 +1105,7 @@
     "answer": "30 cm"
   },
   {
-    "id": 37,
+    "id": 90,
     "category": "rules",
     "question": "If your vehicle begins to skid, you should:",
     "options": [
@@ -464,7 +1117,7 @@
     "answer": "Steer in the direction you want to go"
   },
   {
-    "id": 38,
+    "id": 91,
     "category": "rules",
     "question": "A flashing yellow traffic light means:",
     "options": [
@@ -476,7 +1129,7 @@
     "answer": "Proceed with caution"
   },
   {
-    "id": 39,
+    "id": 92,
     "category": "rules",
     "question": "When following a motorcycle, you should:",
     "options": [
@@ -488,7 +1141,7 @@
     "answer": "Allow extra space"
   },
   {
-    "id": 40,
+    "id": 93,
     "category": "rules",
     "question": "Drivers must use headlights between:",
     "options": [
@@ -500,267 +1153,7 @@
     "answer": "Half an hour after sunset to half an hour before sunrise"
   },
   {
-    "id": 41,
-    "category": "road_signs",
-    "question": "A white rectangular sign with a black number indicates:",
-    "image": "assets/images/sign-020.jpg",
-    "options": [
-      "Maximum speed permitted",
-      "Minimum speed required",
-      "Advisory speed",
-      "Truck speed only"
-    ],
-    "answer": "Maximum speed permitted"
-  },
-  {
-    "id": 42,
-    "category": "road_signs",
-    "question": "A red circle with a slash over a right arrow means:",
-    "image": "assets/images/sign-021.jpg",
-    "options": [
-      "No right turn",
-      "Right turn only",
-      "No U-turn",
-      "Right lane ends"
-    ],
-    "answer": "No right turn"
-  },
-  {
-    "id": 43,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with the word STOP on it means:",
-    "image": "assets/images/sign-022.jpg",
-    "options": [
-      "Stop sign ahead",
-      "Stop here",
-      "Yield ahead",
-      "Railway crossing ahead"
-    ],
-    "answer": "Stop sign ahead"
-  },
-  {
-    "id": 44,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a yield symbol means:",
-    "image": "assets/images/sign-023.jpg",
-    "options": [
-      "Yield sign ahead",
-      "Merge ahead",
-      "Road narrows",
-      "Two-way traffic"
-    ],
-    "answer": "Yield sign ahead"
-  },
-  {
-    "id": 45,
-    "category": "road_signs",
-    "question": "A white sign with a red circle and slash over a letter P means:",
-    "image": "assets/images/sign-024.jpg",
-    "options": [
-      "No parking",
-      "No stopping",
-      "Parking allowed",
-      "Loading zone"
-    ],
-    "answer": "No parking"
-  },
-  {
-    "id": 46,
-    "category": "road_signs",
-    "question": "A white sign with a red circle and slash over a stop symbol means:",
-    "image": "assets/images/sign-025.jpg",
-    "options": [
-      "No stopping",
-      "No parking",
-      "Stop ahead",
-      "Yield only"
-    ],
-    "answer": "No stopping"
-  },
-  {
-    "id": 47,
-    "category": "road_signs",
-    "question": "A yellow diamond sign showing several curves means:",
-    "image": "assets/images/sign-026.jpg",
-    "options": [
-      "Winding road ahead",
-      "Slippery when wet",
-      "Road ends",
-      "Detour ahead"
-    ],
-    "answer": "Winding road ahead"
-  },
-  {
-    "id": 48,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a narrow bridge symbol warns:",
-    "image": "assets/images/sign-027.jpg",
-    "options": [
-      "Narrow bridge ahead",
-      "Road narrows",
-      "One lane road",
-      "Bridge closed"
-    ],
-    "answer": "Narrow bridge ahead"
-  },
-  {
-    "id": 49,
-    "category": "road_signs",
-    "question": "A traffic signal ahead sign warns of:",
-    "image": "assets/images/sign-028.jpg",
-    "options": [
-      "Traffic lights ahead",
-      "Stop sign ahead",
-      "Railway crossing",
-      "Pedestrian crossing only"
-    ],
-    "answer": "Traffic lights ahead"
-  },
-  {
-    "id": 50,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a deer symbol means:",
-    "image": "assets/images/sign-029.jpg",
-    "options": [
-      "Deer crossing area",
-      "Zoo ahead",
-      "Hunting zone",
-      "Farm vehicles"
-    ],
-    "answer": "Deer crossing area"
-  },
-  {
-    "id": 51,
-    "category": "road_signs",
-    "question": "A white sign showing a bicycle and arrows means:",
-    "image": "assets/images/sign-030.jpg",
-    "options": [
-      "Share the road with cyclists",
-      "Bicycles prohibited",
-      "Bike lane ends",
-      "Cyclists must dismount"
-    ],
-    "answer": "Share the road with cyclists"
-  },
-  {
-    "id": 52,
-    "category": "road_signs",
-    "question": "A yellow diamond sign showing a lane dropping warns:",
-    "image": "assets/images/sign-031.jpg",
-    "options": [
-      "Lane ends ahead",
-      "Two-way traffic",
-      "Passing allowed",
-      "Road widens"
-    ],
-    "answer": "Lane ends ahead"
-  },
-  {
-    "id": 53,
-    "category": "road_signs",
-    "question": "An orange sign showing a worker means:",
-    "image": "assets/images/sign-032.jpg",
-    "options": [
-      "Construction zone",
-      "School zone",
-      "Pedestrian zone",
-      "Railway work"
-    ],
-    "answer": "Construction zone"
-  },
-  {
-    "id": 54,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a car and wavy lines means:",
-    "image": "assets/images/sign-033.jpg",
-    "options": [
-      "Slippery when wet",
-      "Road floods",
-      "Loose gravel",
-      "Bump ahead"
-    ],
-    "answer": "Slippery when wet"
-  },
-  {
-    "id": 55,
-    "category": "road_signs",
-    "question": "A red circle with a slash over a U-shaped arrow means:",
-    "image": "assets/images/sign-034.jpg",
-    "options": [
-      "No U-turn",
-      "U-turn permitted",
-      "No left turn",
-      "Right turn only"
-    ],
-    "answer": "No U-turn"
-  },
-  {
-    "id": 56,
-    "category": "road_signs",
-    "question": "A sign with a black arrow curving right around an obstruction means:",
-    "image": "assets/images/sign-035.jpg",
-    "options": [
-      "Keep right",
-      "Right turn only",
-      "Road ends",
-      "Yield right"
-    ],
-    "answer": "Keep right"
-  },
-  {
-    "id": 57,
-    "category": "road_signs",
-    "question": "A sign with a black arrow curving left around an obstruction means:",
-    "image": "assets/images/sign-036.jpg",
-    "options": [
-      "Keep left",
-      "Left turn only",
-      "Detour left",
-      "No left turn"
-    ],
-    "answer": "Keep left"
-  },
-  {
-    "id": 58,
-    "category": "road_signs",
-    "question": "A white rectangular sign with a black arrow and the word ONE WAY means:",
-    "image": "assets/images/sign-037.jpg",
-    "options": [
-      "Traffic flows in one direction",
-      "Two-way traffic",
-      "Road closed",
-      "Passing zone"
-    ],
-    "answer": "Traffic flows in one direction"
-  },
-  {
-    "id": 59,
-    "category": "road_signs",
-    "question": "A pennant-shaped sign that says NO PASSING means:",
-    "image": "assets/images/sign-038.jpg",
-    "options": [
-      "Do not pass",
-      "Passing allowed",
-      "Right lane ends",
-      "School zone"
-    ],
-    "answer": "Do not pass"
-  },
-  {
-    "id": 60,
-    "category": "road_signs",
-    "question": "A broken yellow centerline on a two-way road indicates:",
-    "image": "assets/images/sign-039.jpg",
-    "options": [
-      "Passing is allowed when safe",
-      "No passing",
-      "One-way traffic",
-      "Lane ends"
-    ],
-    "answer": "Passing is allowed when safe"
-  },
-  {
-    "id": 61,
+    "id": 94,
     "category": "rules",
     "question": "Seat belts must be worn by:",
     "options": [
@@ -772,7 +1165,7 @@
     "answer": "All occupants"
   },
   {
-    "id": 62,
+    "id": 95,
     "category": "rules",
     "question": "You may turn right on a red light if:",
     "options": [
@@ -784,7 +1177,7 @@
     "answer": "You stop first and the way is clear"
   },
   {
-    "id": 63,
+    "id": 96,
     "category": "rules",
     "question": "A flashing red traffic light means:",
     "options": [
@@ -796,7 +1189,7 @@
     "answer": "Stop and proceed when safe"
   },
   {
-    "id": 64,
+    "id": 97,
     "category": "rules",
     "question": "At an uncontrolled intersection, you must yield to:",
     "options": [
@@ -808,7 +1201,7 @@
     "answer": "Vehicles on your right"
   },
   {
-    "id": 65,
+    "id": 98,
     "category": "rules",
     "question": "When approaching a stopped emergency vehicle with flashing lights, you must:",
     "options": [
@@ -820,7 +1213,7 @@
     "answer": "Slow down and move over if safe"
   },
   {
-    "id": 66,
+    "id": 99,
     "category": "rules",
     "question": "The minimum age to obtain a G1 licence in Ontario is:",
     "options": [
@@ -832,7 +1225,7 @@
     "answer": "16 years"
   },
   {
-    "id": 67,
+    "id": 100,
     "category": "rules",
     "question": "For G1 and G2 drivers, the blood alcohol concentration must be:",
     "options": [
@@ -844,7 +1237,7 @@
     "answer": "0.00"
   },
   {
-    "id": 68,
+    "id": 101,
     "category": "rules",
     "question": "You should signal at least ____ before turning or changing lanes.",
     "options": [
@@ -856,7 +1249,7 @@
     "answer": "30 metres"
   },
   {
-    "id": 69,
+    "id": 102,
     "category": "rules",
     "question": "When parking uphill with a curb, you should turn your wheels:",
     "options": [
@@ -868,7 +1261,7 @@
     "answer": "Left, away from the curb"
   },
   {
-    "id": 70,
+    "id": 103,
     "category": "rules",
     "question": "At a pedestrian crosswalk, you must:",
     "options": [
@@ -880,7 +1273,7 @@
     "answer": "Yield and stop for pedestrians"
   },
   {
-    "id": 71,
+    "id": 104,
     "category": "rules",
     "question": "When a traffic signal is not working, you should:",
     "options": [
@@ -892,7 +1285,7 @@
     "answer": "Treat it as a 4-way stop"
   },
   {
-    "id": 72,
+    "id": 105,
     "category": "rules",
     "question": "If railway crossing gates are down, you must:",
     "options": [
@@ -904,7 +1297,7 @@
     "answer": "Stop and wait until they rise"
   },
   {
-    "id": 73,
+    "id": 106,
     "category": "rules",
     "question": "Use headlights in daytime when:",
     "options": [
@@ -916,7 +1309,7 @@
     "answer": "Visibility is poor"
   },
   {
-    "id": 74,
+    "id": 107,
     "category": "rules",
     "question": "You must not pass another vehicle within ____ of a railway crossing.",
     "options": [
@@ -928,7 +1321,7 @@
     "answer": "30 metres"
   },
   {
-    "id": 75,
+    "id": 108,
     "category": "rules",
     "question": "In a school zone, you must:",
     "options": [
@@ -940,7 +1333,7 @@
     "answer": "Obey the posted limit during indicated times"
   },
   {
-    "id": 76,
+    "id": 109,
     "category": "rules",
     "question": "When a streetcar stops to let passengers on or off, you must stop:",
     "options": [
@@ -952,7 +1345,7 @@
     "answer": "At least 2 metres behind the rear door"
   },
   {
-    "id": 77,
+    "id": 110,
     "category": "rules",
     "question": "At a roundabout, you must:",
     "options": [
@@ -964,7 +1357,7 @@
     "answer": "Yield to traffic already in the roundabout"
   },
   {
-    "id": 78,
+    "id": 111,
     "category": "rules",
     "question": "When entering a freeway, you should:",
     "options": [
@@ -976,7 +1369,7 @@
     "answer": "Use the acceleration lane to match traffic speed"
   },
   {
-    "id": 79,
+    "id": 112,
     "category": "rules",
     "question": "If a tire blows out, you should:",
     "options": [
@@ -988,7 +1381,7 @@
     "answer": "Grip the wheel and ease off the accelerator"
   },
   {
-    "id": 80,
+    "id": 113,
     "category": "rules",
     "question": "If your vehicle is disabled on the road, you should:",
     "options": [
@@ -1000,7 +1393,7 @@
     "answer": "Use hazard lights"
   },
   {
-    "id": 81,
+    "id": 114,
     "category": "rules",
     "question": "At a stop sign, you must stop:",
     "options": [
@@ -1012,7 +1405,7 @@
     "answer": "Before the stop line or crosswalk"
   },
   {
-    "id": 82,
+    "id": 115,
     "category": "rules",
     "question": "In bad weather, a safe following distance is at least:",
     "options": [
@@ -1024,7 +1417,7 @@
     "answer": "4 seconds or more"
   },
   {
-    "id": 83,
+    "id": 116,
     "category": "rules",
     "question": "You must not park within ____ of a fire hydrant.",
     "options": [
@@ -1036,7 +1429,7 @@
     "answer": "3 metres"
   },
   {
-    "id": 84,
+    "id": 117,
     "category": "rules",
     "question": "You must not park within ____ of an intersection.",
     "options": [
@@ -1048,7 +1441,7 @@
     "answer": "9 metres"
   },
   {
-    "id": 85,
+    "id": 118,
     "category": "rules",
     "question": "At night, daytime running lights are not enough. You must use:",
     "options": [
@@ -1060,7 +1453,7 @@
     "answer": "Headlights and tail lights"
   },
   {
-    "id": 86,
+    "id": 119,
     "category": "rules",
     "question": "In rural areas with no posted speed limit, the maximum is:",
     "options": [
@@ -1072,7 +1465,7 @@
     "answer": "80 km/h"
   },
   {
-    "id": 87,
+    "id": 120,
     "category": "rules",
     "question": "Children under 8 must be:",
     "options": [
@@ -1084,7 +1477,7 @@
     "answer": "In an approved child restraint or booster as required"
   },
   {
-    "id": 88,
+    "id": 121,
     "category": "rules",
     "question": "A solid yellow line on your side of a two-way road means:",
     "options": [
@@ -1096,7 +1489,7 @@
     "answer": "No passing"
   },
   {
-    "id": 89,
+    "id": 122,
     "category": "rules",
     "question": "You must not pass when approaching:",
     "options": [
@@ -1108,7 +1501,7 @@
     "answer": "A hill or curve where the view is blocked"
   },
   {
-    "id": 90,
+    "id": 123,
     "category": "rules",
     "question": "In fog, you should use:",
     "options": [
@@ -1120,7 +1513,7 @@
     "answer": "Low-beam headlights"
   },
   {
-    "id": 91,
+    "id": 124,
     "category": "rules",
     "question": "On an undivided road, when a school bus with flashing red lights stops, you must:",
     "options": [
@@ -1132,7 +1525,7 @@
     "answer": "Stop in both directions"
   },
   {
-    "id": 92,
+    "id": 125,
     "category": "rules",
     "question": "When towing or carrying a heavy load, you should:",
     "options": [
@@ -1144,7 +1537,7 @@
     "answer": "Increase following distance"
   },
   {
-    "id": 93,
+    "id": 126,
     "category": "rules",
     "question": "A collision with total damage over $2,000 must be:",
     "options": [
@@ -1156,7 +1549,7 @@
     "answer": "Reported to a collision reporting centre or police"
   },
   {
-    "id": 94,
+    "id": 127,
     "category": "rules",
     "question": "When turning left at an intersection, you must yield to:",
     "options": [
@@ -1168,7 +1561,7 @@
     "answer": "Oncoming traffic and pedestrians"
   },
   {
-    "id": 95,
+    "id": 128,
     "category": "rules",
     "question": "A green arrow signal means you may:",
     "options": [
@@ -1180,7 +1573,7 @@
     "answer": "Proceed in the direction of the arrow"
   },
   {
-    "id": 96,
+    "id": 129,
     "category": "rules",
     "question": "A complete stop means:",
     "options": [
@@ -1192,7 +1585,7 @@
     "answer": "Wheels are not moving"
   },
   {
-    "id": 97,
+    "id": 130,
     "category": "rules",
     "question": "If you are being tailgated, you should:",
     "options": [
@@ -1204,7 +1597,7 @@
     "answer": "Increase following distance and allow space"
   },
   {
-    "id": 98,
+    "id": 131,
     "category": "rules",
     "question": "When passing a cyclist, you should:",
     "options": [
@@ -1216,7 +1609,7 @@
     "answer": "Leave at least 1 metre of space"
   },
   {
-    "id": 99,
+    "id": 132,
     "category": "rules",
     "question": "If a vehicle approaches with high beams on, you should:",
     "options": [
@@ -1228,7 +1621,7 @@
     "answer": "Look to the right edge of your lane"
   },
   {
-    "id": 100,
+    "id": 133,
     "category": "rules",
     "question": "Before opening your car door, you should:",
     "options": [
@@ -1240,397 +1633,7 @@
     "answer": "Check mirrors and blind spot for cyclists"
   },
   {
-    "id": 101,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a traffic light symbol means:",
-    "image": "assets/images/sign-040.jpg",
-    "options": [
-      "Traffic signals ahead",
-      "Stop sign ahead",
-      "Railway crossing ahead",
-      "Pedestrian crossing ahead"
-    ],
-    "answer": "Traffic signals ahead"
-  },
-  {
-    "id": 102,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck on a steep slope means:",
-    "image": "assets/images/sign-041.jpg",
-    "options": [
-      "Steep hill ahead",
-      "Truck route only",
-      "No trucks",
-      "Falling rocks"
-    ],
-    "answer": "Steep hill ahead"
-  },
-  {
-    "id": 103,
-    "category": "road_signs",
-    "question": "A white rectangular sign with a red circle and slash over a horn means:",
-    "image": "assets/images/sign-008.jpg",
-    "options": [
-      "No honking",
-      "Honk to warn",
-      "Quiet zone ends",
-      "Horns required"
-    ],
-    "answer": "No honking"
-  },
-  {
-    "id": 104,
-    "category": "road_signs",
-    "question": "A yellow diamond sign showing a car and a fallen rock means:",
-    "image": "assets/images/sign-042.jpg",
-    "options": [
-      "Falling rocks",
-      "Slippery road",
-      "Loose gravel",
-      "Landslide detour"
-    ],
-    "answer": "Falling rocks"
-  },
-  {
-    "id": 105,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a side road entering from the right means:",
-    "image": "assets/images/sign-043.jpg",
-    "options": [
-      "Side road ahead on the right",
-      "Right lane ends",
-      "Merge right",
-      "Right turn only"
-    ],
-    "answer": "Side road ahead on the right"
-  },
-  {
-    "id": 106,
-    "category": "road_signs",
-    "question": "A yellow diamond sign showing a T-intersection means:",
-    "image": "assets/images/sign-044.jpg",
-    "options": [
-      "T-intersection ahead",
-      "Road ends",
-      "Y-intersection ahead",
-      "Railway crossing"
-    ],
-    "answer": "T-intersection ahead"
-  },
-  {
-    "id": 107,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a traffic circle symbol indicates:",
-    "image": "assets/images/sign-019.jpg",
-    "options": [
-      "Roundabout ahead",
-      "Detour",
-      "U-turn only",
-      "One-way traffic"
-    ],
-    "answer": "Roundabout ahead"
-  },
-  {
-    "id": 108,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a lane narrowing on both sides means:",
-    "image": "assets/images/sign-045.jpg",
-    "options": [
-      "Road narrows",
-      "Bridge ahead",
-      "Lane ends on right",
-      "Two-way traffic"
-    ],
-    "answer": "Road narrows"
-  },
-  {
-    "id": 109,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and bumps means:",
-    "image": "assets/images/sign-046.jpg",
-    "options": [
-      "Bump or rough road ahead",
-      "Truck inspection ahead",
-      "No trucks",
-      "Bridge ahead"
-    ],
-    "answer": "Bump or rough road ahead"
-  },
-  {
-    "id": 110,
-    "category": "road_signs",
-    "question": "A yellow diamond sign showing a bicycle and a vehicle means:",
-    "image": "assets/images/sign-047.jpg",
-    "options": [
-      "Bicycles share the road",
-      "Bicycles prohibited",
-      "Bike lane only",
-      "Cyclists must dismount"
-    ],
-    "answer": "Bicycles share the road"
-  },
-  {
-    "id": 111,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and a wind gust symbol means:",
-    "image": "assets/images/sign-048.jpg",
-    "options": [
-      "Strong crosswinds",
-      "Low clearance",
-      "Falling rocks",
-      "Steep hill"
-    ],
-    "answer": "Strong crosswinds"
-  },
-  {
-    "id": 112,
-    "category": "road_signs",
-    "question": "An orange sign with the words ROAD CLOSED means:",
-    "image": "assets/images/sign-049.jpg",
-    "options": [
-      "Road closed ahead",
-      "Detour ahead",
-      "Lane closed",
-      "No entry"
-    ],
-    "answer": "Road closed ahead"
-  },
-  {
-    "id": 113,
-    "category": "road_signs",
-    "question": "An orange sign with a left arrow and the words DETOUR means:",
-    "image": "assets/images/sign-050.jpg",
-    "options": [
-      "Follow detour to the left",
-      "Left turn only",
-      "Road ends",
-      "Yield left"
-    ],
-    "answer": "Follow detour to the left"
-  },
-  {
-    "id": 114,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with two lanes and a downward arrow over the left lane means:",
-    "image": "assets/images/sign-051.jpg",
-    "options": [
-      "Left lane ends",
-      "Keep left",
-      "Passing lane only",
-      "Two-way traffic"
-    ],
-    "answer": "Left lane ends"
-  },
-  {
-    "id": 115,
-    "category": "road_signs",
-    "question": "A white rectangular sign with the words KEEP RIGHT means:",
-    "image": "assets/images/sign-052.jpg",
-    "options": [
-      "Stay to the right of the divider",
-      "Right turn only",
-      "No right turn",
-      "One-way traffic"
-    ],
-    "answer": "Stay to the right of the divider"
-  },
-  {
-    "id": 116,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a traffic lane merging from the right means:",
-    "image": "assets/images/sign-053.jpg",
-    "options": [
-      "Merge from right",
-      "Right lane ends",
-      "No right turn",
-      "Passing zone"
-    ],
-    "answer": "Merge from right"
-  },
-  {
-    "id": 117,
-    "category": "road_signs",
-    "question": "A white rectangular sign with black diagonal stripes means:",
-    "image": "assets/images/sign-054.jpg",
-    "options": [
-      "Keep right of the marker",
-      "Keep left of the marker",
-      "Do not enter",
-      "Road closed"
-    ],
-    "answer": "Keep right of the marker"
-  },
-  {
-    "id": 118,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a curve and a suggested speed means:",
-    "image": "assets/images/sign-055.jpg",
-    "options": [
-      "Advisory speed for the curve",
-      "Maximum speed limit",
-      "Minimum speed",
-      "Truck speed only"
-    ],
-    "answer": "Advisory speed for the curve"
-  },
-  {
-    "id": 119,
-    "category": "road_signs",
-    "question": "A white rectangular sign with a black arrow and the word DIVERSION means:",
-    "image": "assets/images/sign-056.jpg",
-    "options": [
-      "Temporary route change",
-      "Detour for trucks only",
-      "One-way traffic",
-      "Road closed"
-    ],
-    "answer": "Temporary route change"
-  },
-  {
-    "id": 120,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a double arrow pointing left and right means:",
-    "image": "assets/images/sign-057.jpg",
-    "options": [
-      "Road ends, turn left or right",
-      "Two-way traffic",
-      "Divided highway",
-      "Passing allowed"
-    ],
-    "answer": "Road ends, turn left or right"
-  },
-  {
-    "id": 121,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a symbol of traffic merging from the left means:",
-    "image": "assets/images/sign-058.jpg",
-    "options": [
-      "Merge from left",
-      "Left lane ends",
-      "Keep left",
-      "No passing"
-    ],
-    "answer": "Merge from left"
-  },
-  {
-    "id": 122,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and a bump symbol means:",
-    "image": "assets/images/sign-059.jpg",
-    "options": [
-      "Rough road ahead",
-      "Truck route",
-      "No trucks",
-      "Bridge ahead"
-    ],
-    "answer": "Rough road ahead"
-  },
-  {
-    "id": 123,
-    "category": "road_signs",
-    "question": "A white rectangular sign with the word MAXIMUM and a number indicates:",
-    "image": "assets/images/sign-060.jpg",
-    "options": [
-      "Maximum speed limit",
-      "Minimum speed limit",
-      "Advisory speed",
-      "Truck speed only"
-    ],
-    "answer": "Maximum speed limit"
-  },
-  {
-    "id": 124,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and water spray indicates:",
-    "image": "assets/images/sign-061.jpg",
-    "options": [
-      "Slippery bridge",
-      "Bridge narrows",
-      "Road floods",
-      "Truck lane only"
-    ],
-    "answer": "Slippery bridge"
-  },
-  {
-    "id": 125,
-    "category": "road_signs",
-    "question": "A yellow diamond sign showing a traffic lane shifting means:",
-    "image": "assets/images/sign-062.jpg",
-    "options": [
-      "Lane shift ahead",
-      "Lane ends",
-      "Two-way traffic",
-      "Passing zone"
-    ],
-    "answer": "Lane shift ahead"
-  },
-  {
-    "id": 126,
-    "category": "road_signs",
-    "question": "An orange sign with a flagger symbol means:",
-    "image": "assets/images/sign-063.jpg",
-    "options": [
-      "Flagger ahead",
-      "Police checkpoint",
-      "School crossing",
-      "Pedestrian crossing"
-    ],
-    "answer": "Flagger ahead"
-  },
-  {
-    "id": 127,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and a low bridge means:",
-    "image": "assets/images/sign-064.jpg",
-    "options": [
-      "Low clearance ahead",
-      "Bridge narrows",
-      "Truck lane only",
-      "No trucks"
-    ],
-    "answer": "Low clearance ahead"
-  },
-  {
-    "id": 128,
-    "category": "road_signs",
-    "question": "A white rectangular sign with a black arrow pointing down above the left lane means:",
-    "image": "assets/images/sign-065.jpg",
-    "options": [
-      "Left lane only",
-      "Left lane ends",
-      "Keep left",
-      "Pass on left"
-    ],
-    "answer": "Left lane only"
-  },
-  {
-    "id": 129,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a school bus symbol means:",
-    "image": "assets/images/sign-066.jpg",
-    "options": [
-      "School bus stop ahead",
-      "No school buses",
-      "School zone only",
-      "Children at play"
-    ],
-    "answer": "School bus stop ahead"
-  },
-  {
-    "id": 130,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a person in a wheelchair means:",
-    "image": "assets/images/sign-067.jpg",
-    "options": [
-      "Disabled crossing area",
-      "Hospital ahead",
-      "No pedestrians",
-      "Parking only"
-    ],
-    "answer": "Disabled crossing area"
-  },
-  {
-    "id": 131,
+    "id": 134,
     "category": "rules",
     "question": "When approaching a railway crossing without gates, you should:",
     "options": [
@@ -1642,7 +1645,7 @@
     "answer": "Slow down, look, listen, and be prepared to stop"
   },
   {
-    "id": 132,
+    "id": 135,
     "category": "rules",
     "question": "A learner (G1) driver must be accompanied by a fully licensed driver with at least ____ years of experience.",
     "options": [
@@ -1654,7 +1657,7 @@
     "answer": "4"
   },
   {
-    "id": 134,
+    "id": 136,
     "category": "rules",
     "question": "If your accelerator sticks, you should:",
     "options": [
@@ -1666,7 +1669,7 @@
     "answer": "Shift to neutral and brake to a stop"
   },
   {
-    "id": 135,
+    "id": 137,
     "category": "rules",
     "question": "When approaching a pedestrian crossover, you must:",
     "options": [
@@ -1678,7 +1681,7 @@
     "answer": "Stop and yield to pedestrians when required"
   },
   {
-    "id": 136,
+    "id": 138,
     "category": "rules",
     "question": "If you are in a roundabout and an emergency vehicle approaches, you should:",
     "options": [
@@ -1690,7 +1693,7 @@
     "answer": "Exit if possible, then pull over"
   },
   {
-    "id": 137,
+    "id": 139,
     "category": "rules",
     "question": "When driving on a freeway, you should check your mirrors every:",
     "options": [
@@ -1702,7 +1705,7 @@
     "answer": "5 to 8 seconds"
   },
   {
-    "id": 139,
+    "id": 140,
     "category": "rules",
     "question": "On a two-way road, if you are turning left, you should:",
     "options": [
@@ -1714,7 +1717,7 @@
     "answer": "Move to the left of your lane before turning"
   },
   {
-    "id": 140,
+    "id": 141,
     "category": "rules",
     "question": "You must yield the right-of-way to a pedestrian who is:",
     "options": [
@@ -1726,7 +1729,7 @@
     "answer": "Crossing at a marked or unmarked crosswalk"
   },
   {
-    "id": 141,
+    "id": 142,
     "category": "rules",
     "question": "If you have a green light and a pedestrian is still crossing, you must:",
     "options": [
@@ -1738,7 +1741,7 @@
     "answer": "Wait until the pedestrian clears your lane"
   },
   {
-    "id": 142,
+    "id": 143,
     "category": "rules",
     "question": "When driving in heavy rain, you should:",
     "options": [
@@ -1750,7 +1753,7 @@
     "answer": "Reduce speed and increase following distance"
   },
   {
-    "id": 143,
+    "id": 144,
     "category": "rules",
     "question": "You must not turn left on a red light except:",
     "options": [
@@ -1930,7 +1933,7 @@
     "answer": "Press and hold the brake pedal"
   },
   {
-    "id": 160,
+    "id": 159,
     "category": "rules",
     "question": "At night on a two-way road, you must use low beams when within ____ of an oncoming vehicle.",
     "options": [
@@ -1942,397 +1945,7 @@
     "answer": "150 metres"
   },
   {
-    "id": 161,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a pedestrian and a downward arrow means:",
-    "image": "assets/images/sign-068.jpg",
-    "options": [
-      "Pedestrian crossing ahead",
-      "Playground zone",
-      "School zone",
-      "No pedestrians"
-    ],
-    "answer": "Pedestrian crossing ahead"
-  },
-  {
-    "id": 162,
-    "category": "road_signs",
-    "question": "A yellow diamond sign showing a truck climbing a hill means:",
-    "image": "assets/images/sign-041.jpg",
-    "options": [
-      "Steep hill ahead",
-      "Truck route only",
-      "No trucks",
-      "Falling rocks"
-    ],
-    "answer": "Steep hill ahead"
-  },
-  {
-    "id": 163,
-    "category": "road_signs",
-    "question": "A white sign with a red circle and slash over a bicycle means:",
-    "image": "assets/images/sign-069.jpg",
-    "options": [
-      "No bicycles",
-      "Bicycle crossing",
-      "Bike lane only",
-      "Share the road"
-    ],
-    "answer": "No bicycles"
-  },
-  {
-    "id": 164,
-    "category": "road_signs",
-    "question": "A yellow diamond sign showing a truck and a falling load means:",
-    "image": "assets/images/sign-070.jpg",
-    "options": [
-      "Trucks entering or crossing",
-      "Truck lane only",
-      "No trucks",
-      "Weigh station"
-    ],
-    "answer": "Trucks entering or crossing"
-  },
-  {
-    "id": 165,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a car and a plus sign intersection means:",
-    "image": "assets/images/sign-071.jpg",
-    "options": [
-      "Intersection ahead",
-      "Road ends",
-      "Railway crossing",
-      "Roundabout"
-    ],
-    "answer": "Intersection ahead"
-  },
-  {
-    "id": 166,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a Y-shaped arrow means:",
-    "image": "assets/images/sign-072.jpg",
-    "options": [
-      "Y-intersection ahead",
-      "Road ends",
-      "Two-way traffic",
-      "Divided highway"
-    ],
-    "answer": "Y-intersection ahead"
-  },
-  {
-    "id": 167,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and a bridge symbol means:",
-    "image": "assets/images/sign-073.jpg",
-    "options": [
-      "Bridge ahead",
-      "Bridge closed",
-      "Road narrows",
-      "Detour"
-    ],
-    "answer": "Bridge ahead"
-  },
-  {
-    "id": 168,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a car and rocks on the road means:",
-    "image": "assets/images/sign-074.jpg",
-    "options": [
-      "Loose gravel",
-      "Slippery road",
-      "Bump ahead",
-      "Falling rocks"
-    ],
-    "answer": "Loose gravel"
-  },
-  {
-    "id": 169,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a car and a bump symbol means:",
-    "image": "assets/images/sign-075.jpg",
-    "options": [
-      "Dip ahead",
-      "Bump ahead",
-      "Steep hill",
-      "Road ends"
-    ],
-    "answer": "Dip ahead"
-  },
-  {
-    "id": 170,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and an S-curve means:",
-    "image": "assets/images/sign-026.jpg",
-    "options": [
-      "Winding road ahead",
-      "Truck route only",
-      "No trucks",
-      "Detour"
-    ],
-    "answer": "Winding road ahead"
-  },
-  {
-    "id": 171,
-    "category": "road_signs",
-    "question": "A white sign with a red circle and slash over a straight arrow means:",
-    "image": "assets/images/sign-076.jpg",
-    "options": [
-      "No straight through",
-      "Go straight only",
-      "No passing",
-      "No entry"
-    ],
-    "answer": "No straight through"
-  },
-  {
-    "id": 172,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a crossbuck symbol means:",
-    "image": "assets/images/sign-077.jpg",
-    "options": [
-      "Railway crossing ahead",
-      "Stop sign ahead",
-      "Yield ahead",
-      "Traffic signal ahead"
-    ],
-    "answer": "Railway crossing ahead"
-  },
-  {
-    "id": 173,
-    "category": "road_signs",
-    "question": "A white rectangular sign with a black arrow and the word DETOUR means:",
-    "image": "assets/images/sign-078.jpg",
-    "options": [
-      "Follow a detour route",
-      "One-way traffic",
-      "Road closed",
-      "Yield"
-    ],
-    "answer": "Follow a detour route"
-  },
-  {
-    "id": 174,
-    "category": "road_signs",
-    "question": "An orange sign with the words LANE CLOSED means:",
-    "image": "assets/images/sign-079.jpg",
-    "options": [
-      "Lane closed ahead",
-      "Road closed",
-      "Detour",
-      "Do not pass"
-    ],
-    "answer": "Lane closed ahead"
-  },
-  {
-    "id": 175,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and a downward arrow means:",
-    "image": "assets/images/sign-080.jpg",
-    "options": [
-      "Steep downgrade ahead",
-      "Truck lane only",
-      "No trucks",
-      "Weigh station"
-    ],
-    "answer": "Steep downgrade ahead"
-  },
-  {
-    "id": 176,
-    "category": "road_signs",
-    "question": "A white sign with a red circle and slash over a pedestrian means:",
-    "image": "assets/images/sign-081.jpg",
-    "options": [
-      "No pedestrians",
-      "Pedestrian crossing",
-      "School zone",
-      "Playground"
-    ],
-    "answer": "No pedestrians"
-  },
-  {
-    "id": 177,
-    "category": "road_signs",
-    "question": "A yellow diamond sign showing a traffic lane added from the right means:",
-    "image": "assets/images/sign-082.jpg",
-    "options": [
-      "Lane added on the right",
-      "Lane ends",
-      "Merge right",
-      "Two-way traffic"
-    ],
-    "answer": "Lane added on the right"
-  },
-  {
-    "id": 178,
-    "category": "road_signs",
-    "question": "A white rectangular sign with the words RIGHT LANE MUST TURN RIGHT means:",
-    "image": "assets/images/sign-083.jpg",
-    "options": [
-      "Right lane must turn right",
-      "Right turn optional",
-      "Keep right",
-      "No right turn"
-    ],
-    "answer": "Right lane must turn right"
-  },
-  {
-    "id": 179,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and a bounce symbol means:",
-    "image": "assets/images/sign-084.jpg",
-    "options": [
-      "Uneven pavement ahead",
-      "Truck inspection",
-      "No trucks",
-      "Bridge ahead"
-    ],
-    "answer": "Uneven pavement ahead"
-  },
-  {
-    "id": 180,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a traffic lane shift to the left means:",
-    "image": "assets/images/sign-085.jpg",
-    "options": [
-      "Lane shift left",
-      "Left lane ends",
-      "Keep left",
-      "Merge left"
-    ],
-    "answer": "Lane shift left"
-  },
-  {
-    "id": 181,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a traffic lane shift to the right means:",
-    "image": "assets/images/sign-086.jpg",
-    "options": [
-      "Lane shift right",
-      "Right lane ends",
-      "Keep right",
-      "Merge right"
-    ],
-    "answer": "Lane shift right"
-  },
-  {
-    "id": 182,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a symbol of a car entering a highway means:",
-    "image": "assets/images/sign-087.jpg",
-    "options": [
-      "Entrance ramp ahead",
-      "Exit only",
-      "No entry",
-      "Road ends"
-    ],
-    "answer": "Entrance ramp ahead"
-  },
-  {
-    "id": 183,
-    "category": "road_signs",
-    "question": "A white rectangular sign with black arrows pointing both directions means:",
-    "image": "assets/images/sign-088.jpg",
-    "options": [
-      "Center lane for left turns in both directions",
-      "Two-way traffic",
-      "Passing lane only",
-      "Lane ends"
-    ],
-    "answer": "Center lane for left turns in both directions"
-  },
-  {
-    "id": 184,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a truck and a scale symbol means:",
-    "image": "assets/images/sign-089.jpg",
-    "options": [
-      "Weigh station ahead",
-      "Truck route only",
-      "No trucks",
-      "Bridge ahead"
-    ],
-    "answer": "Weigh station ahead"
-  },
-  {
-    "id": 185,
-    "category": "road_signs",
-    "question": "A white rectangular sign with a black arrow and the word EXIT means:",
-    "image": "assets/images/sign-090.jpg",
-    "options": [
-      "Exit only lane",
-      "Lane ends",
-      "Keep right",
-      "Detour"
-    ],
-    "answer": "Exit only lane"
-  },
-  {
-    "id": 186,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a signal and a pedestrian means:",
-    "image": "assets/images/sign-091.jpg",
-    "options": [
-      "Pedestrian-controlled signal ahead",
-      "School zone",
-      "No pedestrians",
-      "Playground"
-    ],
-    "answer": "Pedestrian-controlled signal ahead"
-  },
-  {
-    "id": 187,
-    "category": "road_signs",
-    "question": "A white rectangular sign with a red circle and slash over a truck means:",
-    "image": "assets/images/sign-092.jpg",
-    "options": [
-      "No trucks",
-      "Truck route only",
-      "Truck lane ends",
-      "Weigh station"
-    ],
-    "answer": "No trucks"
-  },
-  {
-    "id": 188,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a snowflake and car means:",
-    "image": "assets/images/sign-093.jpg",
-    "options": [
-      "Icy road possible",
-      "Chains required",
-      "Snowmobile crossing",
-      "Winter tire only"
-    ],
-    "answer": "Icy road possible"
-  },
-  {
-    "id": 189,
-    "category": "road_signs",
-    "question": "A white rectangular sign with the word MAXIMUM and a truck symbol means:",
-    "image": "assets/images/sign-094.jpg",
-    "options": [
-      "Truck maximum speed limit",
-      "Truck minimum speed",
-      "Advisory truck speed",
-      "No trucks"
-    ],
-    "answer": "Truck maximum speed limit"
-  },
-  {
-    "id": 190,
-    "category": "road_signs",
-    "question": "A yellow diamond sign with a car and water waves means:",
-    "image": "assets/images/sign-095.jpg",
-    "options": [
-      "Flooded or water on road",
-      "Slippery when wet",
-      "Bridge ahead",
-      "Bump ahead"
-    ],
-    "answer": "Flooded or water on road"
-  },
-  {
-    "id": 191,
+    "id": 160,
     "category": "rules",
     "question": "You must stop for a school bus with flashing red lights when you are:",
     "options": [
@@ -2344,7 +1957,7 @@
     "answer": "Approaching from either direction on an undivided road"
   },
   {
-    "id": 195,
+    "id": 161,
     "category": "rules",
     "question": "When entering traffic from a private driveway, you must:",
     "options": [
@@ -2356,7 +1969,7 @@
     "answer": "Yield to all vehicles and pedestrians"
   },
   {
-    "id": 196,
+    "id": 162,
     "category": "rules",
     "question": "A solid white line between lanes means:",
     "options": [
@@ -2368,7 +1981,7 @@
     "answer": "Lane changes are discouraged"
   },
   {
-    "id": 197,
+    "id": 163,
     "category": "rules",
     "question": "On a freeway, you should use the right lane except when:",
     "options": [
@@ -2380,7 +1993,7 @@
     "answer": "Passing or preparing to turn"
   },
   {
-    "id": 198,
+    "id": 164,
     "category": "rules",
     "question": "If you approach a green light that has been green for a long time, you should:",
     "options": [
@@ -2392,7 +2005,7 @@
     "answer": "Be ready to stop if it changes"
   },
   {
-    "id": 200,
+    "id": 165,
     "category": "rules",
     "question": "At a stop sign with a stop line, you must stop:",
     "options": [
@@ -2404,7 +2017,7 @@
     "answer": "Before the stop line"
   },
   {
-    "id": 204,
+    "id": 166,
     "category": "rules",
     "question": "If your vehicle starts to hydroplane, you should:",
     "options": [
@@ -2416,7 +2029,7 @@
     "answer": "Ease off the accelerator and steer straight"
   },
   {
-    "id": 205,
+    "id": 167,
     "category": "rules",
     "question": "You must not pass a vehicle stopped at a pedestrian crossover:",
     "options": [
@@ -2428,7 +2041,7 @@
     "answer": "At any time"
   },
   {
-    "id": 206,
+    "id": 168,
     "category": "rules",
     "question": "If you are driving and your view of the road is blocked by snow or ice on the windshield, you must:",
     "options": [
@@ -2440,7 +2053,7 @@
     "answer": "Clear the windshield completely before driving"
   },
   {
-    "id": 207,
+    "id": 169,
     "category": "rules",
     "question": "When approaching a school zone, you must:",
     "options": [
@@ -2452,7 +2065,7 @@
     "answer": "Obey the posted speed limit and times"
   },
   {
-    "id": 208,
+    "id": 170,
     "category": "rules",
     "question": "You must not park within ____ of a railway crossing.",
     "options": [
@@ -2464,7 +2077,7 @@
     "answer": "15 metres"
   },
   {
-    "id": 209,
+    "id": 171,
     "category": "rules",
     "question": "When driving behind a large truck, you should:",
     "options": [
@@ -2476,7 +2089,7 @@
     "answer": "Stay far enough back to see the truck’s mirrors"
   },
   {
-    "id": 210,
+    "id": 172,
     "category": "rules",
     "question": "If you are on a two-way road and passing is prohibited, the center line will be:",
     "options": [
@@ -2488,7 +2101,7 @@
     "answer": "Solid yellow"
   },
   {
-    "id": 211,
+    "id": 173,
     "category": "rules",
     "question": "At an intersection with a stop sign, you must yield to:",
     "options": [
@@ -2500,7 +2113,7 @@
     "answer": "Traffic on the through road and pedestrians"
   },
   {
-    "id": 213,
+    "id": 174,
     "category": "rules",
     "question": "When two vehicles arrive at an uncontrolled intersection at the same time, the driver on the left must:",
     "options": [
@@ -2512,7 +2125,7 @@
     "answer": "Yield to the driver on the right"
   },
   {
-    "id": 215,
+    "id": 175,
     "category": "rules",
     "question": "When approaching a hill, you should not pass another vehicle if:",
     "options": [
@@ -2524,7 +2137,7 @@
     "answer": "You cannot see far enough ahead"
   },
   {
-    "id": 216,
+    "id": 176,
     "category": "rules",
     "question": "If you are being passed, you should:",
     "options": [
@@ -2536,7 +2149,7 @@
     "answer": "Stay in your lane and maintain speed"
   },
   {
-    "id": 218,
+    "id": 177,
     "category": "rules",
     "question": "When you hear a siren, you should:",
     "options": [
@@ -2548,7 +2161,7 @@
     "answer": "Check mirrors and move safely to the right"
   },
   {
-    "id": 219,
+    "id": 178,
     "category": "rules",
     "question": "If a traffic light turns yellow as you approach the intersection, you should:",
     "options": [
@@ -2560,7 +2173,7 @@
     "answer": "Stop if you can do so safely"
   },
   {
-    "id": 220,
+    "id": 179,
     "category": "rules",
     "question": "When driving through a work zone, you should:",
     "options": [
@@ -2572,397 +2185,7 @@
     "answer": "Obey reduced speed limits and be alert"
   },
   {
-    "id": 221,
-    "category": "road_signs",
-    "question": "A red sign that says WRONG WAY means:",
-    "image": "assets/images/sign-096.jpg",
-    "options": [
-      "You are driving in the wrong direction",
-      "You may proceed",
-      "Two-way traffic ahead",
-      "Stop only if traffic"
-    ],
-    "answer": "You are driving in the wrong direction"
-  },
-  {
-    "id": 222,
-    "category": "road_signs",
-    "question": "A sign saying NO RIGHT TURN ON RED means:",
-    "image": "assets/images/sign-097.jpg",
-    "options": [
-      "Right turns are prohibited when the light is red",
-      "Right turn is required",
-      "Right turn is permitted without stopping",
-      "Right turns only"
-    ],
-    "answer": "Right turns are prohibited when the light is red"
-  },
-  {
-    "id": 223,
-    "category": "road_signs",
-    "question": "A MINIMUM speed sign means:",
-    "image": "assets/images/sign-098.jpg",
-    "options": [
-      "Do not drive slower than the posted speed",
-      "Maximum speed permitted",
-      "Advisory speed only",
-      "School zone speed"
-    ],
-    "answer": "Do not drive slower than the posted speed"
-  },
-  {
-    "id": 224,
-    "category": "road_signs",
-    "question": "A SPEED LIMIT ENDS sign means:",
-    "image": "assets/images/sign-099.jpg",
-    "options": [
-      "End of the posted speed limit",
-      "New lower speed limit begins",
-      "Maximum speed applies",
-      "Minimum speed applies"
-    ],
-    "answer": "End of the posted speed limit"
-  },
-  {
-    "id": 225,
-    "category": "road_signs",
-    "question": "A SLOWER TRAFFIC KEEP RIGHT sign means:",
-    "image": "assets/images/sign-100.jpg",
-    "options": [
-      "Slower vehicles must stay in the right lane",
-      "Keep right only when turning",
-      "Right lane ends",
-      "No passing"
-    ],
-    "answer": "Slower vehicles must stay in the right lane"
-  },
-  {
-    "id": 226,
-    "category": "road_signs",
-    "question": "A PAVEMENT ENDS sign warns:",
-    "image": "assets/images/sign-101.jpg",
-    "options": [
-      "The paved surface ends ahead",
-      "Road narrows",
-      "Bridge ends",
-      "Construction zone"
-    ],
-    "answer": "The paved surface ends ahead"
-  },
-  {
-    "id": 227,
-    "category": "road_signs",
-    "question": "A FARM MACHINERY sign warns:",
-    "image": "assets/images/sign-102.jpg",
-    "options": [
-      "Farm vehicles may enter or cross",
-      "No farm vehicles",
-      "Truck route only",
-      "Construction zone"
-    ],
-    "answer": "Farm vehicles may enter or cross"
-  },
-  {
-    "id": 228,
-    "category": "road_signs",
-    "question": "A SNOWMOBILE CROSSING sign warns:",
-    "image": "assets/images/sign-103.jpg",
-    "options": [
-      "Snowmobiles may cross the road",
-      "No snowmobiles",
-      "Snowmobile route ends",
-      "Chains required"
-    ],
-    "answer": "Snowmobiles may cross the road"
-  },
-  {
-    "id": 229,
-    "category": "road_signs",
-    "question": "A PLAYGROUND ZONE sign means:",
-    "image": "assets/images/sign-104.jpg",
-    "options": [
-      "Children may be present",
-      "School bus stop ahead",
-      "Pedestrian crossing only",
-      "No pedestrians"
-    ],
-    "answer": "Children may be present"
-  },
-  {
-    "id": 230,
-    "category": "road_signs",
-    "question": "A SCHOOL CROSSING sign means:",
-    "image": "assets/images/sign-105.jpg",
-    "options": [
-      "School crossing ahead",
-      "School bus stop only",
-      "Playground zone",
-      "No passing"
-    ],
-    "answer": "School crossing ahead"
-  },
-  {
-    "id": 231,
-    "category": "road_signs",
-    "question": "A blue sign with an H indicates:",
-    "image": "assets/images/sign-106.jpg",
-    "options": [
-      "Hospital nearby",
-      "Hotel",
-      "Helipad only",
-      "Highway exit"
-    ],
-    "answer": "Hospital nearby"
-  },
-  {
-    "id": 232,
-    "category": "road_signs",
-    "question": "A blue sign showing GAS/FOOD/LODGING means:",
-    "image": "assets/images/sign-107.jpg",
-    "options": [
-      "Services available",
-      "Tourist route",
-      "Detour",
-      "Parking only"
-    ],
-    "answer": "Services available"
-  },
-  {
-    "id": 233,
-    "category": "road_signs",
-    "question": "A blue REST AREA sign means:",
-    "image": "assets/images/sign-108.jpg",
-    "options": [
-      "Rest area ahead",
-      "Hospital ahead",
-      "Camping only",
-      "Road closed"
-    ],
-    "answer": "Rest area ahead"
-  },
-  {
-    "id": 234,
-    "category": "road_signs",
-    "question": "A blue AIRPORT sign indicates:",
-    "image": "assets/images/sign-109.jpg",
-    "options": [
-      "Airport nearby",
-      "Bus terminal",
-      "Parking only",
-      "Hospital"
-    ],
-    "answer": "Airport nearby"
-  },
-  {
-    "id": 235,
-    "category": "road_signs",
-    "question": "A SCENIC VIEW sign indicates:",
-    "image": "assets/images/sign-110.jpg",
-    "options": [
-      "Scenic view or attraction",
-      "Detour",
-      "Construction zone",
-      "No entry"
-    ],
-    "answer": "Scenic view or attraction"
-  },
-  {
-    "id": 236,
-    "category": "road_signs",
-    "question": "A green P sign means:",
-    "image": "assets/images/sign-111.jpg",
-    "options": [
-      "Parking is permitted",
-      "No parking",
-      "No stopping",
-      "Loading only"
-    ],
-    "answer": "Parking is permitted"
-  },
-  {
-    "id": 237,
-    "category": "road_signs",
-    "question": "A disabled parking sign means:",
-    "image": "assets/images/sign-112.jpg",
-    "options": [
-      "Parking reserved for persons with disabilities",
-      "Parking permitted for all",
-      "No parking",
-      "Loading only"
-    ],
-    "answer": "Parking reserved for persons with disabilities"
-  },
-  {
-    "id": 238,
-    "category": "road_signs",
-    "question": "A NO VEHICLES sign means:",
-    "image": "assets/images/sign-113.jpg",
-    "options": [
-      "No motor vehicles allowed",
-      "Bicycles only",
-      "Trucks only",
-      "One-way traffic"
-    ],
-    "answer": "No motor vehicles allowed"
-  },
-  {
-    "id": 239,
-    "category": "road_signs",
-    "question": "A NO MOTORCYCLES sign means:",
-    "image": "assets/images/sign-114.jpg",
-    "options": [
-      "Motorcycles are prohibited",
-      "Motorcycles only",
-      "Bicycles only",
-      "No trucks"
-    ],
-    "answer": "Motorcycles are prohibited"
-  },
-  {
-    "id": 240,
-    "category": "road_signs",
-    "question": "A TRUCK ROUTE sign means:",
-    "image": "assets/images/sign-115.jpg",
-    "options": [
-      "Designated route for trucks",
-      "No trucks",
-      "Truck lane ends",
-      "Weigh station"
-    ],
-    "answer": "Designated route for trucks"
-  },
-  {
-    "id": 241,
-    "category": "road_signs",
-    "question": "A BICYCLE ROUTE sign means:",
-    "image": "assets/images/sign-116.jpg",
-    "options": [
-      "Designated bicycle route",
-      "Bicycles prohibited",
-      "Bike lane ends",
-      "Cyclists must dismount"
-    ],
-    "answer": "Designated bicycle route"
-  },
-  {
-    "id": 242,
-    "category": "road_signs",
-    "question": "A SNOWMOBILE ROUTE sign means:",
-    "image": "assets/images/sign-117.jpg",
-    "options": [
-      "Designated snowmobile route",
-      "Snowmobiles prohibited",
-      "Snowmobile crossing only",
-      "Chains required"
-    ],
-    "answer": "Designated snowmobile route"
-  },
-  {
-    "id": 243,
-    "category": "road_signs",
-    "question": "A MOOSE CROSSING sign warns:",
-    "image": "assets/images/sign-118.jpg",
-    "options": [
-      "Moose may cross the road",
-      "Zoo ahead",
-      "Farm vehicles only",
-      "No animals"
-    ],
-    "answer": "Moose may cross the road"
-  },
-  {
-    "id": 244,
-    "category": "road_signs",
-    "question": "An END ROAD WORK sign means:",
-    "image": "assets/images/sign-119.jpg",
-    "options": [
-      "Construction zone has ended",
-      "Road closed",
-      "Detour begins",
-      "Lane closed"
-    ],
-    "answer": "Construction zone has ended"
-  },
-  {
-    "id": 245,
-    "category": "road_signs",
-    "question": "An END DETOUR sign means:",
-    "image": "assets/images/sign-120.jpg",
-    "options": [
-      "Detour has ended",
-      "Detour begins",
-      "Road closed",
-      "One-way traffic"
-    ],
-    "answer": "Detour has ended"
-  },
-  {
-    "id": 246,
-    "category": "road_signs",
-    "question": "A STOP HERE ON RED sign means:",
-    "image": "assets/images/sign-121.jpg",
-    "options": [
-      "Stop at the sign when the light is red",
-      "Stop only if pedestrians",
-      "Proceed without stopping",
-      "Right turn only"
-    ],
-    "answer": "Stop at the sign when the light is red"
-  },
-  {
-    "id": 247,
-    "category": "road_signs",
-    "question": "A RESERVED LANE (HOV) sign means:",
-    "image": "assets/images/sign-122.jpg",
-    "options": [
-      "Lane is reserved for authorized vehicles",
-      "Lane ends ahead",
-      "Passing only",
-      "No vehicles"
-    ],
-    "answer": "Lane is reserved for authorized vehicles"
-  },
-  {
-    "id": 248,
-    "category": "road_signs",
-    "question": "A LANE CONTROL sign indicates:",
-    "image": "assets/images/sign-123.jpg",
-    "options": [
-      "Lane use signals will show open/closed lanes",
-      "No passing",
-      "Road ends",
-      "Detour"
-    ],
-    "answer": "Lane use signals will show open/closed lanes"
-  },
-  {
-    "id": 249,
-    "category": "road_signs",
-    "question": "A NO TURNS sign means:",
-    "image": "assets/images/sign-124.jpg",
-    "options": [
-      "No left or right turns",
-      "Left turn only",
-      "Right turn only",
-      "U-turn permitted"
-    ],
-    "answer": "No left or right turns"
-  },
-  {
-    "id": 250,
-    "category": "road_signs",
-    "question": "A PASSING PERMITTED sign means:",
-    "image": "assets/images/sign-125.jpg",
-    "options": [
-      "Passing is allowed when safe",
-      "No passing",
-      "Passing allowed only for trucks",
-      "Passing allowed only at night"
-    ],
-    "answer": "Passing is allowed when safe"
-  },
-  {
-    "id": 251,
+    "id": 180,
     "category": "rules",
     "question": "You must not enter an intersection unless:",
     "options": [
@@ -2974,7 +2197,7 @@
     "answer": "You can clear it completely"
   },
   {
-    "id": 252,
+    "id": 181,
     "category": "rules",
     "question": "Changing lanes in an intersection is:",
     "options": [
@@ -2986,7 +2209,7 @@
     "answer": "Unsafe and should be avoided"
   },
   {
-    "id": 253,
+    "id": 182,
     "category": "rules",
     "question": "When turning right, you should:",
     "options": [
@@ -2998,7 +2221,7 @@
     "answer": "Turn into the right lane"
   },
   {
-    "id": 254,
+    "id": 183,
     "category": "rules",
     "question": "When turning left from a two-way road onto a two-way road, you should:",
     "options": [
@@ -3010,7 +2233,7 @@
     "answer": "Turn into the left lane"
   },
   {
-    "id": 255,
+    "id": 184,
     "category": "rules",
     "question": "When turning right at a green light, you must:",
     "options": [
@@ -3022,7 +2245,7 @@
     "answer": "Yield to pedestrians and cyclists"
   },
   {
-    "id": 256,
+    "id": 185,
     "category": "rules",
     "question": "Before leaving a parking space, you should:",
     "options": [
@@ -3034,7 +2257,7 @@
     "answer": "Signal and check for traffic"
   },
   {
-    "id": 257,
+    "id": 186,
     "category": "rules",
     "question": "On a multi-lane highway, you should:",
     "options": [
@@ -3046,7 +2269,7 @@
     "answer": "Keep right except to pass"
   },
   {
-    "id": 258,
+    "id": 187,
     "category": "rules",
     "question": "If a lane is marked for turning only, you must:",
     "options": [
@@ -3058,7 +2281,7 @@
     "answer": "Turn in the direction of the arrow"
   },
   {
-    "id": 259,
+    "id": 188,
     "category": "rules",
     "question": "A G1 driver must be accompanied by:",
     "options": [
@@ -3070,7 +2293,7 @@
     "answer": "A fully licensed driver in the front seat"
   },
   {
-    "id": 261,
+    "id": 189,
     "category": "rules",
     "question": "A G1 driver must not drive between:",
     "options": [
@@ -3082,7 +2305,7 @@
     "answer": "Midnight and 5 a.m."
   },
   {
-    "id": 263,
+    "id": 190,
     "category": "rules",
     "question": "If your vehicle stalls on railway tracks, you should:",
     "options": [
@@ -3094,7 +2317,7 @@
     "answer": "Leave the vehicle and move away from the tracks"
   },
   {
-    "id": 264,
+    "id": 191,
     "category": "rules",
     "question": "You must not stop or park:",
     "options": [
@@ -3106,7 +2329,7 @@
     "answer": "On railway tracks or within the crossing"
   },
   {
-    "id": 266,
+    "id": 192,
     "category": "rules",
     "question": "When passing another vehicle, you should return to your lane when:",
     "options": [
@@ -3118,7 +2341,7 @@
     "answer": "You can see the passed vehicle in your rearview mirror"
   },
   {
-    "id": 269,
+    "id": 193,
     "category": "rules",
     "question": "If the intersection is blocked, you should:",
     "options": [
@@ -3130,7 +2353,7 @@
     "answer": "Wait until you can clear it"
   },
   {
-    "id": 270,
+    "id": 194,
     "category": "rules",
     "question": "Using a handheld device while driving is:",
     "options": [
@@ -3142,7 +2365,7 @@
     "answer": "Illegal"
   },
   {
-    "id": 274,
+    "id": 195,
     "category": "rules",
     "question": "At an unmarked crosswalk, you must:",
     "options": [
@@ -3154,7 +2377,7 @@
     "answer": "Yield to pedestrians"
   },
   {
-    "id": 276,
+    "id": 196,
     "category": "rules",
     "question": "If a transit bus signals to re-enter traffic from a bus bay, you should:",
     "options": [
@@ -3166,7 +2389,7 @@
     "answer": "Yield to the bus"
   },
   {
-    "id": 277,
+    "id": 197,
     "category": "rules",
     "question": "On a two-way road, you should:",
     "options": [
@@ -3178,7 +2401,7 @@
     "answer": "Keep to the right side of your lane"
   },
   {
-    "id": 278,
+    "id": 198,
     "category": "rules",
     "question": "At a 4-way stop, if two vehicles arrive at the same time, the driver on the left must:",
     "options": [
@@ -3190,787 +2413,7 @@
     "answer": "Yield to the driver on the right"
   },
   {
-    "id": 281,
-    "category": "road_signs",
-    "question": "A WRONG WAY sign means:",
-    "image": "assets/images/sign-126.jpg",
-    "options": [
-      "You are going in the wrong direction",
-      "Road closed ahead",
-      "Two-way traffic",
-      "Stop only if traffic"
-    ],
-    "answer": "You are going in the wrong direction"
-  },
-  {
-    "id": 282,
-    "category": "road_signs",
-    "question": "A NO RIGHT TURN ON RED sign means:",
-    "image": "assets/images/sign-127.jpg",
-    "options": [
-      "Right turns are prohibited when the light is red",
-      "Right turn is mandatory",
-      "Right turn is permitted without stopping",
-      "Right turns only"
-    ],
-    "answer": "Right turns are prohibited when the light is red"
-  },
-  {
-    "id": 283,
-    "category": "road_signs",
-    "question": "A MINIMUM speed sign indicates:",
-    "image": "assets/images/sign-128.jpg",
-    "options": [
-      "You must not drive below the posted speed",
-      "Maximum speed limit",
-      "Advisory speed",
-      "School zone speed"
-    ],
-    "answer": "You must not drive below the posted speed"
-  },
-  {
-    "id": 284,
-    "category": "road_signs",
-    "question": "A SPEED LIMIT ENDS sign indicates:",
-    "image": "assets/images/sign-129.jpg",
-    "options": [
-      "End of the posted speed limit",
-      "New lower limit begins",
-      "Maximum speed applies",
-      "Minimum speed applies"
-    ],
-    "answer": "End of the posted speed limit"
-  },
-  {
-    "id": 285,
-    "category": "road_signs",
-    "question": "A SLOWER TRAFFIC KEEP RIGHT sign means:",
-    "image": "assets/images/sign-130.jpg",
-    "options": [
-      "Slower vehicles must keep right",
-      "Right lane ends",
-      "No passing",
-      "Right turn only"
-    ],
-    "answer": "Slower vehicles must keep right"
-  },
-  {
-    "id": 286,
-    "category": "road_signs",
-    "question": "A PAVEMENT ENDS sign warns:",
-    "image": "assets/images/sign-131.jpg",
-    "options": [
-      "The paved surface ends ahead",
-      "Bridge ends",
-      "Road narrows",
-      "Construction zone"
-    ],
-    "answer": "The paved surface ends ahead"
-  },
-  {
-    "id": 287,
-    "category": "road_signs",
-    "question": "A FARM MACHINERY sign indicates:",
-    "image": "assets/images/sign-132.jpg",
-    "options": [
-      "Farm vehicles may enter or cross",
-      "No farm vehicles",
-      "Truck route only",
-      "Construction zone"
-    ],
-    "answer": "Farm vehicles may enter or cross"
-  },
-  {
-    "id": 288,
-    "category": "road_signs",
-    "question": "A SNOWMOBILE CROSSING sign warns:",
-    "image": "assets/images/sign-133.jpg",
-    "options": [
-      "Snowmobiles may cross the road",
-      "Snowmobiles prohibited",
-      "Snowmobile route ends",
-      "Chains required"
-    ],
-    "answer": "Snowmobiles may cross the road"
-  },
-  {
-    "id": 289,
-    "category": "road_signs",
-    "question": "A PLAYGROUND ZONE sign means:",
-    "image": "assets/images/sign-134.jpg",
-    "options": [
-      "Children may be present",
-      "School bus stop ahead",
-      "Pedestrian crossing only",
-      "No pedestrians"
-    ],
-    "answer": "Children may be present"
-  },
-  {
-    "id": 290,
-    "category": "road_signs",
-    "question": "A SCHOOL CROSSING sign means:",
-    "image": "assets/images/sign-135.jpg",
-    "options": [
-      "School crossing ahead",
-      "School zone ends",
-      "Playground only",
-      "No passing"
-    ],
-    "answer": "School crossing ahead"
-  },
-  {
-    "id": 291,
-    "category": "road_signs",
-    "question": "A blue H sign indicates:",
-    "image": "assets/images/sign-136.jpg",
-    "options": [
-      "Hospital nearby",
-      "Hotel",
-      "Helipad only",
-      "Highway exit"
-    ],
-    "answer": "Hospital nearby"
-  },
-  {
-    "id": 292,
-    "category": "road_signs",
-    "question": "A blue GAS/FOOD/LODGING sign means:",
-    "image": "assets/images/sign-137.jpg",
-    "options": [
-      "Services available",
-      "Tourist route",
-      "Detour",
-      "Parking only"
-    ],
-    "answer": "Services available"
-  },
-  {
-    "id": 293,
-    "category": "road_signs",
-    "question": "A REST AREA sign means:",
-    "image": "assets/images/sign-108.jpg",
-    "options": [
-      "Rest area ahead",
-      "Hospital ahead",
-      "Camping only",
-      "Road closed"
-    ],
-    "answer": "Rest area ahead"
-  },
-  {
-    "id": 294,
-    "category": "road_signs",
-    "question": "A blue AIRPORT sign indicates:",
-    "image": "assets/images/sign-109.jpg",
-    "options": [
-      "Airport nearby",
-      "Bus terminal",
-      "Parking only",
-      "Hospital"
-    ],
-    "answer": "Airport nearby"
-  },
-  {
-    "id": 295,
-    "category": "road_signs",
-    "question": "A SCENIC VIEW sign indicates:",
-    "image": "assets/images/sign-110.jpg",
-    "options": [
-      "Scenic view or attraction",
-      "Detour",
-      "Construction zone",
-      "No entry"
-    ],
-    "answer": "Scenic view or attraction"
-  },
-  {
-    "id": 296,
-    "category": "road_signs",
-    "question": "A green P sign means:",
-    "image": "assets/images/sign-111.jpg",
-    "options": [
-      "Parking is permitted",
-      "No parking",
-      "No stopping",
-      "Loading only"
-    ],
-    "answer": "Parking is permitted"
-  },
-  {
-    "id": 297,
-    "category": "road_signs",
-    "question": "A disabled parking sign indicates:",
-    "image": "assets/images/sign-112.jpg",
-    "options": [
-      "Parking reserved for persons with disabilities",
-      "Parking permitted for all",
-      "No parking",
-      "Loading only"
-    ],
-    "answer": "Parking reserved for persons with disabilities"
-  },
-  {
-    "id": 298,
-    "category": "road_signs",
-    "question": "A NO VEHICLES sign means:",
-    "image": "assets/images/sign-113.jpg",
-    "options": [
-      "No motor vehicles allowed",
-      "Bicycles only",
-      "Trucks only",
-      "One-way traffic"
-    ],
-    "answer": "No motor vehicles allowed"
-  },
-  {
-    "id": 299,
-    "category": "road_signs",
-    "question": "A NO MOTORCYCLES sign means:",
-    "image": "assets/images/sign-138.jpg",
-    "options": [
-      "Motorcycles are prohibited",
-      "Motorcycles only",
-      "Bicycles only",
-      "No trucks"
-    ],
-    "answer": "Motorcycles are prohibited"
-  },
-  {
-    "id": 300,
-    "category": "road_signs",
-    "question": "A TRUCK ROUTE sign indicates:",
-    "image": "assets/images/sign-139.jpg",
-    "options": [
-      "Designated route for trucks",
-      "No trucks",
-      "Truck lane ends",
-      "Weigh station"
-    ],
-    "answer": "Designated route for trucks"
-  },
-  {
-    "id": 301,
-    "category": "road_signs",
-    "question": "A BICYCLE ROUTE sign indicates:",
-    "image": "assets/images/sign-140.jpg",
-    "options": [
-      "Designated bicycle route",
-      "Bicycles prohibited",
-      "Bike lane ends",
-      "Cyclists must dismount"
-    ],
-    "answer": "Designated bicycle route"
-  },
-  {
-    "id": 302,
-    "category": "road_signs",
-    "question": "A SNOWMOBILE ROUTE sign indicates:",
-    "image": "assets/images/sign-141.jpg",
-    "options": [
-      "Designated snowmobile route",
-      "Snowmobiles prohibited",
-      "Snowmobile crossing only",
-      "Chains required"
-    ],
-    "answer": "Designated snowmobile route"
-  },
-  {
-    "id": 303,
-    "category": "road_signs",
-    "question": "A MOOSE CROSSING sign warns:",
-    "image": "assets/images/sign-142.jpg",
-    "options": [
-      "Moose may cross the road",
-      "Zoo ahead",
-      "Farm vehicles only",
-      "No animals"
-    ],
-    "answer": "Moose may cross the road"
-  },
-  {
-    "id": 304,
-    "category": "road_signs",
-    "question": "An END ROAD WORK sign means:",
-    "image": "assets/images/sign-143.jpg",
-    "options": [
-      "Construction zone has ended",
-      "Road closed",
-      "Detour begins",
-      "Lane closed"
-    ],
-    "answer": "Construction zone has ended"
-  },
-  {
-    "id": 305,
-    "category": "road_signs",
-    "question": "An END DETOUR sign means:",
-    "image": "assets/images/sign-144.jpg",
-    "options": [
-      "Detour has ended",
-      "Detour begins",
-      "Road closed",
-      "One-way traffic"
-    ],
-    "answer": "Detour has ended"
-  },
-  {
-    "id": 306,
-    "category": "road_signs",
-    "question": "A STOP HERE ON RED sign means:",
-    "image": "assets/images/sign-145.jpg",
-    "options": [
-      "Stop at the sign when the light is red",
-      "Stop only if pedestrians",
-      "Proceed without stopping",
-      "Right turn only"
-    ],
-    "answer": "Stop at the sign when the light is red"
-  },
-  {
-    "id": 307,
-    "category": "road_signs",
-    "question": "A RESERVED LANE (HOV) sign means:",
-    "image": "assets/images/sign-146.jpg",
-    "options": [
-      "Lane is reserved for authorized vehicles",
-      "Lane ends ahead",
-      "Passing only",
-      "No vehicles"
-    ],
-    "answer": "Lane is reserved for authorized vehicles"
-  },
-  {
-    "id": 308,
-    "category": "road_signs",
-    "question": "A LANE CONTROL sign indicates:",
-    "image": "assets/images/sign-147.jpg",
-    "options": [
-      "Lane use signals will show open/closed lanes",
-      "No passing",
-      "Road ends",
-      "Detour"
-    ],
-    "answer": "Lane use signals will show open/closed lanes"
-  },
-  {
-    "id": 309,
-    "category": "road_signs",
-    "question": "A NO TURNS sign means:",
-    "image": "assets/images/sign-148.jpg",
-    "options": [
-      "No left or right turns",
-      "Left turn only",
-      "Right turn only",
-      "U-turn permitted"
-    ],
-    "answer": "No left or right turns"
-  },
-  {
-    "id": 310,
-    "category": "road_signs",
-    "question": "A PASSING PERMITTED sign means:",
-    "image": "assets/images/sign-039.jpg",
-    "options": [
-      "Passing is allowed when safe",
-      "No passing",
-      "Passing allowed only for trucks",
-      "Passing allowed only at night"
-    ],
-    "answer": "Passing is allowed when safe"
-  },
-  {
-    "id": 341,
-    "category": "road_signs",
-    "question": "A WRONG WAY sign tells you:",
-    "image": "assets/images/sign-149.jpg",
-    "options": [
-      "You are going in the wrong direction",
-      "You may proceed",
-      "Two-way traffic ahead",
-      "Stop only if traffic"
-    ],
-    "answer": "You are going in the wrong direction"
-  },
-  {
-    "id": 342,
-    "category": "road_signs",
-    "question": "A NO RIGHT TURN ON RED sign means:",
-    "image": "assets/images/sign-150.jpg",
-    "options": [
-      "Right turns are prohibited on a red light",
-      "Right turn is required",
-      "Right turns allowed without stopping",
-      "Right turns only"
-    ],
-    "answer": "Right turns are prohibited on a red light"
-  },
-  {
-    "id": 343,
-    "category": "road_signs",
-    "question": "A MINIMUM speed sign indicates:",
-    "image": "assets/images/sign-151.jpg",
-    "options": [
-      "Do not drive below the posted speed",
-      "Maximum speed limit",
-      "Advisory speed only",
-      "School zone speed"
-    ],
-    "answer": "Do not drive below the posted speed"
-  },
-  {
-    "id": 344,
-    "category": "road_signs",
-    "question": "A SPEED LIMIT ENDS sign indicates:",
-    "image": "assets/images/sign-152.jpg",
-    "options": [
-      "End of the posted speed limit",
-      "New lower limit begins",
-      "Maximum speed applies",
-      "Minimum speed applies"
-    ],
-    "answer": "End of the posted speed limit"
-  },
-  {
-    "id": 345,
-    "category": "road_signs",
-    "question": "A SLOWER TRAFFIC KEEP RIGHT sign means:",
-    "image": "assets/images/sign-153.jpg",
-    "options": [
-      "Slower vehicles must keep right",
-      "Right lane ends",
-      "No passing",
-      "Right turn only"
-    ],
-    "answer": "Slower vehicles must keep right"
-  },
-  {
-    "id": 346,
-    "category": "road_signs",
-    "question": "A PAVEMENT ENDS sign warns:",
-    "image": "assets/images/sign-154.jpg",
-    "options": [
-      "The paved surface ends ahead",
-      "Bridge ends",
-      "Road narrows",
-      "Construction zone"
-    ],
-    "answer": "The paved surface ends ahead"
-  },
-  {
-    "id": 347,
-    "category": "road_signs",
-    "question": "A FARM MACHINERY sign warns:",
-    "image": "assets/images/sign-155.jpg",
-    "options": [
-      "Farm vehicles may enter or cross",
-      "No farm vehicles",
-      "Truck route only",
-      "Construction zone"
-    ],
-    "answer": "Farm vehicles may enter or cross"
-  },
-  {
-    "id": 348,
-    "category": "road_signs",
-    "question": "A SNOWMOBILE CROSSING sign means:",
-    "image": "assets/images/sign-156.jpg",
-    "options": [
-      "Snowmobiles may cross the road",
-      "Snowmobiles prohibited",
-      "Snowmobile route ends",
-      "Chains required"
-    ],
-    "answer": "Snowmobiles may cross the road"
-  },
-  {
-    "id": 349,
-    "category": "road_signs",
-    "question": "A PLAYGROUND ZONE sign means:",
-    "image": "assets/images/sign-134.jpg",
-    "options": [
-      "Children may be present",
-      "School bus stop ahead",
-      "Pedestrian crossing only",
-      "No pedestrians"
-    ],
-    "answer": "Children may be present"
-  },
-  {
-    "id": 350,
-    "category": "road_signs",
-    "question": "A SCHOOL CROSSING sign means:",
-    "image": "assets/images/sign-135.jpg",
-    "options": [
-      "School crossing ahead",
-      "School zone ends",
-      "Playground only",
-      "No passing"
-    ],
-    "answer": "School crossing ahead"
-  },
-  {
-    "id": 351,
-    "category": "road_signs",
-    "question": "A blue H sign indicates:",
-    "image": "assets/images/sign-136.jpg",
-    "options": [
-      "Hospital nearby",
-      "Hotel",
-      "Helipad only",
-      "Highway exit"
-    ],
-    "answer": "Hospital nearby"
-  },
-  {
-    "id": 352,
-    "category": "road_signs",
-    "question": "A blue GAS/FOOD/LODGING sign indicates:",
-    "image": "assets/images/sign-137.jpg",
-    "options": [
-      "Services available",
-      "Tourist route",
-      "Detour",
-      "Parking only"
-    ],
-    "answer": "Services available"
-  },
-  {
-    "id": 353,
-    "category": "road_signs",
-    "question": "A REST AREA sign means:",
-    "image": "assets/images/sign-108.jpg",
-    "options": [
-      "Rest area ahead",
-      "Hospital ahead",
-      "Camping only",
-      "Road closed"
-    ],
-    "answer": "Rest area ahead"
-  },
-  {
-    "id": 354,
-    "category": "road_signs",
-    "question": "A blue AIRPORT sign indicates:",
-    "image": "assets/images/sign-109.jpg",
-    "options": [
-      "Airport nearby",
-      "Bus terminal",
-      "Parking only",
-      "Hospital"
-    ],
-    "answer": "Airport nearby"
-  },
-  {
-    "id": 355,
-    "category": "road_signs",
-    "question": "A SCENIC VIEW sign indicates:",
-    "image": "assets/images/sign-110.jpg",
-    "options": [
-      "Scenic view or attraction",
-      "Detour",
-      "Construction zone",
-      "No entry"
-    ],
-    "answer": "Scenic view or attraction"
-  },
-  {
-    "id": 356,
-    "category": "road_signs",
-    "question": "A green P sign means:",
-    "image": "assets/images/sign-111.jpg",
-    "options": [
-      "Parking is permitted",
-      "No parking",
-      "No stopping",
-      "Loading only"
-    ],
-    "answer": "Parking is permitted"
-  },
-  {
-    "id": 357,
-    "category": "road_signs",
-    "question": "A disabled parking sign indicates:",
-    "image": "assets/images/sign-112.jpg",
-    "options": [
-      "Parking reserved for persons with disabilities",
-      "Parking permitted for all",
-      "No parking",
-      "Loading only"
-    ],
-    "answer": "Parking reserved for persons with disabilities"
-  },
-  {
-    "id": 358,
-    "category": "road_signs",
-    "question": "A NO VEHICLES sign means:",
-    "image": "assets/images/sign-113.jpg",
-    "options": [
-      "No motor vehicles allowed",
-      "Bicycles only",
-      "Trucks only",
-      "One-way traffic"
-    ],
-    "answer": "No motor vehicles allowed"
-  },
-  {
-    "id": 359,
-    "category": "road_signs",
-    "question": "A NO MOTORCYCLES sign means:",
-    "image": "assets/images/sign-138.jpg",
-    "options": [
-      "Motorcycles are prohibited",
-      "Motorcycles only",
-      "Bicycles only",
-      "No trucks"
-    ],
-    "answer": "Motorcycles are prohibited"
-  },
-  {
-    "id": 360,
-    "category": "road_signs",
-    "question": "A TRUCK ROUTE sign indicates:",
-    "image": "assets/images/sign-139.jpg",
-    "options": [
-      "Designated route for trucks",
-      "No trucks",
-      "Truck lane ends",
-      "Weigh station"
-    ],
-    "answer": "Designated route for trucks"
-  },
-  {
-    "id": 361,
-    "category": "road_signs",
-    "question": "A BICYCLE ROUTE sign indicates:",
-    "image": "assets/images/sign-140.jpg",
-    "options": [
-      "Designated bicycle route",
-      "Bicycles prohibited",
-      "Bike lane ends",
-      "Cyclists must dismount"
-    ],
-    "answer": "Designated bicycle route"
-  },
-  {
-    "id": 362,
-    "category": "road_signs",
-    "question": "A SNOWMOBILE ROUTE sign indicates:",
-    "image": "assets/images/sign-141.jpg",
-    "options": [
-      "Designated snowmobile route",
-      "Snowmobiles prohibited",
-      "Snowmobile crossing only",
-      "Chains required"
-    ],
-    "answer": "Designated snowmobile route"
-  },
-  {
-    "id": 363,
-    "category": "road_signs",
-    "question": "A MOOSE CROSSING sign warns:",
-    "image": "assets/images/sign-142.jpg",
-    "options": [
-      "Moose may cross the road",
-      "Zoo ahead",
-      "Farm vehicles only",
-      "No animals"
-    ],
-    "answer": "Moose may cross the road"
-  },
-  {
-    "id": 364,
-    "category": "road_signs",
-    "question": "An END ROAD WORK sign means:",
-    "image": "assets/images/sign-143.jpg",
-    "options": [
-      "Construction zone has ended",
-      "Road closed",
-      "Detour begins",
-      "Lane closed"
-    ],
-    "answer": "Construction zone has ended"
-  },
-  {
-    "id": 365,
-    "category": "road_signs",
-    "question": "An END DETOUR sign means:",
-    "image": "assets/images/sign-144.jpg",
-    "options": [
-      "Detour has ended",
-      "Detour begins",
-      "Road closed",
-      "One-way traffic"
-    ],
-    "answer": "Detour has ended"
-  },
-  {
-    "id": 366,
-    "category": "road_signs",
-    "question": "A STOP HERE ON RED sign means:",
-    "image": "assets/images/sign-145.jpg",
-    "options": [
-      "Stop at the sign when the light is red",
-      "Stop only if pedestrians",
-      "Proceed without stopping",
-      "Right turn only"
-    ],
-    "answer": "Stop at the sign when the light is red"
-  },
-  {
-    "id": 367,
-    "category": "road_signs",
-    "question": "A RESERVED LANE (HOV) sign means:",
-    "image": "assets/images/sign-146.jpg",
-    "options": [
-      "Lane is reserved for authorized vehicles",
-      "Lane ends ahead",
-      "Passing only",
-      "No vehicles"
-    ],
-    "answer": "Lane is reserved for authorized vehicles"
-  },
-  {
-    "id": 368,
-    "category": "road_signs",
-    "question": "A LANE CONTROL sign indicates:",
-    "image": "assets/images/sign-147.jpg",
-    "options": [
-      "Lane use signals will show open/closed lanes",
-      "No passing",
-      "Road ends",
-      "Detour"
-    ],
-    "answer": "Lane use signals will show open/closed lanes"
-  },
-  {
-    "id": 369,
-    "category": "road_signs",
-    "question": "A NO TURNS sign means:",
-    "image": "assets/images/sign-148.jpg",
-    "options": [
-      "No left or right turns",
-      "Left turn only",
-      "Right turn only",
-      "U-turn permitted"
-    ],
-    "answer": "No left or right turns"
-  },
-  {
-    "id": 370,
-    "category": "road_signs",
-    "question": "A PASSING PERMITTED sign means:",
-    "image": "assets/images/sign-039.jpg",
-    "options": [
-      "Passing is allowed when safe",
-      "No passing",
-      "Passing allowed only for trucks",
-      "Passing allowed only at night"
-    ],
-    "answer": "Passing is allowed when safe"
-  },
-  {
-    "id": 371,
+    "id": 199,
     "category": "rules",
     "question": "When a traffic light is red, you must stop:",
     "options": [
@@ -3982,7 +2425,7 @@
     "answer": "Before the stop line or crosswalk"
   },
   {
-    "id": 372,
+    "id": 200,
     "category": "rules",
     "question": "At a stop sign without a marked line, you must stop:",
     "options": [
@@ -3994,7 +2437,7 @@
     "answer": "At a point with a clear view of traffic"
   },
   {
-    "id": 373,
+    "id": 201,
     "category": "rules",
     "question": "When driving downhill with a curb, you should turn your wheels:",
     "options": [
@@ -4006,7 +2449,7 @@
     "answer": "Right, toward the curb"
   },
   {
-    "id": 374,
+    "id": 202,
     "category": "rules",
     "question": "When following another vehicle at night, you should use low beams when within:",
     "options": [
@@ -4018,7 +2461,7 @@
     "answer": "60 metres"
   },
   {
-    "id": 375,
+    "id": 203,
     "category": "rules",
     "question": "If visibility is less than 150 metres, you must use:",
     "options": [
@@ -4030,7 +2473,7 @@
     "answer": "Headlights"
   },
   {
-    "id": 381,
+    "id": 204,
     "category": "rules",
     "question": "When passing a cyclist, you must leave at least:",
     "options": [
@@ -4042,7 +2485,7 @@
     "answer": "1 metre of space"
   },
   {
-    "id": 391,
+    "id": 205,
     "category": "rules",
     "question": "When parking uphill without a curb, you should turn your wheels:",
     "options": [
@@ -4054,7 +2497,7 @@
     "answer": "Right, toward the shoulder"
   },
   {
-    "id": 397,
+    "id": 206,
     "category": "rules",
     "question": "In bad weather, you should:",
     "options": [
@@ -4066,397 +2509,7 @@
     "answer": "Increase following distance"
   },
   {
-    "id": 401,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-157.jpg",
-    "options": [
-      "Wrong way - do not enter",
-      "One way street",
-      "Road closed",
-      "Dead end ahead"
-    ],
-    "answer": "Wrong way - do not enter"
-  },
-  {
-    "id": 402,
-    "category": "road_signs",
-    "question": "What does this regulatory sign mean?",
-    "image": "assets/images/sign-158.jpg",
-    "options": [
-      "No right turn on red light",
-      "No turns allowed",
-      "Right turn only",
-      "Red light camera"
-    ],
-    "answer": "No right turn on red light"
-  },
-  {
-    "id": 403,
-    "category": "road_signs",
-    "question": "This sign shows:",
-    "image": "assets/images/sign-159.jpg",
-    "options": [
-      "Minimum speed limit",
-      "Maximum speed limit",
-      "Average speed",
-      "Speed trap ahead"
-    ],
-    "answer": "Minimum speed limit"
-  },
-  {
-    "id": 404,
-    "category": "road_signs",
-    "question": "What does this sign indicate?",
-    "image": "assets/images/sign-160.jpg",
-    "options": [
-      "Speed limit zone ends",
-      "Speed limit 80 km/h",
-      "Construction zone ends",
-      "School zone ends"
-    ],
-    "answer": "Speed limit zone ends"
-  },
-  {
-    "id": 405,
-    "category": "road_signs",
-    "question": "This sign means:",
-    "image": "assets/images/sign-161.jpg",
-    "options": [
-      "Slower traffic keep right",
-      "Right lane closed",
-      "Keep right of median",
-      "Right turn ahead"
-    ],
-    "answer": "Slower traffic keep right"
-  },
-  {
-    "id": 406,
-    "category": "road_signs",
-    "question": "This warning sign indicates:",
-    "image": "assets/images/sign-162.jpg",
-    "options": [
-      "Pavement ends",
-      "Road narrows",
-      "Gravel road",
-      "Construction ahead"
-    ],
-    "answer": "Pavement ends"
-  },
-  {
-    "id": 407,
-    "category": "road_signs",
-    "question": "What does this sign warn about?",
-    "image": "assets/images/sign-163.jpg",
-    "options": [
-      "Farm machinery crossing",
-      "Tractor parking",
-      "Agricultural area",
-      "Slow vehicles"
-    ],
-    "answer": "Farm machinery crossing"
-  },
-  {
-    "id": 408,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-164.jpg",
-    "options": [
-      "Snowmobile crossing",
-      "Winter recreation area",
-      "Ski resort ahead",
-      "Snow route"
-    ],
-    "answer": "Snowmobile crossing"
-  },
-  {
-    "id": 409,
-    "category": "road_signs",
-    "question": "What does this sign mean?",
-    "image": "assets/images/sign-165.jpg",
-    "options": [
-      "Playground zone ahead",
-      "School zone",
-      "Children playing",
-      "Park entrance"
-    ],
-    "answer": "Playground zone ahead"
-  },
-  {
-    "id": 410,
-    "category": "road_signs",
-    "question": "This sign warns of:",
-    "image": "assets/images/sign-135.jpg",
-    "options": [
-      "School crossing ahead",
-      "Pedestrian crossing",
-      "Playground area",
-      "Reduced speed zone"
-    ],
-    "answer": "School crossing ahead"
-  },
-  {
-    "id": 411,
-    "category": "road_signs",
-    "question": "This information sign indicates:",
-    "image": "assets/images/sign-136.jpg",
-    "options": [
-      "Hospital nearby",
-      "Medical clinic",
-      "First aid station",
-      "Emergency room"
-    ],
-    "answer": "Hospital nearby"
-  },
-  {
-    "id": 412,
-    "category": "road_signs",
-    "question": "What services does this sign indicate?",
-    "image": "assets/images/sign-166.jpg",
-    "options": [
-      "Gas, food, and lodging",
-      "Tourist information",
-      "Rest stop",
-      "Service station only"
-    ],
-    "answer": "Gas, food, and lodging"
-  },
-  {
-    "id": 413,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-108.jpg",
-    "options": [
-      "Rest area ahead",
-      "Parking area",
-      "Picnic site",
-      "Scenic lookout"
-    ],
-    "answer": "Rest area ahead"
-  },
-  {
-    "id": 414,
-    "category": "road_signs",
-    "question": "What does this information sign mean?",
-    "image": "assets/images/sign-109.jpg",
-    "options": [
-      "Airport nearby",
-      "Flight path overhead",
-      "Airshow area",
-      "Helicopter zone"
-    ],
-    "answer": "Airport nearby"
-  },
-  {
-    "id": 415,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-167.jpg",
-    "options": [
-      "Scenic viewpoint ahead",
-      "Photo opportunity",
-      "Lookout point",
-      "Tourist attraction"
-    ],
-    "answer": "Scenic viewpoint ahead"
-  },
-  {
-    "id": 416,
-    "category": "road_signs",
-    "question": "What does this sign mean?",
-    "image": "assets/images/sign-168.jpg",
-    "options": [
-      "Parking permitted",
-      "Parking lot ahead",
-      "Free parking",
-      "No parking restrictions"
-    ],
-    "answer": "Parking permitted"
-  },
-  {
-    "id": 417,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-169.jpg",
-    "options": [
-      "Accessible parking only",
-      "Hospital parking",
-      "Senior parking",
-      "Carpool parking"
-    ],
-    "answer": "Accessible parking only"
-  },
-  {
-    "id": 418,
-    "category": "road_signs",
-    "question": "What does this regulatory sign mean?",
-    "image": "assets/images/sign-170.jpg",
-    "options": [
-      "No vehicles allowed",
-      "Road closed",
-      "Authorized vehicles only",
-      "Pedestrian zone"
-    ],
-    "answer": "No vehicles allowed"
-  },
-  {
-    "id": 419,
-    "category": "road_signs",
-    "question": "This sign means:",
-    "image": "assets/images/sign-171.jpg",
-    "options": [
-      "No motorcycles allowed",
-      "Motorcycle parking",
-      "Motorcycle route",
-      "Bike lane ahead"
-    ],
-    "answer": "No motorcycles allowed"
-  },
-  {
-    "id": 420,
-    "category": "road_signs",
-    "question": "What does this sign indicate?",
-    "image": "assets/images/sign-172.jpg",
-    "options": [
-      "Designated truck route",
-      "Truck parking",
-      "No trucks",
-      "Truck weigh station"
-    ],
-    "answer": "Designated truck route"
-  },
-  {
-    "id": 421,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-173.jpg",
-    "options": [
-      "Bicycle route",
-      "Bike lane",
-      "Bike crossing",
-      "Bike rental"
-    ],
-    "answer": "Bicycle route"
-  },
-  {
-    "id": 422,
-    "category": "road_signs",
-    "question": "What does this sign mean?",
-    "image": "assets/images/sign-174.jpg",
-    "options": [
-      "Snowmobile route",
-      "Winter trail",
-      "Snow park",
-      "Ski trail"
-    ],
-    "answer": "Snowmobile route"
-  },
-  {
-    "id": 423,
-    "category": "road_signs",
-    "question": "This warning sign indicates:",
-    "image": "assets/images/sign-175.jpg",
-    "options": [
-      "Moose crossing area",
-      "Wildlife preserve",
-      "Hunting zone",
-      "Animal farm"
-    ],
-    "answer": "Moose crossing area"
-  },
-  {
-    "id": 424,
-    "category": "road_signs",
-    "question": "What does this sign mean?",
-    "image": "assets/images/sign-176.jpg",
-    "options": [
-      "End of road work zone",
-      "Construction ahead",
-      "Workers present",
-      "Detour ends"
-    ],
-    "answer": "End of road work zone"
-  },
-  {
-    "id": 425,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-177.jpg",
-    "options": [
-      "End of detour",
-      "Detour ahead",
-      "Return to highway",
-      "Normal route resumes"
-    ],
-    "answer": "End of detour"
-  },
-  {
-    "id": 426,
-    "category": "road_signs",
-    "question": "What does this sign mean?",
-    "image": "assets/images/sign-178.jpg",
-    "options": [
-      "Stop here on red signal",
-      "Stop sign ahead",
-      "Traffic light",
-      "Pedestrian crossing"
-    ],
-    "answer": "Stop here on red signal"
-  },
-  {
-    "id": 427,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-179.jpg",
-    "options": [
-      "HOV or reserved lane",
-      "Bus lane only",
-      "Carpool required",
-      "Express lane"
-    ],
-    "answer": "HOV or reserved lane"
-  },
-  {
-    "id": 428,
-    "category": "road_signs",
-    "question": "What does this overhead sign mean?",
-    "image": "assets/images/sign-180.jpg",
-    "options": [
-      "Lane use control signal",
-      "Lane closed",
-      "Merge ahead",
-      "Exit only"
-    ],
-    "answer": "Lane use control signal"
-  },
-  {
-    "id": 429,
-    "category": "road_signs",
-    "question": "This regulatory sign means:",
-    "image": "assets/images/sign-181.jpg",
-    "options": [
-      "No turns allowed",
-      "No U-turn",
-      "Straight only",
-      "No left turn"
-    ],
-    "answer": "No turns allowed"
-  },
-  {
-    "id": 430,
-    "category": "road_signs",
-    "question": "What does this sign indicate?",
-    "image": "assets/images/sign-182.jpg",
-    "options": [
-      "Passing permitted",
-      "Two-way traffic",
-      "Lane merge",
-      "Overtaking zone"
-    ],
-    "answer": "Passing permitted"
-  },
-  {
-    "id": 433,
+    "id": 207,
     "category": "rules",
     "question": "Fully licensed drivers in Ontario can face an immediate roadside licence suspension at a blood alcohol concentration of:",
     "options": [
@@ -4468,7 +2521,7 @@
     "answer": "0.05%"
   },
   {
-    "id": 434,
+    "id": 208,
     "category": "rules",
     "question": "When parallel parking on a hill facing uphill with a curb, you should:",
     "options": [
@@ -4480,7 +2533,7 @@
     "answer": "Turn wheels away from curb"
   },
   {
-    "id": 435,
+    "id": 209,
     "category": "rules",
     "question": "The shoulder check is required when:",
     "options": [
@@ -4492,7 +2545,7 @@
     "answer": "Changing lanes or merging"
   },
   {
-    "id": 436,
+    "id": 210,
     "category": "rules",
     "question": "At an intersection with no traffic lights or signs, you must:",
     "options": [
@@ -4504,7 +2557,7 @@
     "answer": "Yield to traffic on the right"
   },
   {
-    "id": 437,
+    "id": 211,
     "category": "rules",
     "question": "If you are convicted of distracted driving in Ontario, you can receive:",
     "options": [
@@ -4516,7 +2569,7 @@
     "answer": "Fines and demerit points"
   },
   {
-    "id": 441,
+    "id": 212,
     "category": "rules",
     "question": "When approaching a stopped school bus with flashing red lights on a divided highway:",
     "options": [
@@ -4528,7 +2581,7 @@
     "answer": "Only stop if on same side"
   },
   {
-    "id": 442,
+    "id": 213,
     "category": "rules",
     "question": "The two-second rule refers to:",
     "options": [
@@ -4540,7 +2593,7 @@
     "answer": "Following distance"
   },
   {
-    "id": 443,
+    "id": 214,
     "category": "rules",
     "question": "When may you exceed the speed limit in Ontario?",
     "options": [
@@ -4552,7 +2605,7 @@
     "answer": "Never"
   },
   {
-    "id": 446,
+    "id": 215,
     "category": "rules",
     "question": "Winter tires are recommended when temperatures drop below:",
     "options": [
@@ -4564,7 +2617,7 @@
     "answer": "7°C"
   },
   {
-    "id": 448,
+    "id": 216,
     "category": "rules",
     "question": "When should you use your vehicle's horn?",
     "options": [
@@ -4576,7 +2629,7 @@
     "answer": "To warn of danger"
   },
   {
-    "id": 449,
+    "id": 217,
     "category": "rules",
     "question": "The speed limit in school zones during school hours is typically:",
     "options": [
@@ -4588,7 +2641,7 @@
     "answer": "40 km/h"
   },
   {
-    "id": 451,
+    "id": 218,
     "category": "rules",
     "question": "Diamond-shaped pavement markings indicate:",
     "options": [
@@ -4600,7 +2653,7 @@
     "answer": "Reserved lane (HOV or bus)"
   },
   {
-    "id": 453,
+    "id": 219,
     "category": "rules",
     "question": "You must dim your high beams when within how many meters of oncoming traffic?",
     "options": [
@@ -4612,7 +2665,7 @@
     "answer": "150 meters"
   },
   {
-    "id": 454,
+    "id": 220,
     "category": "rules",
     "question": "If you refuse a roadside breath test, you can face:",
     "options": [
@@ -4624,7 +2677,7 @@
     "answer": "Immediate license suspension"
   },
   {
-    "id": 455,
+    "id": 221,
     "category": "rules",
     "question": "When parking downhill with a curb, turn your wheels:",
     "options": [
@@ -4636,7 +2689,7 @@
     "answer": "Toward the curb"
   },
   {
-    "id": 458,
+    "id": 222,
     "category": "rules",
     "question": "The safest way to exit a freeway is to:",
     "options": [
@@ -4648,7 +2701,7 @@
     "answer": "Signal early and reduce speed in exit lane"
   },
   {
-    "id": 459,
+    "id": 223,
     "category": "rules",
     "question": "A novice driver with a BAC above zero can face:",
     "options": [
@@ -4660,397 +2713,7 @@
     "answer": "Immediate license suspension"
   },
   {
-    "id": 461,
-    "category": "road_signs",
-    "question": "What does this sign indicate?",
-    "image": "assets/images/sign-183.jpg",
-    "options": [
-      "Wrong way - turn around",
-      "One way traffic",
-      "Do not enter",
-      "Road ends"
-    ],
-    "answer": "Wrong way - turn around"
-  },
-  {
-    "id": 462,
-    "category": "road_signs",
-    "question": "This regulatory sign means:",
-    "image": "assets/images/sign-184.jpg",
-    "options": [
-      "No right turn when light is red",
-      "No right turns at all",
-      "Right turn signal required",
-      "Right turn lane only"
-    ],
-    "answer": "No right turn when light is red"
-  },
-  {
-    "id": 463,
-    "category": "road_signs",
-    "question": "This sign indicates the:",
-    "image": "assets/images/sign-185.jpg",
-    "options": [
-      "Minimum speed you must travel",
-      "Maximum speed allowed",
-      "Recommended speed",
-      "Speed limit ahead"
-    ],
-    "answer": "Minimum speed you must travel"
-  },
-  {
-    "id": 464,
-    "category": "road_signs",
-    "question": "What does this sign mean?",
-    "image": "assets/images/sign-186.jpg",
-    "options": [
-      "Previous speed limit no longer applies",
-      "Speed limit is 80 km/h",
-      "No speed limit",
-      "Construction zone ends"
-    ],
-    "answer": "Previous speed limit no longer applies"
-  },
-  {
-    "id": 465,
-    "category": "road_signs",
-    "question": "This sign tells you to:",
-    "image": "assets/images/sign-187.jpg",
-    "options": [
-      "Move right if driving slower than traffic",
-      "All traffic keep right",
-      "Right lane is for slow vehicles",
-      "Speed up or move right"
-    ],
-    "answer": "Move right if driving slower than traffic"
-  },
-  {
-    "id": 466,
-    "category": "road_signs",
-    "question": "This warning sign means:",
-    "image": "assets/images/sign-188.jpg",
-    "options": [
-      "Paved road ends ahead",
-      "Road closed",
-      "Rough road",
-      "Gravel begins"
-    ],
-    "answer": "Paved road ends ahead"
-  },
-  {
-    "id": 467,
-    "category": "road_signs",
-    "question": "This sign warns of:",
-    "image": "assets/images/sign-189.jpg",
-    "options": [
-      "Slow-moving farm equipment on road",
-      "Farm vehicles only",
-      "Agricultural zone",
-      "Tractor crossing"
-    ],
-    "answer": "Slow-moving farm equipment on road"
-  },
-  {
-    "id": 468,
-    "category": "road_signs",
-    "question": "What does this sign warn you about?",
-    "image": "assets/images/sign-156.jpg",
-    "options": [
-      "Snowmobiles may cross the road",
-      "Snowmobile trail",
-      "Winter road",
-      "Snow zone ahead"
-    ],
-    "answer": "Snowmobiles may cross the road"
-  },
-  {
-    "id": 469,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-190.jpg",
-    "options": [
-      "Playground zone - children may be present",
-      "School zone",
-      "Park entrance",
-      "Recreation area"
-    ],
-    "answer": "Playground zone - children may be present"
-  },
-  {
-    "id": 470,
-    "category": "road_signs",
-    "question": "This sign warns you of:",
-    "image": "assets/images/sign-191.jpg",
-    "options": [
-      "School crossing zone ahead",
-      "School bus stop",
-      "Children at play",
-      "Pedestrian crossing"
-    ],
-    "answer": "School crossing zone ahead"
-  },
-  {
-    "id": 471,
-    "category": "road_signs",
-    "question": "This information sign shows:",
-    "image": "assets/images/sign-192.jpg",
-    "options": [
-      "Hospital or medical facility nearby",
-      "Emergency services",
-      "First aid available",
-      "Ambulance station"
-    ],
-    "answer": "Hospital or medical facility nearby"
-  },
-  {
-    "id": 472,
-    "category": "road_signs",
-    "question": "This sign indicates availability of:",
-    "image": "assets/images/sign-193.jpg",
-    "options": [
-      "Gas, food, and accommodations",
-      "Rest stop",
-      "Service center",
-      "Tourist information"
-    ],
-    "answer": "Gas, food, and accommodations"
-  },
-  {
-    "id": 473,
-    "category": "road_signs",
-    "question": "What does this sign indicate?",
-    "image": "assets/images/sign-194.jpg",
-    "options": [
-      "Rest area with facilities",
-      "Parking lot",
-      "Service station",
-      "Information center"
-    ],
-    "answer": "Rest area with facilities"
-  },
-  {
-    "id": 474,
-    "category": "road_signs",
-    "question": "This information sign means:",
-    "image": "assets/images/sign-195.jpg",
-    "options": [
-      "Airport ahead or nearby",
-      "Airplane crossing",
-      "No fly zone",
-      "Aviation facility"
-    ],
-    "answer": "Airport ahead or nearby"
-  },
-  {
-    "id": 475,
-    "category": "road_signs",
-    "question": "This sign points to:",
-    "image": "assets/images/sign-196.jpg",
-    "options": [
-      "Scenic lookout or viewpoint",
-      "Photo area",
-      "Tourist stop",
-      "Park entrance"
-    ],
-    "answer": "Scenic lookout or viewpoint"
-  },
-  {
-    "id": 476,
-    "category": "road_signs",
-    "question": "This sign means:",
-    "image": "assets/images/sign-197.jpg",
-    "options": [
-      "Parking is allowed in this area",
-      "Parking lot ahead",
-      "No parking restrictions",
-      "Free parking"
-    ],
-    "answer": "Parking is allowed in this area"
-  },
-  {
-    "id": 477,
-    "category": "road_signs",
-    "question": "This sign designates:",
-    "image": "assets/images/sign-198.jpg",
-    "options": [
-      "Accessible parking for permit holders",
-      "Handicapped zone",
-      "Senior parking",
-      "Special parking"
-    ],
-    "answer": "Accessible parking for permit holders"
-  },
-  {
-    "id": 478,
-    "category": "road_signs",
-    "question": "This regulatory sign prohibits:",
-    "image": "assets/images/sign-199.jpg",
-    "options": [
-      "All vehicle traffic",
-      "Motor vehicles only",
-      "Heavy vehicles",
-      "Commercial vehicles"
-    ],
-    "answer": "All vehicle traffic"
-  },
-  {
-    "id": 479,
-    "category": "road_signs",
-    "question": "This sign prohibits:",
-    "image": "assets/images/sign-200.jpg",
-    "options": [
-      "Motorcycles from using this road",
-      "Two-wheeled vehicles",
-      "Bicycles",
-      "Scooters"
-    ],
-    "answer": "Motorcycles from using this road"
-  },
-  {
-    "id": 480,
-    "category": "road_signs",
-    "question": "This sign designates:",
-    "image": "assets/images/sign-201.jpg",
-    "options": [
-      "Approved route for trucks",
-      "Truck parking",
-      "Truck stop ahead",
-      "Heavy vehicles only"
-    ],
-    "answer": "Approved route for trucks"
-  },
-  {
-    "id": 481,
-    "category": "road_signs",
-    "question": "This sign marks:",
-    "image": "assets/images/sign-140.jpg",
-    "options": [
-      "Designated bicycle route",
-      "Bike lane",
-      "Bicycles only",
-      "Bike path crossing"
-    ],
-    "answer": "Designated bicycle route"
-  },
-  {
-    "id": 482,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-202.jpg",
-    "options": [
-      "Designated snowmobile trail",
-      "Winter recreation",
-      "Snow route",
-      "Snowmobile parking"
-    ],
-    "answer": "Designated snowmobile trail"
-  },
-  {
-    "id": 483,
-    "category": "road_signs",
-    "question": "This warning sign alerts you to:",
-    "image": "assets/images/sign-203.jpg",
-    "options": [
-      "Possible moose on roadway",
-      "Wildlife area",
-      "Animal crossing zone",
-      "Nature reserve"
-    ],
-    "answer": "Possible moose on roadway"
-  },
-  {
-    "id": 484,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-143.jpg",
-    "options": [
-      "Construction zone has ended",
-      "Road work ahead",
-      "Normal conditions resume",
-      "Speed limit resumes"
-    ],
-    "answer": "Construction zone has ended"
-  },
-  {
-    "id": 485,
-    "category": "road_signs",
-    "question": "What does this sign mean?",
-    "image": "assets/images/sign-204.jpg",
-    "options": [
-      "Detour route has ended",
-      "Detour ahead",
-      "Return to regular route",
-      "Road reopened"
-    ],
-    "answer": "Detour route has ended"
-  },
-  {
-    "id": 486,
-    "category": "road_signs",
-    "question": "This sign tells you to:",
-    "image": "assets/images/sign-205.jpg",
-    "options": [
-      "Stop at this line when signal is red",
-      "Stop sign ahead",
-      "Always stop here",
-      "Stop for pedestrians"
-    ],
-    "answer": "Stop at this line when signal is red"
-  },
-  {
-    "id": 487,
-    "category": "road_signs",
-    "question": "This sign indicates a:",
-    "image": "assets/images/sign-001.jpg",
-    "options": [
-      "High-occupancy vehicle lane",
-      "Bus lane",
-      "Express lane",
-      "Carpool lane only"
-    ],
-    "answer": "High-occupancy vehicle lane"
-  },
-  {
-    "id": 488,
-    "category": "road_signs",
-    "question": "This overhead signal controls:",
-    "image": "assets/images/sign-002.jpg",
-    "options": [
-      "Which lanes can be used",
-      "Traffic speed",
-      "Lane closures only",
-      "Toll lanes"
-    ],
-    "answer": "Which lanes can be used"
-  },
-  {
-    "id": 489,
-    "category": "road_signs",
-    "question": "This sign prohibits:",
-    "image": "assets/images/sign-003.jpg",
-    "options": [
-      "All turning movements",
-      "U-turns only",
-      "Left turns only",
-      "Right turns only"
-    ],
-    "answer": "All turning movements"
-  },
-  {
-    "id": 490,
-    "category": "road_signs",
-    "question": "This sign indicates:",
-    "image": "assets/images/sign-004.jpg",
-    "options": [
-      "Passing other vehicles is allowed",
-      "Passing zone ahead",
-      "Two lanes",
-      "Keep right except to pass"
-    ],
-    "answer": "Passing other vehicles is allowed"
-  },
-  {
-    "id": 492,
+    "id": 224,
     "category": "rules",
     "question": "The maximum speed limit on Ontario highways is typically:",
     "options": [
@@ -5062,7 +2725,7 @@
     "answer": "100 km/h"
   },
   {
-    "id": 494,
+    "id": 225,
     "category": "rules",
     "question": "When driving at night, you should:",
     "options": [
@@ -5074,7 +2737,7 @@
     "answer": "Reduce speed and increase following distance"
   },
   {
-    "id": 495,
+    "id": 226,
     "category": "rules",
     "question": "If involved in a collision, you must report it to police if damage exceeds:",
     "options": [
@@ -5086,7 +2749,7 @@
     "answer": "$2,000"
   },
   {
-    "id": 496,
+    "id": 227,
     "category": "rules",
     "question": "A broken white line between lanes means:",
     "options": [
@@ -5098,7 +2761,7 @@
     "answer": "You may change lanes if safe"
   },
   {
-    "id": 498,
+    "id": 228,
     "category": "rules",
     "question": "The demerit point system is designed to:",
     "options": [
@@ -5110,7 +2773,7 @@
     "answer": "Identify and warn drivers with repeated violations"
   },
   {
-    "id": 500,
+    "id": 229,
     "category": "rules",
     "question": "When is it safe to pass another vehicle?",
     "options": [
@@ -5122,7 +2785,7 @@
     "answer": "When you have clear view and legal passing zone"
   },
   {
-    "id": 502,
+    "id": 230,
     "category": "rules",
     "question": "A yellow traffic light means:",
     "options": [
@@ -5134,7 +2797,7 @@
     "answer": "Stop if safe to do so"
   },
   {
-    "id": 503,
+    "id": 231,
     "category": "rules",
     "question": "The center lane with arrows pointing both left and right is used for:",
     "options": [
@@ -5146,7 +2809,7 @@
     "answer": "Left turns from either direction"
   },
   {
-    "id": 505,
+    "id": 232,
     "category": "rules",
     "question": "Driving with a BAC of 0.08 or over results in:",
     "options": [
@@ -5158,7 +2821,7 @@
     "answer": "Criminal charges"
   },
   {
-    "id": 507,
+    "id": 233,
     "category": "rules",
     "question": "When parking facing downhill without a curb, turn wheels:",
     "options": [
@@ -5170,7 +2833,7 @@
     "answer": "To the right"
   },
   {
-    "id": 508,
+    "id": 234,
     "category": "rules",
     "question": "A flashing green light at an intersection means:",
     "options": [
@@ -5182,7 +2845,7 @@
     "answer": "You may turn left, go straight or turn right; oncoming traffic faces a red light"
   },
   {
-    "id": 509,
+    "id": 235,
     "category": "rules",
     "question": "What is the purpose of anti-lock brakes (ABS)?",
     "options": [
@@ -5194,7 +2857,7 @@
     "answer": "Prevent wheels from locking during hard braking"
   },
   {
-    "id": 510,
+    "id": 236,
     "category": "rules",
     "question": "You must use headlights from:",
     "options": [
@@ -5206,7 +2869,7 @@
     "answer": "Half an hour after sunset to half an hour before sunrise"
   },
   {
-    "id": 512,
+    "id": 237,
     "category": "rules",
     "question": "Black ice is most likely to form:",
     "options": [
@@ -5218,7 +2881,7 @@
     "answer": "On bridges and shaded areas"
   },
   {
-    "id": 515,
+    "id": 238,
     "category": "rules",
     "question": "You should increase following distance when:",
     "options": [
@@ -5230,7 +2893,7 @@
     "answer": "Driving in poor conditions or behind large vehicles"
   },
   {
-    "id": 516,
+    "id": 239,
     "category": "rules",
     "question": "Using hand-held devices while driving results in:",
     "options": [
@@ -5242,7 +2905,7 @@
     "answer": "Fines, demerit points, and possible suspension"
   },
   {
-    "id": 517,
+    "id": 240,
     "category": "rules",
     "question": "When changing lanes, you should check blind spots because:",
     "options": [
@@ -5254,7 +2917,7 @@
     "answer": "Mirrors don't show everything beside your vehicle"
   },
   {
-    "id": 519,
+    "id": 241,
     "category": "rules",
     "question": "If your gas pedal sticks, you should:",
     "options": [
@@ -5266,7 +2929,7 @@
     "answer": "Shift to neutral and brake"
   },
   {
-    "id": 520,
+    "id": 242,
     "category": "rules",
     "question": "You may only drive in the far left lane of a multi-lane highway when:",
     "options": [
@@ -5278,527 +2941,7 @@
     "answer": "Passing or traffic is heavy"
   },
   {
-    "id": 521,
-    "category": "road_signs",
-    "question": "This sign warns you:",
-    "image": "assets/images/sign-005.jpg",
-    "options": [
-      "You are going the wrong direction",
-      "Wrong turn",
-      "Road error",
-      "Detour required"
-    ],
-    "answer": "You are going the wrong direction"
-  },
-  {
-    "id": 522,
-    "category": "road_signs",
-    "question": "This sign means you cannot:",
-    "image": "assets/images/sign-006.jpg",
-    "options": [
-      "Turn right during a red light",
-      "Turn right at any time",
-      "Make any turns",
-      "Enter this road"
-    ],
-    "answer": "Turn right during a red light"
-  },
-  {
-    "id": 523,
-    "category": "road_signs",
-    "question": "This sign sets a:",
-    "image": "assets/images/sign-007.jpg",
-    "options": [
-      "Lowest speed you can drive",
-      "Highest speed limit",
-      "Suggested speed",
-      "Average speed"
-    ],
-    "answer": "Lowest speed you can drive"
-  },
-  {
-    "id": 524,
-    "category": "road_signs",
-    "question": "This sign tells you:",
-    "image": "assets/images/sign-008.jpg",
-    "options": [
-      "Posted speed restriction has ended",
-      "New speed limit ahead",
-      "No speed limit",
-      "Slow down"
-    ],
-    "answer": "Posted speed restriction has ended"
-  },
-  {
-    "id": 525,
-    "category": "road_signs",
-    "question": "If you are driving slowly, this sign tells you to:",
-    "image": "assets/images/sign-009.jpg",
-    "options": [
-      "Use the right lane",
-      "Speed up",
-      "Pull over",
-      "Exit the highway"
-    ],
-    "answer": "Use the right lane"
-  },
-  {
-    "id": 526,
-    "category": "road_signs",
-    "question": "This sign warns that:",
-    "image": "assets/images/sign-010.jpg",
-    "options": [
-      "Asphalt surface ends soon",
-      "Construction zone",
-      "Road closed",
-      "Bumpy road"
-    ],
-    "answer": "Asphalt surface ends soon"
-  },
-  {
-    "id": 527,
-    "category": "road_signs",
-    "question": "This sign alerts you to:",
-    "image": "assets/images/sign-011.jpg",
-    "options": [
-      "Farm equipment may be on road",
-      "Farm area",
-      "Agricultural vehicles only",
-      "Tractors ahead"
-    ],
-    "answer": "Farm equipment may be on road"
-  },
-  {
-    "id": 528,
-    "category": "road_signs",
-    "question": "This sign warns about:",
-    "image": "assets/images/sign-012.jpg",
-    "options": [
-      "Snowmobile traffic crossing",
-      "Snowmobile zone",
-      "Winter sports area",
-      "Snow removal"
-    ],
-    "answer": "Snowmobile traffic crossing"
-  },
-  {
-    "id": 529,
-    "category": "road_signs",
-    "question": "This sign warns of:",
-    "image": "assets/images/sign-013.jpg",
-    "options": [
-      "Children playing nearby",
-      "School ahead",
-      "Park zone",
-      "Community center"
-    ],
-    "answer": "Children playing nearby"
-  },
-  {
-    "id": 530,
-    "category": "road_signs",
-    "question": "This sign indicates a:",
-    "image": "assets/images/sign-014.jpg",
-    "options": [
-      "School pedestrian crossing",
-      "School bus stop",
-      "Children's area",
-      "Education zone"
-    ],
-    "answer": "School pedestrian crossing"
-  },
-  {
-    "id": 531,
-    "category": "road_signs",
-    "question": "This sign directs you to:",
-    "image": "assets/images/sign-015.jpg",
-    "options": [
-      "Medical services or hospital",
-      "Emergency entrance",
-      "Clinic",
-      "Health center"
-    ],
-    "answer": "Medical services or hospital"
-  },
-  {
-    "id": 532,
-    "category": "road_signs",
-    "question": "This sign shows:",
-    "image": "assets/images/sign-016.jpg",
-    "options": [
-      "Services available at next exit",
-      "Rest area",
-      "Service plaza",
-      "Tourist stop"
-    ],
-    "answer": "Services available at next exit"
-  },
-  {
-    "id": 533,
-    "category": "road_signs",
-    "question": "This sign indicates a:",
-    "image": "assets/images/sign-017.jpg",
-    "options": [
-      "Place to stop and rest",
-      "Service area",
-      "Parking zone",
-      "Truck stop"
-    ],
-    "answer": "Place to stop and rest"
-  },
-  {
-    "id": 534,
-    "category": "road_signs",
-    "question": "This sign shows direction to:",
-    "image": "assets/images/sign-018.jpg",
-    "options": [
-      "An airport",
-      "Flight school",
-      "Aviation museum",
-      "Heliport"
-    ],
-    "answer": "An airport"
-  },
-  {
-    "id": 535,
-    "category": "road_signs",
-    "question": "This sign directs to a:",
-    "image": "assets/images/sign-019.jpg",
-    "options": [
-      "Scenic observation point",
-      "Park entrance",
-      "Tourist site",
-      "Photo spot"
-    ],
-    "answer": "Scenic observation point"
-  },
-  {
-    "id": 536,
-    "category": "road_signs",
-    "question": "This sign allows:",
-    "image": "assets/images/sign-020.jpg",
-    "options": [
-      "Parking in designated area",
-      "Free parking",
-      "Long-term parking",
-      "Visitor parking"
-    ],
-    "answer": "Parking in designated area"
-  },
-  {
-    "id": 537,
-    "category": "road_signs",
-    "question": "This sign reserves parking for:",
-    "image": "assets/images/sign-021.jpg",
-    "options": [
-      "People with accessibility permits",
-      "Disabled vehicles",
-      "Special needs only",
-      "Handicap zone"
-    ],
-    "answer": "People with accessibility permits"
-  },
-  {
-    "id": 538,
-    "category": "road_signs",
-    "question": "This sign means:",
-    "image": "assets/images/sign-022.jpg",
-    "options": [
-      "Vehicles prohibited beyond this point",
-      "Road closed to traffic",
-      "Pedestrians only",
-      "Restricted access"
-    ],
-    "answer": "Vehicles prohibited beyond this point"
-  },
-  {
-    "id": 539,
-    "category": "road_signs",
-    "question": "This sign restricts:",
-    "image": "assets/images/sign-023.jpg",
-    "options": [
-      "Motorcycle access",
-      "Two-wheelers",
-      "Motor bikes",
-      "Powered cycles"
-    ],
-    "answer": "Motorcycle access"
-  },
-  {
-    "id": 540,
-    "category": "road_signs",
-    "question": "This sign shows a:",
-    "image": "assets/images/sign-024.jpg",
-    "options": [
-      "Recommended route for commercial trucks",
-      "Truck lane",
-      "Delivery route",
-      "Heavy vehicle path"
-    ],
-    "answer": "Recommended route for commercial trucks"
-  },
-  {
-    "id": 541,
-    "category": "road_signs",
-    "question": "This sign designates a:",
-    "image": "assets/images/sign-025.jpg",
-    "options": [
-      "Recommended cycling path",
-      "Bike lane only",
-      "Cycling required",
-      "Bicycle highway"
-    ],
-    "answer": "Recommended cycling path"
-  },
-  {
-    "id": 542,
-    "category": "road_signs",
-    "question": "This sign marks a:",
-    "image": "assets/images/sign-026.jpg",
-    "options": [
-      "Snowmobile pathway",
-      "Winter road",
-      "Snow trail crossing",
-      "Recreation route"
-    ],
-    "answer": "Snowmobile pathway"
-  },
-  {
-    "id": 543,
-    "category": "road_signs",
-    "question": "This sign warns of potential:",
-    "image": "assets/images/sign-027.jpg",
-    "options": [
-      "Large animals on roadway",
-      "Wildlife sanctuary",
-      "Moose habitat",
-      "Animal reserve"
-    ],
-    "answer": "Large animals on roadway"
-  },
-  {
-    "id": 544,
-    "category": "road_signs",
-    "question": "This sign signals:",
-    "image": "assets/images/sign-028.jpg",
-    "options": [
-      "Road construction has ended",
-      "Work zone ahead",
-      "Caution ends",
-      "Resume speed"
-    ],
-    "answer": "Road construction has ended"
-  },
-  {
-    "id": 545,
-    "category": "road_signs",
-    "question": "This sign means:",
-    "image": "assets/images/sign-029.jpg",
-    "options": [
-      "Temporary route has ended",
-      "Detour begins",
-      "Road reopened",
-      "Normal traffic"
-    ],
-    "answer": "Temporary route has ended"
-  },
-  {
-    "id": 546,
-    "category": "road_signs",
-    "question": "This sign instructs you to:",
-    "image": "assets/images/sign-030.jpg",
-    "options": [
-      "Stop at this marking when light is red",
-      "Always stop here",
-      "Stop for pedestrians",
-      "Stop sign location"
-    ],
-    "answer": "Stop at this marking when light is red"
-  },
-  {
-    "id": 547,
-    "category": "road_signs",
-    "question": "This sign marks a lane for:",
-    "image": "assets/images/sign-031.jpg",
-    "options": [
-      "Vehicles with multiple occupants",
-      "Buses only",
-      "Electric vehicles",
-      "Fast traffic"
-    ],
-    "answer": "Vehicles with multiple occupants"
-  },
-  {
-    "id": 548,
-    "category": "road_signs",
-    "question": "This sign controls:",
-    "image": "assets/images/sign-032.jpg",
-    "options": [
-      "Traffic flow in specific lanes",
-      "Speed limits",
-      "Lane changes",
-      "Merging traffic"
-    ],
-    "answer": "Traffic flow in specific lanes"
-  },
-  {
-    "id": 549,
-    "category": "road_signs",
-    "question": "This sign means you cannot:",
-    "image": "assets/images/sign-033.jpg",
-    "options": [
-      "Turn in any direction",
-      "Make U-turns",
-      "Turn left",
-      "Turn right"
-    ],
-    "answer": "Turn in any direction"
-  },
-  {
-    "id": 550,
-    "category": "road_signs",
-    "question": "This sign means:",
-    "image": "assets/images/sign-034.jpg",
-    "options": [
-      "Overtaking is allowed here",
-      "Two-way road",
-      "Pass with care",
-      "Passing lane begins"
-    ],
-    "answer": "Overtaking is allowed here"
-  },
-  {
-    "id": 551,
-    "category": "road_signs",
-    "question": "This regulatory sign indicates:",
-    "image": "assets/images/sign-035.jpg",
-    "options": [
-      "Incorrect travel direction",
-      "Turn back",
-      "Road closed",
-      "Exit only"
-    ],
-    "answer": "Incorrect travel direction"
-  },
-  {
-    "id": 552,
-    "category": "road_signs",
-    "question": "This sign prohibits:",
-    "image": "assets/images/sign-036.jpg",
-    "options": [
-      "Right turns at red signals",
-      "All right turns",
-      "Turns after stopping",
-      "Red light turns"
-    ],
-    "answer": "Right turns at red signals"
-  },
-  {
-    "id": 553,
-    "category": "road_signs",
-    "question": "This sign establishes:",
-    "image": "assets/images/sign-037.jpg",
-    "options": [
-      "Required minimum driving speed",
-      "Speed floor",
-      "Slow vehicle limit",
-      "Base speed"
-    ],
-    "answer": "Required minimum driving speed"
-  },
-  {
-    "id": 554,
-    "category": "road_signs",
-    "question": "This sign indicates that:",
-    "image": "assets/images/sign-038.jpg",
-    "options": [
-      "Special speed zone is over",
-      "Speed limit changes",
-      "No limit zone",
-      "Resume normal speed"
-    ],
-    "answer": "Special speed zone is over"
-  },
-  {
-    "id": 555,
-    "category": "road_signs",
-    "question": "This sign advises:",
-    "image": "assets/images/sign-039.jpg",
-    "options": [
-      "Slow vehicles should stay in right lane",
-      "Right lane for all traffic",
-      "Keep right always",
-      "Slow down and move right"
-    ],
-    "answer": "Slow vehicles should stay in right lane"
-  },
-  {
-    "id": 556,
-    "category": "road_signs",
-    "question": "This warning sign means:",
-    "image": "assets/images/sign-040.jpg",
-    "options": [
-      "Road surface changes ahead",
-      "Construction",
-      "Road damage",
-      "Unpaved section"
-    ],
-    "answer": "Road surface changes ahead"
-  },
-  {
-    "id": 557,
-    "category": "road_signs",
-    "question": "This sign warns drivers about:",
-    "image": "assets/images/sign-041.jpg",
-    "options": [
-      "Agricultural vehicles sharing road",
-      "Farm entrance",
-      "Slow equipment",
-      "Rural area"
-    ],
-    "answer": "Agricultural vehicles sharing road"
-  },
-  {
-    "id": 558,
-    "category": "road_signs",
-    "question": "This sign warns that:",
-    "image": "assets/images/sign-008.jpg",
-    "options": [
-      "Snowmobiles cross this road",
-      "Winter vehicle area",
-      "Snow route",
-      "Snowmobile trail ahead"
-    ],
-    "answer": "Snowmobiles cross this road"
-  },
-  {
-    "id": 559,
-    "category": "road_signs",
-    "question": "This sign designates a:",
-    "image": "assets/images/sign-042.jpg",
-    "options": [
-      "Area where children may be playing",
-      "School playground",
-      "Recreation zone",
-      "Youth area"
-    ],
-    "answer": "Area where children may be playing"
-  },
-  {
-    "id": 560,
-    "category": "road_signs",
-    "question": "This sign marks a:",
-    "image": "assets/images/sign-043.jpg",
-    "options": [
-      "Designated school pedestrian area",
-      "School zone boundary",
-      "Student crossing",
-      "School entrance"
-    ],
-    "answer": "Designated school pedestrian area"
-  },
-  {
-    "id": 562,
+    "id": 243,
     "category": "rules",
     "question": "The main cause of skidding is:",
     "options": [
@@ -5810,7 +2953,7 @@
     "answer": "Driver error and excessive speed"
   },
   {
-    "id": 564,
+    "id": 244,
     "category": "rules",
     "question": "A pedestrian with a white cane is:",
     "options": [
@@ -5822,7 +2965,7 @@
     "answer": "Blind or visually impaired"
   },
   {
-    "id": 565,
+    "id": 245,
     "category": "rules",
     "question": "You must yield the right-of-way to pedestrians:",
     "options": [
@@ -5834,7 +2977,7 @@
     "answer": "At all marked and unmarked crosswalks"
   },
   {
-    "id": 569,
+    "id": 246,
     "category": "rules",
     "question": "If two vehicles arrive at an uncontrolled intersection at the same time:",
     "options": [
@@ -5846,7 +2989,7 @@
     "answer": "Vehicle on the right has right-of-way"
   },
   {
-    "id": 571,
+    "id": 247,
     "category": "rules",
     "question": "When driving in heavy fog, you should avoid using:",
     "options": [
@@ -5858,7 +3001,7 @@
     "answer": "High beam headlights"
   },
   {
-    "id": 573,
+    "id": 248,
     "category": "rules",
     "question": "When should you use your vehicle's emergency flashers?",
     "options": [
@@ -5870,7 +3013,7 @@
     "answer": "When stopped on roadway creating hazard"
   },
   {
-    "id": 574,
+    "id": 249,
     "category": "rules",
     "question": "Before entering an intersection on a green light, you should:",
     "options": [
@@ -5882,7 +3025,7 @@
     "answer": "Check for traffic in intersection"
   },
   {
-    "id": 575,
+    "id": 250,
     "category": "rules",
     "question": "The 'move over' law requires drivers to:",
     "options": [
@@ -5894,7 +3037,7 @@
     "answer": "Change lanes or slow down for stopped emergency vehicles"
   },
   {
-    "id": 577,
+    "id": 251,
     "category": "rules",
     "question": "A broken yellow line on your side means:",
     "options": [
@@ -5906,7 +3049,7 @@
     "answer": "You may pass if safe"
   },
   {
-    "id": 582,
+    "id": 252,
     "category": "rules",
     "question": "When driving on a freeway, you should:",
     "options": [
@@ -5918,7 +3061,7 @@
     "answer": "Keep pace with traffic flow"
   },
   {
-    "id": 583,
+    "id": 253,
     "category": "rules",
     "question": "You are not allowed to make a U-turn:",
     "options": [
@@ -5930,7 +3073,7 @@
     "answer": "On a curve or near a hill crest"
   },
   {
-    "id": 585,
+    "id": 254,
     "category": "rules",
     "question": "When exiting a driveway, you must:",
     "options": [
@@ -5942,7 +3085,7 @@
     "answer": "Yield to pedestrians and traffic on sidewalk"
   },
   {
-    "id": 587,
+    "id": 255,
     "category": "rules",
     "question": "You can be charged with impaired driving if:",
     "options": [
@@ -5954,7 +3097,7 @@
     "answer": "Ability to drive is affected by any substance"
   },
   {
-    "id": 589,
+    "id": 256,
     "category": "rules",
     "question": "Airbags are designed to:",
     "options": [
@@ -5966,7 +3109,7 @@
     "answer": "Work with seatbelts for protection"
   },
   {
-    "id": 590,
+    "id": 257,
     "category": "rules",
     "question": "When can you remove your seatbelt while driving?",
     "options": [
@@ -5978,7 +3121,7 @@
     "answer": "Never, unless you have a medical exemption"
   },
   {
-    "id": 592,
+    "id": 258,
     "category": "rules",
     "question": "When driving in winter conditions, you should increase your following distance to:",
     "options": [
@@ -5990,7 +3133,7 @@
     "answer": "4 seconds or more"
   },
   {
-    "id": 593,
+    "id": 259,
     "category": "rules",
     "question": "If you lose your driver's license, you must:",
     "options": [
@@ -6002,7 +3145,7 @@
     "answer": "Report it to Ministry of Transportation"
   },
   {
-    "id": 595,
+    "id": 260,
     "category": "rules",
     "question": "When sharing the road with cyclists, you should:",
     "options": [
@@ -6014,7 +3157,7 @@
     "answer": "Give them space and pass carefully"
   },
   {
-    "id": 596,
+    "id": 261,
     "category": "rules",
     "question": "A red X above a lane means:",
     "options": [
@@ -6026,7 +3169,7 @@
     "answer": "Do not drive in this lane"
   },
   {
-    "id": 597,
+    "id": 262,
     "category": "rules",
     "question": "When children are getting on or off a school bus, you must:",
     "options": [
@@ -6038,7 +3181,7 @@
     "answer": "Remain stopped until signals stop"
   },
   {
-    "id": 598,
+    "id": 263,
     "category": "rules",
     "question": "If you change your address, you must notify the Ministry within:",
     "options": [
@@ -6050,7 +3193,7 @@
     "answer": "6 days"
   },
   {
-    "id": 600,
+    "id": 264,
     "category": "rules",
     "question": "The best way to check your blind spot is to:",
     "options": [
