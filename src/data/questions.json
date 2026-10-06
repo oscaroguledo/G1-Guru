@@ -3,7 +3,7 @@
     "id": 1,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/stop.jpg",
+    "image": "images/stop.jpg",
     "options": [
       "Do not enter",
       "Come to a complete stop",
@@ -16,7 +16,7 @@
     "id": 2,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/school-zone.jpg",
+    "image": "images/school-zone.jpg",
     "options": [
       "Pedestrians prohibited",
       "Playground closed",
@@ -30,7 +30,7 @@
     "id": 3,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/yield.jpg",
+    "image": "images/yield.jpg",
     "options": [
       "Merge ahead",
       "Road ends",
@@ -44,7 +44,7 @@
     "id": 4,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/railway-crossing-x.jpg",
+    "image": "images/railway-crossing-x.jpg",
     "options": [
       "Railway tracks cross the road",
       "Road closed",
@@ -58,7 +58,7 @@
     "id": 5,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/bicycle-route.jpg",
+    "image": "images/bicycle-route.jpg",
     "options": [
       "Cyclists must dismount",
       "Official bicycle route",
@@ -72,7 +72,7 @@
     "id": 6,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/parking-permitted.jpg",
+    "image": "images/parking-permitted.jpg",
     "options": [
       "Loading zone only",
       "Parking is free for 30 minutes at any time",
@@ -85,7 +85,7 @@
     "id": 7,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/snowmobile-permitted.jpg",
+    "image": "images/snowmobile-permitted.jpg",
     "options": [
       "Snowmobiles prohibited",
       "Winter road closed",
@@ -98,7 +98,7 @@
     "id": 8,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/do-not-enter.jpg",
+    "image": "images/do-not-enter.jpg",
     "options": [
       "Do not enter this road",
       "One-way road ahead",
@@ -111,7 +111,7 @@
     "id": 9,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-stopping.jpg",
+    "image": "images/no-stopping.jpg",
     "options": [
       "No stopping, even for a moment",
       "Stopping allowed for a short time",
@@ -124,7 +124,7 @@
     "id": 10,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-standing.jpg",
+    "image": "images/no-standing.jpg",
     "options": [
       "No standing, except loading passengers",
       "No stopping, even for a moment",
@@ -137,7 +137,7 @@
     "id": 11,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-parking.jpg",
+    "image": "images/no-parking.jpg",
     "options": [
       "No parking, except loading and unloading",
       "No stopping, even for a moment",
@@ -150,7 +150,7 @@
     "id": 12,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-left-turn.jpg",
+    "image": "images/no-left-turn.jpg",
     "options": [
       "Do not turn left here",
       "Left turn only is allowed",
@@ -163,7 +163,7 @@
     "id": 13,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-straight-through.jpg",
+    "image": "images/no-straight-through.jpg",
     "options": [
       "Do not drive straight through",
       "Go straight through only",
@@ -176,7 +176,7 @@
     "id": 14,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-u-turn.jpg",
+    "image": "images/no-u-turn.jpg",
     "options": [
       "Do not make a U-turn",
       "U-turns are permitted here",
@@ -189,7 +189,7 @@
     "id": 15,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-right-on-red.jpg",
+    "image": "images/no-right-on-red.jpg",
     "options": [
       "Right turn only on red",
       "No right turn at any time",
@@ -202,7 +202,7 @@
     "id": 16,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-left-turn-times.jpg",
+    "image": "images/no-left-turn-times.jpg",
     "options": [
       "Do not turn left during the times shown",
       "Left lane closed at all times",
@@ -215,7 +215,7 @@
     "id": 17,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/accessible-parking-only.jpg",
+    "image": "images/accessible-parking-only.jpg",
     "options": [
       "Accessible permit parking only",
       "No parking at any time",
@@ -228,7 +228,7 @@
     "id": 18,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-bicycles.jpg",
+    "image": "images/no-bicycles.jpg",
     "options": [
       "Bicycle crossing ahead",
       "Bicycle route",
@@ -241,7 +241,7 @@
     "id": 19,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-pedestrians.jpg",
+    "image": "images/no-pedestrians.jpg",
     "options": [
       "Pedestrians have the right-of-way",
       "School zone ahead",
@@ -254,7 +254,7 @@
     "id": 20,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/keep-right.jpg",
+    "image": "images/keep-right.jpg",
     "options": [
       "Keep to the right of the island",
       "Right turn only from this lane",
@@ -267,7 +267,7 @@
     "id": 21,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/speed-limit-changes.jpg",
+    "image": "images/speed-limit-changes.jpg",
     "options": [
       "Maximum speed 50 km/h on this road",
       "Speed limit changes ahead",
@@ -280,7 +280,7 @@
     "id": 22,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/no-passing.jpg",
+    "image": "images/no-passing.jpg",
     "options": [
       "Slow traffic keep right",
       "Passing lane ahead",
@@ -293,7 +293,7 @@
     "id": 23,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/slower-traffic-keep-right.jpg",
+    "image": "images/slower-traffic-keep-right.jpg",
     "options": [
       "Slow traffic must keep right",
       "All traffic must keep right",
@@ -306,7 +306,7 @@
     "id": 24,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/community-safety-zone.jpg",
+    "image": "images/community-safety-zone.jpg",
     "options": [
       "Community Safety Zone",
       "School bus stop ahead",
@@ -320,7 +320,7 @@
     "id": 25,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/school-zone-speed.jpg",
+    "image": "images/school-zone-speed.jpg",
     "options": [
       "The speed limit is 40 km/h at all times",
       "The speed limit in this zone is lower during school hours",
@@ -334,7 +334,7 @@
     "id": 26,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/stop-for-school-bus.jpg",
+    "image": "images/stop-for-school-bus.jpg",
     "options": [
       "Stop for a school bus with flashing signals",
       "School bus stop is ahead",
@@ -347,7 +347,7 @@
     "id": 27,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/stop-for-school-bus-both-directions.jpg",
+    "image": "images/stop-for-school-bus-both-directions.jpg",
     "options": [
       "Both directions stop for a school bus",
       "Only traffic behind the bus stops",
@@ -360,7 +360,7 @@
     "id": 28,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/lane-use.jpg",
+    "image": "images/lane-use.jpg",
     "options": [
       "Lane use",
       "All lanes turn left",
@@ -374,7 +374,7 @@
     "id": 29,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/one-way.jpg",
+    "image": "images/one-way.jpg",
     "options": [
       "Traffic travels in one direction only",
       "Right turn only from this road",
@@ -387,7 +387,7 @@
     "id": 30,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/pedestrian-crossover.jpg",
+    "image": "images/pedestrian-crossover.jpg",
     "options": [
       "School crossing guard ahead",
       "Pedestrians prohibited",
@@ -401,7 +401,7 @@
     "id": 31,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/two-way-left-turn-lane.jpg",
+    "image": "images/two-way-left-turn-lane.jpg",
     "options": [
       "Reversible lane",
       "Passing lane for both directions",
@@ -414,7 +414,7 @@
     "id": 32,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/accessible-pickup-zone.jpg",
+    "image": "images/accessible-pickup-zone.jpg",
     "options": [
       "Accessible pick-up and drop-off zone",
       "Hospital emergency parking only",
@@ -427,7 +427,7 @@
     "id": 33,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/bicycle-hov-lane.jpg",
+    "image": "images/bicycle-hov-lane.jpg",
     "options": [
       "Lanes reserved for certain vehicles",
       "Lanes closed to all traffic today",
@@ -440,7 +440,7 @@
     "id": 34,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/keep-right-except-passing.jpg",
+    "image": "images/keep-right-except-passing.jpg",
     "options": [
       "Keep right except when passing",
       "Slow traffic must stop at the side",
@@ -453,7 +453,7 @@
     "id": 35,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/yield-to-bus.jpg",
+    "image": "images/yield-to-bus.jpg",
     "options": [
       "Yield to a bus re-entering traffic",
       "This lane is for buses only",
@@ -466,7 +466,7 @@
     "id": 36,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/road-forks-right.jpg",
+    "image": "images/road-forks-right.jpg",
     "options": [
       "Road forks to the right",
       "Right lane ends",
@@ -479,7 +479,7 @@
     "id": 37,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/school-bus-loading-zone.jpg",
+    "image": "images/school-bus-loading-zone.jpg",
     "options": [
       "School bus loading zone",
       "No stopping for school buses",
@@ -492,7 +492,7 @@
     "id": 38,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/hov-lane.jpg",
+    "image": "images/hov-lane.jpg",
     "options": [
       "HOV lane for vehicles with enough people",
       "Lane for taxis and limousines only",
@@ -505,7 +505,7 @@
     "id": 39,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/do-not-cross-hov.jpg",
+    "image": "images/do-not-cross-hov.jpg",
     "options": [
       "No lane changes in or out of HOV lane",
       "The HOV lane ends here",
@@ -518,7 +518,7 @@
     "id": 40,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/narrow-bridge.jpg",
+    "image": "images/narrow-bridge.jpg",
     "options": [
       "Narrow bridge ahead",
       "Pavement narrows",
@@ -531,7 +531,7 @@
     "id": 41,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/road-branches.jpg",
+    "image": "images/road-branches.jpg",
     "options": [
       "Merging traffic ahead",
       "Road branching off ahead",
@@ -544,7 +544,7 @@
     "id": 42,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/intersection-ahead.jpg",
+    "image": "images/intersection-ahead.jpg",
     "options": [
       "Railway crossing ahead",
       "Roundabout ahead",
@@ -558,7 +558,7 @@
     "id": 43,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/roundabout.jpg",
+    "image": "images/roundabout.jpg",
     "options": [
       "Railway crossing ahead",
       "Traffic circle closed",
@@ -571,7 +571,7 @@
     "id": 44,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/hidden-sideroad.jpg",
+    "image": "images/hidden-sideroad.jpg",
     "options": [
       "Hidden sideroad ahead",
       "The road ends ahead",
@@ -584,7 +584,7 @@
     "id": 45,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/pavement-narrows.jpg",
+    "image": "images/pavement-narrows.jpg",
     "options": [
       "Road ends ahead",
       "Pavement narrows ahead",
@@ -597,7 +597,7 @@
     "id": 46,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/curve-right.jpg",
+    "image": "images/curve-right.jpg",
     "options": [
       "Slight curve ahead",
       "Winding road ahead",
@@ -610,7 +610,7 @@
     "id": 47,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/advisory-speed.jpg",
+    "image": "images/advisory-speed.jpg",
     "options": [
       "Maximum safe speed for the curve",
       "Maximum speed limit for the road",
@@ -623,7 +623,7 @@
     "id": 48,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/sharp-turn.jpg",
+    "image": "images/sharp-turn.jpg",
     "options": [
       "Sharp turn ahead",
       "Right turn only is ahead",
@@ -636,7 +636,7 @@
     "id": 49,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/chevron.jpg",
+    "image": "images/chevron.jpg",
     "options": [
       "Chevrons guide you around a sharp curve",
       "Right turn only ahead",
@@ -649,7 +649,7 @@
     "id": 50,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/winding-road.jpg",
+    "image": "images/winding-road.jpg",
     "options": [
       "Pavement narrows",
       "Lane shift ahead",
@@ -662,7 +662,7 @@
     "id": 51,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/bridge-lifts.jpg",
+    "image": "images/bridge-lifts.jpg",
     "options": [
       "Bridge lifts or swings for boats",
       "Low clearance bridge ahead",
@@ -675,7 +675,7 @@
     "id": 52,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/pavement-ends.jpg",
+    "image": "images/pavement-ends.jpg",
     "options": [
       "Paved surface ends ahead",
       "Construction zone ahead",
@@ -688,7 +688,7 @@
     "id": 53,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/bicycle-crossing.jpg",
+    "image": "images/bicycle-crossing.jpg",
     "options": [
       "Cyclists must dismount",
       "Bicycle crossing ahead",
@@ -701,7 +701,7 @@
     "id": 54,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/stop-sign-ahead.jpg",
+    "image": "images/stop-sign-ahead.jpg",
     "options": [
       "Do not enter",
       "Yield sign ahead",
@@ -715,7 +715,7 @@
     "id": 55,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/two-way-traffic.jpg",
+    "image": "images/two-way-traffic.jpg",
     "options": [
       "Oncoming traffic: share the road",
       "A divided highway begins ahead",
@@ -728,7 +728,7 @@
     "id": 56,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/slippery-when-wet.jpg",
+    "image": "images/slippery-when-wet.jpg",
     "options": [
       "Slippery when wet",
       "The road ahead is flooded",
@@ -742,7 +742,7 @@
     "id": 57,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/hazard-marker.jpg",
+    "image": "images/hazard-marker.jpg",
     "options": [
       "Road closed",
       "Hazard close to the edge of the road",
@@ -756,7 +756,7 @@
     "id": 58,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/divided-highway-begins.jpg",
+    "image": "images/divided-highway-begins.jpg",
     "options": [
       "Road splits into a one-way loop",
       "Two-way traffic ahead",
@@ -770,7 +770,7 @@
     "id": 59,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/right-lane-ends.jpg",
+    "image": "images/right-lane-ends.jpg",
     "options": [
       "Lane added on the right",
       "Keep right",
@@ -784,7 +784,7 @@
     "id": 60,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/traffic-lights-ahead.jpg",
+    "image": "images/traffic-lights-ahead.jpg",
     "options": [
       "Traffic lights ahead: slow down",
       "Stop sign ahead",
@@ -797,7 +797,7 @@
     "id": 61,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/steep-hill.jpg",
+    "image": "images/steep-hill.jpg",
     "options": [
       "Truck crossing ahead",
       "Steep hill ahead",
@@ -811,7 +811,7 @@
     "id": 62,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/merging-traffic.jpg",
+    "image": "images/merging-traffic.jpg",
     "options": [
       "Roads join into one: merge safely",
       "One lane ends ahead for you",
@@ -825,7 +825,7 @@
     "id": 63,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/snowmobile-crossing.jpg",
+    "image": "images/snowmobile-crossing.jpg",
     "options": [
       "Snowmobiles prohibited",
       "Winter road conditions",
@@ -838,7 +838,7 @@
     "id": 64,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/divided-highway-ends.jpg",
+    "image": "images/divided-highway-ends.jpg",
     "options": [
       "Divided highway ends",
       "One-way traffic ahead",
@@ -852,7 +852,7 @@
     "id": 65,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/underpass-clearance.jpg",
+    "image": "images/underpass-clearance.jpg",
     "options": [
       "Maximum vehicle width",
       "Underpass ahead",
@@ -866,7 +866,7 @@
     "id": 66,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/bump.jpg",
+    "image": "images/bump.jpg",
     "options": [
       "Speed bump ahead only",
       "Road ends ahead",
@@ -880,7 +880,7 @@
     "id": 67,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/railway-ahead.jpg",
+    "image": "images/railway-ahead.jpg",
     "options": [
       "Stop sign ahead",
       "Intersection ahead",
@@ -894,7 +894,7 @@
     "id": 68,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/sharp-turn-checkerboard.jpg",
+    "image": "images/sharp-turn-checkerboard.jpg",
     "options": [
       "Sharp turn in the arrow direction",
       "One-way traffic ahead of you",
@@ -908,7 +908,7 @@
     "id": 69,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/deer.jpg",
+    "image": "images/deer.jpg",
     "options": [
       "Zoo ahead",
       "Deer regularly cross this road",
@@ -922,7 +922,7 @@
     "id": 70,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/truck-entrance.jpg",
+    "image": "images/truck-entrance.jpg",
     "options": [
       "Truck entrance on the right",
       "Truck route only on this road",
@@ -935,7 +935,7 @@
     "id": 71,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/ramp-speed.jpg",
+    "image": "images/ramp-speed.jpg",
     "options": [
       "Minimum speed on the freeway",
       "The speed limit ends",
@@ -948,7 +948,7 @@
     "id": 72,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/pedestrians.jpg",
+    "image": "images/pedestrians.jpg",
     "options": [
       "Watch for pedestrians",
       "A pedestrian crossover ahead",
@@ -961,7 +961,7 @@
     "id": 73,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/falling-rock.jpg",
+    "image": "images/falling-rock.jpg",
     "options": [
       "Fallen rock may be on the road",
       "A gravel road is ahead",
@@ -974,7 +974,7 @@
     "id": 74,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/water-over-road.jpg",
+    "image": "images/water-over-road.jpg",
     "options": [
       "Water may flow over the road",
       "A bridge is ahead of you",
@@ -987,7 +987,7 @@
     "id": 75,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/hidden-school-bus-stop.jpg",
+    "image": "images/hidden-school-bus-stop.jpg",
     "options": [
       "School zone ends",
       "Pedestrian crossover ahead",
@@ -1001,7 +1001,7 @@
     "id": 76,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/bus-entrance.jpg",
+    "image": "images/bus-entrance.jpg",
     "options": [
       "Bus entrance on the right ahead",
       "A bus stop only is ahead",
@@ -1015,7 +1015,7 @@
     "id": 77,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/fire-truck-entrance.jpg",
+    "image": "images/fire-truck-entrance.jpg",
     "options": [
       "Emergency vehicles only lane",
       "Upcoming fire truck entrance on the right",
@@ -1029,7 +1029,7 @@
     "id": 78,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/school-crossing.jpg",
+    "image": "images/school-crossing.jpg",
     "options": [
       "School bus stop ahead",
       "Pedestrians prohibited",
@@ -1043,7 +1043,7 @@
     "id": 79,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/construction-1km.jpg",
+    "image": "images/construction-1km.jpg",
     "options": [
       "Detour in one kilometre",
       "Speed limit changes in one kilometre",
@@ -1056,7 +1056,7 @@
     "id": 80,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/road-work.jpg",
+    "image": "images/road-work.jpg",
     "options": [
       "Road work ahead",
       "Detour ahead",
@@ -1069,7 +1069,7 @@
     "id": 81,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/survey-crew.jpg",
+    "image": "images/survey-crew.jpg",
     "options": [
       "Police checkpoint ahead",
       "Survey crew working on the road ahead",
@@ -1082,7 +1082,7 @@
     "id": 82,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/traffic-control-person.jpg",
+    "image": "images/traffic-control-person.jpg",
     "options": [
       "Police checkpoint ahead",
       "Pedestrian crossing ahead",
@@ -1096,7 +1096,7 @@
     "id": 83,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/construction-zone-begins.jpg",
+    "image": "images/construction-zone-begins.jpg",
     "options": [
       "Entering a construction zone",
       "The speed limit doubles here",
@@ -1110,7 +1110,7 @@
     "id": 84,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/flashing-arrow.jpg",
+    "image": "images/flashing-arrow.jpg",
     "options": [
       "Flashing lights on the arrow show the direction to follow",
       "Stop and wait",
@@ -1123,7 +1123,7 @@
     "id": 85,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/milled-pavement.jpg",
+    "image": "images/milled-pavement.jpg",
     "options": [
       "Pavement has been milled or grooved",
       "A gravel surface is ahead",
@@ -1137,7 +1137,7 @@
     "id": 86,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/lane-closed-ahead.jpg",
+    "image": "images/lane-closed-ahead.jpg",
     "options": [
       "Lane closed ahead for road work",
       "An extra lane is added ahead",
@@ -1151,7 +1151,7 @@
     "id": 87,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/closed-lane-merge.jpg",
+    "image": "images/closed-lane-merge.jpg",
     "options": [
       "Lane ends in 1 km",
       "Detour to the right",
@@ -1165,7 +1165,7 @@
     "id": 88,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/pilot-vehicle.jpg",
+    "image": "images/pilot-vehicle.jpg",
     "options": [
       "Do not pass the pilot vehicle or pace vehicle bearing this sign",
       "Passing permitted when flashing",
@@ -1178,7 +1178,7 @@
     "id": 89,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/traffic-control-paddles.jpg",
+    "image": "images/traffic-control-paddles.jpg",
     "options": [
       "Reduce speed; be ready to stop",
       "A school crossing guard is ahead",
@@ -1191,7 +1191,7 @@
     "id": 90,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/detour-marker.jpg",
+    "image": "images/detour-marker.jpg",
     "options": [
       "Follow the detour marker",
       "Trucks must use this route only",
@@ -1204,7 +1204,7 @@
     "id": 91,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/speed-fines-doubled.jpg",
+    "image": "images/speed-fines-doubled.jpg",
     "options": [
       "Speeding fines are doubled",
       "The speed limit is doubled",
@@ -1217,7 +1217,7 @@
     "id": 92,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/airport.jpg",
+    "image": "images/airport.jpg",
     "options": [
       "Route to the airport",
       "Passenger rail station",
@@ -1230,7 +1230,7 @@
     "id": 93,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/rail-station.jpg",
+    "image": "images/rail-station.jpg",
     "options": [
       "Route to passenger rail station",
       "A railway crossing is ahead",
@@ -1243,7 +1243,7 @@
     "id": 94,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/accessible-facility.jpg",
+    "image": "images/accessible-facility.jpg",
     "options": [
       "Hospital ahead",
       "Parking reserved for taxis",
@@ -1256,7 +1256,7 @@
     "id": 95,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/slow-moving-vehicle.jpg",
+    "image": "images/slow-moving-vehicle.jpg",
     "options": [
       "Vehicle travels 40 km/h or less",
       "A road work vehicle is ahead",
@@ -1269,7 +1269,7 @@
     "id": 96,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/emergency-detour-route.jpg",
+    "image": "images/emergency-detour-route.jpg",
     "options": [
       "Detour when a highway is closed",
       "A permanent detour route",
@@ -1282,7 +1282,7 @@
     "id": 97,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/long-commercial-vehicle.jpg",
+    "image": "images/long-commercial-vehicle.jpg",
     "options": [
       "Long commercial vehicle (double trailer)",
       "An oversize load is ahead",
@@ -1295,7 +1295,7 @@
     "id": 98,
     "category": "road_signs",
     "question": "What does this traffic light mean?",
-    "image": "assets/images/light-green.jpg",
+    "image": "images/light-green.jpg",
     "options": [
       "Green: go if clear, yielding to others",
       "Green: stop and wait for traffic",
@@ -1308,7 +1308,7 @@
     "id": 99,
     "category": "road_signs",
     "question": "What does this traffic light mean?",
-    "image": "assets/images/light-yellow.jpg",
+    "image": "images/light-yellow.jpg",
     "options": [
       "Yellow: stop if you can do so safely",
       "Yellow: speed up to clear it",
@@ -1321,7 +1321,7 @@
     "id": 100,
     "category": "road_signs",
     "question": "What does this traffic light mean?",
-    "image": "assets/images/light-red.jpg",
+    "image": "images/light-red.jpg",
     "options": [
       "Red: stop and wait for green",
       "Red: stop only if cars approach",
@@ -1334,7 +1334,7 @@
     "id": 101,
     "category": "road_signs",
     "question": "What does this traffic light mean?",
-    "image": "assets/images/light-advance-green.jpg",
+    "image": "images/light-advance-green.jpg",
     "options": [
       "The light is malfunctioning",
       "Flashing green",
@@ -1348,7 +1348,7 @@
     "id": 102,
     "category": "road_signs",
     "question": "What does this traffic light mean?",
-    "image": "assets/images/light-simultaneous-left.jpg",
+    "image": "images/light-simultaneous-left.jpg",
     "options": [
       "Stop and wait for the arrow to turn off",
       "Turn left only if oncoming traffic is clear",
@@ -1362,7 +1362,7 @@
     "id": 103,
     "category": "road_signs",
     "question": "What does this traffic light mean?",
-    "image": "assets/images/light-yellow-arrow.jpg",
+    "image": "images/light-yellow-arrow.jpg",
     "options": [
       "Speed up and turn left",
       "The left-turn arrow is starting",
@@ -1376,7 +1376,7 @@
     "id": 104,
     "category": "road_signs",
     "question": "What does this traffic light mean?",
-    "image": "assets/images/light-flashing-red.jpg",
+    "image": "images/light-flashing-red.jpg",
     "options": [
       "Flashing red",
       "Yield to traffic on the right",
@@ -1390,7 +1390,7 @@
     "id": 105,
     "category": "road_signs",
     "question": "What does this traffic light mean?",
-    "image": "assets/images/light-flashing-yellow.jpg",
+    "image": "images/light-flashing-yellow.jpg",
     "options": [
       "Stop completely",
       "Flashing yellow",
@@ -1404,7 +1404,7 @@
     "id": 106,
     "category": "road_signs",
     "question": "What does this traffic light mean?",
-    "image": "assets/images/light-blank.jpg",
+    "image": "images/light-blank.jpg",
     "options": [
       "Proceed without stopping",
       "Only the main road must stop",
@@ -1418,7 +1418,7 @@
     "id": 107,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/beacon-flashing-red.jpg",
+    "image": "images/beacon-flashing-red.jpg",
     "options": [
       "Railway crossing ahead",
       "Yield to traffic on the right",
@@ -1432,7 +1432,7 @@
     "id": 108,
     "category": "road_signs",
     "question": "What does this sign mean?",
-    "image": "assets/images/beacon-flashing-yellow.jpg",
+    "image": "images/beacon-flashing-yellow.jpg",
     "options": [
       "Flashing yellow beacon",
       "Road closed",
@@ -1446,7 +1446,7 @@
     "id": 109,
     "category": "road_signs",
     "question": "What do these pedestrian signals mean? (left: white walking figure; right: orange hand)",
-    "image": "assets/images/pedestrian-signals.jpg",
+    "image": "images/pedestrian-signals.jpg",
     "options": [
       "Both mean pedestrians may cross",
       "The white figure means pedestrians may walk",
